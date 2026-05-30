@@ -6,196 +6,196 @@
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 131,470 · 🍴 9,004 · 📈 2,473 stars today",
+      "meta": "Python · ★ 131,530 · 🍴 9,010 · 📈 2,473 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "markitdown 是一个Python工具，能够将文件和办公文档转换为Markdown格式，解决了文档格式不统一的问题，方便用户在不同平台上使用。适合需要将文档内容在线编辑或发布的用户，尤其是技术文档编写者。"
+      "summary": "markitdown 是一个 Python 工具，用于将文件和办公文档转换为 Markdown 格式。这个项目方便用户将各类文档进行格式转换，从而在撰写和共享内容时更加灵活，尤其适合开发者和技术写作者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "excerpt": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "meta": "Python · ★ 71,486 · 🍴 10,268 · 📈 2,775 stars today",
+      "meta": "Python · ★ 71,525 · 🍴 10,270 · 📈 2,775 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "利用AI大模型，MoneyPrinterTurbo能够一键生成高清短视频，简化了短视频制作流程。适合内容创作者和营销人员使用，极大提升了视频制作的效率和质量。"
+      "summary": "MoneyPrinterTurbo 利用 AI 大模型，一键生成高清短视频，极大简化视频制作流程。适合需要快速生成宣传片或者短视频内容的创作者和企业，提供便捷的短视频生成解决方案。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 128,246 · 🍴 20,936 · 📈 595 stars today",
+      "meta": "Python · ★ 128,255 · 🍴 20,936 · 📈 595 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code 是一个智能编程工具，嵌入终端中，通过理解代码库来加速编码，具备执行常规任务和解释复杂代码的能力，适用于开发人员日常工作中的代码处理和Git工作流管理。"
+      "summary": "Claude Code 是一个智能编码工具，集成在终端中，能够理解代码库并帮助加快编码速度。它通过执行常规任务、解释复杂代码和处理 Git 工作流来提升开发效率，适合软件开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "cursor/plugins",
       "url": "https://github.com/cursor/plugins",
       "excerpt": "Cursor plugin specification and official plugins",
-      "meta": "TypeScript · ★ 1,395 · 🍴 115 · 📈 206 stars today",
+      "meta": "TypeScript · ★ 1,398 · 🍴 115 · 📈 206 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Cursor plugins 提供了插件规范和官方插件，扩展了Cursor的功能，方便开发者根据需求进行个性化定制，适合希望增强开发环境的程序员。"
+      "summary": "Cursor 插件规范及官方插件库，为使用 Cursor 的开发者提供扩展功能的支持。这个项目旨在增强 Cursor 的功能，让用户可以根据需求定制和安装插件，以提升工作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "excerpt": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "meta": "HTML · ★ 4,154 · 🍴 617 · 📈 313 stars today",
+      "meta": "HTML · ★ 4,159 · 🍴 617 · 📈 313 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Harness 是一个元技能平台，旨在设计特定领域的代理团队，定义专业代理，并生成所需技能。适合需要构建智能代理系统的开发人员和企业。"
+      "summary": "Harness 是一个元技能系统，专注于设计特定领域的智能代理团队，定义专用代理并生成所需技能。它适用于希望构建复杂系统的开发者，以简化开发和部署过程。"
     },
     {
       "sourceId": "github-trending",
       "title": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "excerpt": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "meta": "TypeScript · ★ 18,340 · 🍴 1,387 · 📈 348 stars today",
+      "meta": "TypeScript · ★ 18,346 · 🍴 1,387 · 📈 348 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Compound Engineering plugin 是Claude Code、Codex和Cursor的官方插件，旨在提升这些工具的功能和性能，适用于需要集成多种编码工具的开发人士。"
+      "summary": "该插件为 Claude Code、Codex 和 Cursor 提供官方支持，旨在扩展其功能，特别适合需要在复杂项目中提高开发效率的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "excerpt": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "meta": "JavaScript · ★ 199,059 · 🍴 30,566 · 📈 918 stars today",
+      "meta": "JavaScript · ★ 199,074 · 🍴 30,567 · 📈 918 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ECC 是一个代理性能优化系统，涵盖技能、直觉、记忆和安全性等方面，为Claude Code、Codex等工具提供开发支持，适合追求高效开发流程的团队。"
+      "summary": "ECC 是代理系统性能优化工具，涵盖技能、直觉、记忆和安全性，支持 Claude Code、Codex 和 Cursor。这个项目适合需要提升智能代理性能的开发者和AI研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "excerpt": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "meta": "Python · ★ 22,601 · 🍴 2,655 · 📈 1,815 stars today",
+      "meta": "Python · ★ 22,615 · 🍴 2,656 · 📈 1,815 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VoxCPM2 是一种多语言文本转语音（TTS）解决方案，无需分词，能够生成创意声音和真实语音克隆，适用于需要高质量语音合成的应用，如虚拟助手和内容创作。"
+      "summary": "VoxCPM2 是一个无分词的多语言文本转语音（TTS）系统，支持创造性声音设计及真实的语音克隆。适合需要高质量语音合成的开发者，尤其在多语言应用领域。"
     },
     {
       "sourceId": "github-trending",
       "title": "galilai-group/stable-worldmodel",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "excerpt": "A platform for reproducible world model research and evaluation",
-      "meta": "Python · ★ 1,394 · 🍴 162 · 📈 319 stars today",
+      "meta": "Python · ★ 1,397 · 🍴 162 · 📈 319 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Stable Worldmodel 是一个平台，用于可重复的世界模型研究和评估，支持研究人员构建和验证智能体模型，适合学术和工业界的研究者。"
+      "summary": "该项目为可重复的世界模型研究与评估平台，旨在支持相关领域的研究者进行实验与模型验证，非常适用于机器学习与人工智能研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "excerpt": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "meta": "TypeScript · ★ 27,202 · 🍴 2,669 · 📈 473 stars today",
+      "meta": "TypeScript · ★ 27,215 · 🍴 2,669 · 📈 473 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Project N.O.M.A.D 是一款自给自足的离线生存电脑，配备重要工具、知识和AI，能够随时随地为用户提供信息和支持，适合极限环境下的生存和应急需求。"
+      "summary": "Project N.O.M.A.D 是一个自给自足的离线生存计算机，内置关键工具和知识，帮助用户在任何环境中获得重要信息和支持。适合要求高的户外生存者和紧急情况下的使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "run-llama/liteparse",
       "url": "https://github.com/run-llama/liteparse",
       "excerpt": "A fast, helpful, and open-source document parser",
-      "meta": "Rust · ★ 7,748 · 🍴 459 · 📈 929 stars today",
+      "meta": "Rust · ★ 7,757 · 🍴 459 · 📈 929 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Liteparse 是一个快速、实用的开源文档解析器，为用户提供高效的文档数据提取功能，适合开发者和数据分析师用于处理各种文档格式。"
+      "summary": "Liteparse 是一个快速、实用的开源文档解析器，旨在简化文档处理流程。其高效性使得开发者能够快速提取和处理文档信息，提升工作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "chen08209/FlClash",
       "url": "https://github.com/chen08209/FlClash",
       "excerpt": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
-      "meta": "Dart · ★ 40,297 · 🍴 2,521 · 📈 190 stars today",
+      "meta": "Dart · ★ 40,303 · 🍴 2,521 · 📈 190 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "FlClash 是一款基于ClashMeta的多平台代理客户端，用户界面简单易用，保持开源和无广告，适合需要科学上网的用户。"
+      "summary": "FlClash 是一个基于 ClashMeta 的多平台代理客户端，简单易用，且为开源和无广告的选择。适合需要进行网络代理配置的用户，提供高透明的网络访问服务。"
     },
     {
       "sourceId": "github-trending",
       "title": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "excerpt": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "meta": "Jupyter Notebook · ★ 2,043 · 🍴 349 · 📈 316 stars today",
+      "meta": "Jupyter Notebook · ★ 2,054 · 🍴 349 · 📈 316 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一种简单的方法，从数据下载到生成文本，帮助用户搭建自己的大语言模型（LLM），适合对自然语言处理感兴趣的开发者。"
+      "summary": "该项目提供了一种简单的方法来训练大型语言模型（LLM），包括从下载数据到生成文本的全流程，适合希望从零开始学习自然语言处理的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
       "excerpt": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "meta": "Rust · ★ 68,599 · 🍴 9,138 · 📈 656 stars today",
+      "meta": "Rust · ★ 68,612 · 🍴 9,142 · 📈 656 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "RuView 利用商用WiFi信号实时生成空间智能、生命体征监测和存在检测，无需视频像素，适合需要隐私保护的监测应用场景。"
+      "summary": "RuView 利用 WiFi 信号获取实时空间智能、生命体征监测和存在检测，完全不依赖视频图像。适合需要无监控场景感知的智能家居或健康监测方案开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "DataTalksClub/data-engineering-zoomcamp",
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
       "excerpt": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
-      "meta": "Jupyter Notebook · ★ 41,714 · 🍴 8,281 · 📈 277 stars today",
+      "meta": "Jupyter Notebook · ★ 41,720 · 🍴 8,281 · 📈 277 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Data Engineering Zoomcamp 是一个免费的9周课程，教授构建生产级数据管道的知识，适合想要进入数据工程领域的学习者，下一期将于2026年1月开课。"
+      "summary": "Data Engineering Zoomcamp 是一个免费的九周课程，教授如何构建生产级数据管道，适合希望深入学习数据工程的个人，下一期课程将在2026年1月开始。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenMOSS/MOSS-TTS",
       "url": "https://github.com/OpenMOSS/MOSS-TTS",
       "excerpt": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental soun",
-      "meta": "Python · ★ 2,544 · 🍴 234 · 📈 355 stars today",
+      "meta": "Python · ★ 2,551 · 🍴 234 · 📈 355 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "MOSS-TTS 是一个开源语音和声音生成模型系列，旨在高保真、高表现力和复杂现实场景下的应用，适合需要高质量音频生成的开发者。"
+      "summary": "MOSS-TTS 是一个开源的语音和声音生成模型系列，旨在为复杂的实际场景提供高保真度和高表现力的生成效果，适合需要音频生成的开发者和内容创作者。"
     },
     {
       "sourceId": "github-trending",
       "title": "dreammis/social-auto-upload",
       "url": "https://github.com/dreammis/social-auto-upload",
       "excerpt": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
-      "meta": "Python · ★ 11,693 · 🍴 2,080 · 📈 141 stars today",
+      "meta": "Python · ★ 11,698 · 🍴 2,082 · 📈 141 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供自动化上传视频到多个社交媒体平台（如抖音、小红书、tiktok等）的功能，极大改善了内容创作者发布视频的效率。"
+      "summary": "该项目自动化上传视频到多个社交媒体平台，如抖音、小红书和 YouTube，旨在简化用户的社交媒体内容发布流程，非常适合内容创作者与社交媒体管理者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "excerpt": "Public repository for Agent Skills",
-      "meta": "Python · ★ 143,906 · 🍴 16,962 · 📈 945 stars today",
+      "meta": "Python · ★ 143,924 · 🍴 16,962 · 📈 945 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该仓库是Agent Skills的公共库，旨在存储和分享多种代理技能，适合开发智能应用的研究者和开发者。"
+      "summary": "该项目是一个公共库，专用于代理技能的开发与共享，适合希望构建和增强智能代理功能的开发者，提供共享技术资源。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 507,841 · 🍴 48,224 · 📈 814 stars today",
+      "meta": "Markdown · ★ 507,854 · 🍴 48,225 · 📈 814 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "build-your-own-x 项目通过重建自己喜欢的技术，帮助用户掌握编程技能，适合希望深入了解技术原理的学习者和开发者。"
+      "summary": "Build Your Own X 项目提供了一种通过从头构建技术的方式掌握编程的机会，适合编程学习者与开发者，通过实践提升技术能力。"
     },
     {
       "sourceId": "v2ex-hot",
       "title": "大佬们 vibe coding 的项目怎么样了",
       "url": "https://www.v2ex.com/t/1216679",
-      "excerpt": "36 回复 · 程序员 节点",
+      "excerpt": "37 回复 · 程序员 节点",
       "publishedAt": "2026-05-30T09:17:45.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -303,7 +303,7 @@
       "sourceId": "v2ex-hot",
       "title": "Claude Code 团队计划，非中转站",
       "url": "https://www.v2ex.com/t/1216680",
-      "excerpt": "9 回复 · 程序员 节点",
+      "excerpt": "10 回复 · 程序员 节点",
       "publishedAt": "2026-05-30T09:18:11.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -420,7 +420,7 @@
       "sourceId": "linuxdo",
       "title": "『君の公益』 上线 claude-4-8",
       "url": "https://linux.do/t/topic/2273939",
-      "excerpt": "君の公益 很简单，就是开放了,我担心会挤爆服务器，先开放试试，真坏了我再修 祝大家天天开心鸭 学AI，上L站 129 个帖子 - 109 位参与者 阅读完整话题",
+      "excerpt": "君の公益 很简单，就是开放了,我担心会挤爆服务器，先开放试试，真坏了我再修 祝大家天天开心鸭 学AI，上L站 133 个帖子 - 112 位参与者 阅读完整话题",
       "publishedAt": "2026-05-30T08:30:54.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -445,10 +445,10 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "是否应该考虑“非必要不举报”和“举报有CD\"规则",
-      "url": "https://linux.do/t/topic/2274280",
-      "excerpt": "这些话其实很早就想说了，今天看到这个实在绷不住了，导火索： 被小米MIMO反薅了六千多！哭了，求助 国产替代 我真的很难想到举报这个帖子应该选择哪个理由？违规推广？广告？ 还有其余很多（我认为很）奇葩大量举报例子在此不一一列举，先抛出我认为目前存在的问题： 现在的举报功能在部分佬友手里，已经成为了党同伐异和蹭ldc的工具。我看你发言不爽就举报你，有枣没枣打一杆子，万一成了呢？ 先说明下，我非常认同任何人都有举报，提建议，向管理发声的机会，也知道始皇说过无效举报多了可能会有措施。但根据目前论坛的实际情况观察来看，似乎并没有影响部分成员“想举报就举报”的现象。同时由于论坛人口基数和帖子数量的增长，",
-      "publishedAt": "2026-05-30T09:38:29.000Z",
+      "title": "【CHY公益站】GPT模型恢复！",
+      "url": "https://linux.do/t/topic/2275284",
+      "excerpt": "捣鼓一下午终于搞定了，CHY公益站GPT系列模型，恢复！ 24 个帖子 - 23 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-30T13:13:04.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -465,17 +465,8 @@
       "sourceId": "linuxdo",
       "title": "关于Gopay渠道注册机的问题真的无语，已经被传的到处都是了",
       "url": "https://linux.do/t/topic/2274242",
-      "excerpt": "自从paypal渠道死了以后，gopay渠道又开始疯狂了，现在gopay注册机传的到处都是，3级贴也没啥用，传到几千几万人的大群，又再次被传，最后一点希望都不给？研究这个干什么呢？ 我只是个人用，没卖过，能不能给个人玩家一点活路，一定要卷到大家都没得用为止？真的太恶心了，现在的人已经把后面的人路堵死了，还要把未来的路也都堵死？我真想骂人 56 个帖子 - 43 位参与者 阅读完整话题",
+      "excerpt": "自从paypal渠道死了以后，gopay渠道又开始疯狂了，现在gopay注册机传的到处都是，3级贴也没啥用，传到几千几万人的大群，又再次被传，最后一点希望都不给？研究这个干什么呢？ 我只是个人用，没卖过，能不能给个人玩家一点活路，一定要卷到大家都没得用为止？真的太恶心了，现在的人已经把后面的人路堵死了，还要把未来的路也都堵死？我真想骂人 55 个帖子 - 43 位参与者 阅读完整话题",
       "publishedAt": "2026-05-30T09:30:00.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
-      "title": "【CHY公益站】GPT模型恢复！",
-      "url": "https://linux.do/t/topic/2275284",
-      "excerpt": "捣鼓一下午终于搞定了，CHY公益站GPT系列模型，恢复！ 23 个帖子 - 22 位参与者 阅读完整话题",
-      "publishedAt": "2026-05-30T13:13:04.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -490,9 +481,27 @@
     },
     {
       "sourceId": "linuxdo",
+      "title": "CPA触发401的观察分析",
+      "url": "https://linux.do/t/topic/2273420",
+      "excerpt": "前几天用CPA在一个账号触发限额后，在同一个会话里继续请求，请求到其他账号后全部401。 当时认为是日常风控，今天继续触发，同样是会话里达到限额，然后同一会话内请求其他账号凭证，这些账号凭证可以成功请求1~2次，然后马上401症状一模一样。 我怀疑限额的会话ID已经被风控了，任何其他账号请求到该会话的，都会被风控。 而且我发现不知道从什么时候开始，~/.codex下面多了个installation_id 37 个帖子 - 31 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-30T06:33:42.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
+      "title": "我去，校园活捉佬友",
+      "url": "https://linux.do/t/topic/2274955",
+      "excerpt": "黑暗中的战服还是太耀眼了 15 个帖子 - 11 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-30T12:17:52.000Z",
+      "category": "tech",
+      "source": "LinuxDo"
+    },
+    {
+      "sourceId": "linuxdo",
       "title": "永远不要和女生吵架 因为...",
       "url": "https://linux.do/t/topic/2274046",
-      "excerpt": "永远不要和女生吵架 因为无论你多有道理 她都能归结为你态度不好… 永远不要和女生吵架 因为... 搞七捻三 31 个帖子 - 29 位参与者 阅读完整话题",
+      "excerpt": "永远不要和女生吵架 因为无论你多有道理 她都能归结为你态度不好… 永远不要和女生吵架 因为... 搞七捻三 34 个帖子 - 32 位参与者 阅读完整话题",
       "publishedAt": "2026-05-30T08:53:20.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -544,15 +553,6 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "CPA触发401的观察分析",
-      "url": "https://linux.do/t/topic/2273420",
-      "excerpt": "前几天用CPA在一个账号触发限额后，在同一个会话里继续请求，请求到其他账号后全部401。 当时认为是日常风控，今天继续触发，同样是会话里达到限额，然后同一会话内请求其他账号凭证，这些账号凭证可以成功请求1~2次，然后马上401症状一模一样。 我怀疑限额的会话ID已经被风控了，任何其他账号请求到该会话的，都会被风控。 而且我发现不知道从什么时候开始，~/.codex下面多了个installation_id 36 个帖子 - 30 位参与者 阅读完整话题",
-      "publishedAt": "2026-05-30T06:33:42.000Z",
-      "category": "tech",
-      "source": "LinuxDo"
-    },
-    {
-      "sourceId": "linuxdo",
       "title": "gpt5.5 AI搓出来的在线影视",
       "url": "https://linux.do/t/topic/2272828",
       "excerpt": "Mac风格的web页面样式 完整的功能 UI prompt 在整理了 喂给AI 就能生产差不多的ui样式 1m小鸡 速度慢 这个是真的慢 点击查看 (无法访问 关掉v 试试 ) 上个版本搓的音乐 ： 纯AI搓了一个在线音乐 - 资源荟萃 - LINUX DO 34 个帖子 - 21 位参与者 阅读完整话题",
@@ -571,19 +571,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "AI的泡沫谁去戳破？睡前杂谈",
-      "url": "https://linux.do/t/topic/2271483",
-      "excerpt": "AI就是赛博界的“外卖大战”吗？ 我最近看到了polymarket上一个很有意思的预测：AI bubble burst in 2026？ 投Yes的资金竟然有28% 结合平时一些AI上的实际应用，我一直在思考一个问题： AI提高了我的生产效率吗？ 毫无疑问，一些本来要几个月才能干完的事儿，Claude一晚上就给我干完了。 AI为我创造价值了吗？ 暂时来说，并没有。不光我没有，绝大多数人都没有。 把AI包装成服务，或者简单把Token做成一笔买卖，这些行当或许能捞上一笔。 只是，我们真的能借助它额外创造什么价值吗？ 绝大多数人，只是把AI当成赛博牛马，干那些费神费力的苦力活。 每天就是想着怎么让",
-      "publishedAt": "2026-05-29T17:07:28.000Z",
+      "title": "在tg上买号被骗了550u，以此为教训，小便宜贪不得",
+      "url": "https://linux.do/t/topic/2271435",
+      "excerpt": "之前在tg找了个号商，可以低价买一个claude max 20x ，用着还可以，同事一起说买10个，结果付钱跑路了，贪小便宜要不得 22 个帖子 - 21 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-29T16:56:04.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "在tg上买号被骗了550u，以此为教训，小便宜贪不得",
-      "url": "https://linux.do/t/topic/2271435",
-      "excerpt": "之前在tg找了个号商，可以低价买一个claude max 20x ，用着还可以，同事一起说买10个，结果付钱跑路了，贪小便宜要不得 22 个帖子 - 21 位参与者 阅读完整话题",
-      "publishedAt": "2026-05-29T16:56:04.000Z",
+      "title": "AI的泡沫谁去戳破？睡前杂谈",
+      "url": "https://linux.do/t/topic/2271483",
+      "excerpt": "AI就是赛博界的“外卖大战”吗？ 我最近看到了polymarket上一个很有意思的预测：AI bubble burst in 2026？ 投Yes的资金竟然有28% 结合平时一些AI上的实际应用，我一直在思考一个问题： AI提高了我的生产效率吗？ 毫无疑问，一些本来要几个月才能干完的事儿，Claude一晚上就给我干完了。 AI为我创造价值了吗？ 暂时来说，并没有。不光我没有，绝大多数人都没有。 把AI包装成服务，或者简单把Token做成一笔买卖，这些行当或许能捞上一笔。 只是，我们真的能借助它额外创造什么价值吗？ 绝大多数人，只是把AI当成赛博牛马，干那些费神费力的苦力活。 每天就是想着怎么让",
+      "publishedAt": "2026-05-29T17:07:28.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -625,19 +625,19 @@
     },
     {
       "sourceId": "linuxdo",
-      "title": "敖厂长这就回来了？还一堆人表示原谅",
-      "url": "https://linux.do/t/topic/2272155",
-      "excerpt": "所以互联网确实是没有记忆的是么…这也能回来… 71 个帖子 - 62 位参与者 阅读完整话题",
-      "publishedAt": "2026-05-30T01:32:58.000Z",
+      "title": "看得出来美团在用ai写代码了",
+      "url": "https://linux.do/t/topic/2274453",
+      "excerpt": "这平时前端写多了，看啥网页都是浓浓的ai味，美团也是ai写完直接用 14 个帖子 - 11 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-30T10:13:42.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
     {
       "sourceId": "linuxdo",
-      "title": "【已无】【CHY公益站】第一波补充额度",
-      "url": "https://linux.do/t/topic/2274426",
-      "excerpt": "GPT的注册机已经搓成，正在搓号池和2api（没AI手搓是真慢啊） 补充额度：1千e*100 LINUX DO CDK 现在有很多佬友在喷我，我都看了，今后会更加努力的维护站点 已无，等下一波 23 个帖子 - 22 位参与者 阅读完整话题",
-      "publishedAt": "2026-05-30T10:06:33.000Z",
+      "title": "敖厂长这就回来了？还一堆人表示原谅",
+      "url": "https://linux.do/t/topic/2272155",
+      "excerpt": "所以互联网确实是没有记忆的是么…这也能回来… 71 个帖子 - 62 位参与者 阅读完整话题",
+      "publishedAt": "2026-05-30T01:32:58.000Z",
       "category": "tech",
       "source": "LinuxDo"
     },
@@ -649,7 +649,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "波士顿儿童医院利用OpenAI技术改善患者护理，减轻运营负担，并帮助诊断超过40例罕见疾病。"
+      "summary": "波士顿儿童医院利用 OpenAI 技术改善病人护理，减轻运营负担，并帮助诊断超过 40 种罕见疾病。"
     },
     {
       "sourceId": "openai-news",
@@ -659,7 +659,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Braintrust工程师使用Codex和GPT-5.5，快速执行实验和编写代码。"
+      "summary": "Braintrust 工程师使用 Codex 和 GPT-5.5，提升实验和编码的效率与速度。"
     },
     {
       "sourceId": "openai-news",
@@ -669,7 +669,7 @@
       "publishedAt": "2026-05-29T03:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Rosalind Biodefense，向经过审核的开发者和美国政府合作伙伴提供GPT-Rosalind的可信访问，以增强生物防御和公共卫生的能力。"
+      "summary": "OpenAI推出 Rosalind Biodefense，向受信开发者和美国政府合作伙伴拓展 GPT-Rosalind 的应用，推动生物防御和公共卫生的进步。"
     },
     {
       "sourceId": "openai-news",
@@ -679,7 +679,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI分享了关于第三方AI评估的指导，涵盖了评估模型能力、保障措施和有效性的方法。"
+      "summary": "OpenAI 分享了有关第三方 AI 评估的指导，涵盖如何评估模型能力、安全性和有效性。"
     },
     {
       "sourceId": "openai-news",
@@ -689,7 +689,7 @@
       "publishedAt": "2026-05-28T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Endava如何利用Codex构建一个高效的组织，加速软件交付，将需求分析的时间从几周缩短至几个小时。"
+      "summary": "Endava 利用 Codex 构建了自主组织，显著加快软件交付，将需求分析从数周缩短至数小时。"
     },
     {
       "sourceId": "openai-news",
@@ -1194,7 +1194,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "PyTorch中的Profiling（第一部分）：torch.profiler初学者指南。"
+      "summary": "本文提供了 PyTorch 中 torch.profiler 的入门指南，帮助开发者进行性能分析。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1465,7 +1465,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Anthropic在965亿美元估值的背景下介绍了Opus 4.8。"
+      "summary": "Anthropic 的 Opus 4.8 发布，当前估值达到 965 亿美元，微软也在增强其编码模型。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1646,7 +1646,7 @@
       "publishedAt": "2026-05-29T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Anthropic推出了Claude Opus 4.8，尽管取得了一定进展，但在基准测试中结果不一，包括文档解析方面的一些回归。"
+      "summary": "Anthropic 发布了 Claude Opus 4.8，虽然展示了一些微小的改进，但基准结果好坏参半，其中合作与编码行为有所提升，但文档解析存在退步。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1656,7 +1656,7 @@
       "publishedAt": "2026-05-28T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Anthropic宣布完成650亿美元的H轮融资，估值达到965亿美元，推出Claude Opus 4.8及动态工作流。"
+      "summary": "Anthropic 宣布筹集 650 亿美元的系列 H 融资，估值达到 965 亿美元，营收增速超过 470 亿美元，同时推出了升级版的 Opus 4.8。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1918,7 +1918,7 @@
       "publishedAt": "2026-05-30T01:57:15.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AINews在新的一天中，重点突出了新的AIE WF（工作焦点）。"
+      "summary": "AINews 介绍了新成立的 AIE WF，目前处于安静的发展阶段，重点关注新技术的应用与发展。"
     },
     {
       "sourceId": "latent-space",
@@ -1928,7 +1928,7 @@
       "publishedAt": "2026-05-29T02:07:24.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic完成965亿美元H轮融资，并发布了Opus 4.8及动态工作流和超代码。"
+      "summary": "Anthropic 成功融资 965 亿美元系列 H，近期发布了 Opus 4.8 和动态工作流/超编码创新。"
     },
     {
       "sourceId": "latent-space",
@@ -1938,7 +1938,7 @@
       "publishedAt": "2026-05-28T18:41:24.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cognition的Walden Yan和OpenInspect的Cole Murray讨论了异步代理的新时代。"
+      "summary": "Cognition 与 OpenInspect 的领导者讨论了异步代理的时代，涵盖了代码提交、工作流程及更多技术细节。"
     },
     {
       "sourceId": "latent-space",
@@ -1948,7 +1948,7 @@
       "publishedAt": "2026-05-28T07:26:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cognition在其26亿美元D轮融资中筹集了10亿美元，表明编码市场的潜力无上限。"
+      "summary": "Cognition 完成 26 亿美元系列 D 轮融资，筹集 10 亿美元，进一步扩展其在编程市场的无上限潜力。"
     },
     {
       "sourceId": "latent-space",
@@ -2102,7 +2102,7 @@
       "publishedAt": "2026-05-29T10:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "教皇利奥十四世关于人工智能的新法令《Magnifica Humanitas》强调了技术并非中立的重要性，呼吁人们勇敢面对AI时代。"
+      "summary": "教皇利奥十四世的新通谕提到“科技从来不是中立的”，进而呼吁人们勇敢应对人工智能带来的挑战。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2112,7 +2112,7 @@
       "publishedAt": "2026-05-28T09:51:11.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "在毕业季，前谷歌首席执行官埃里克·施密特在亚利桑那大学的演讲中，呼吁毕业生帮助塑造AI，却遭遇了观众的嘘声。"
+      "summary": "在毕业季，前谷歌 CEO 埃里克·施密特对 2026 届学生的发言遭到嘘声，引发人们对人工智能未来的广泛讨论。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2194,7 +2194,7 @@
       "publishedAt": "2026-05-30T15:28:48.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "格兰布林州立大学校长马丁·莱梅尔博士表示，他将管理学校视为一种企业活动。"
+      "summary": "格兰布林州立大学校长马丁·莱梅尔博士表示，他将管理大学视为一种企业运作，强调学校的重要性和战略发展。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2204,7 +2204,7 @@
       "publishedAt": "2026-05-30T14:12:53.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "泰国在课堂中使用拼字游戏促进学习，自1980年代以来迅速发展，优秀选手可获得经济资助和大学入学优势。"
+      "summary": "泰国在拼字游戏国际大赛中表现突出，自1980年代以来，拼字游戏成为了学校的重要教学工具，优秀选手可获得大学入学的优先权和财政支持。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2214,7 +2214,7 @@
       "publishedAt": "2026-05-30T14:03:33.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "AI数据中心的建设吸引了数万亿美元投资，但当地居民对电力成本和水资源问题表示担忧。"
+      "summary": "AI数据中心建设吸引了数万亿美元的投资，但当地居民对电力成本和水资源的担忧愈发加剧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2224,7 +2224,7 @@
       "publishedAt": "2026-05-30T13:50:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "埃博拉疫情导致旅行限制和边境封闭，使得救援工作困难。前疾病控制中心主任汤姆·弗里登博士对此表示关注。"
+      "summary": "埃博拉疫情严重影响了全球公共卫生，旅行限制和边界关闭使救援人员难以抵达疫情最严重的地区。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2234,7 +2234,7 @@
       "publishedAt": "2026-05-30T13:39:16.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国国防部长皮特·赫格塞斯赞扬亚洲盟国，并提到与中国关系新稳定，同时批评欧洲老牌安全伙伴。"
+      "summary": "美国国防部长皮特·赫格塞斯称赞亚洲的防御盟友，并对与中国的稳定关系表示欢迎，批评了欧洲的安全合作伙伴。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2244,7 +2244,7 @@
       "publishedAt": "2026-05-30T13:30:59.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "当阿尔伯特·曼尼福德被任命为BP主席时，他开玩笑表示公司需要一个“战斗高手”来扭转局面。"
+      "summary": "BP公司主席阿尔伯特·马尼福德被认为需要一位能改变公司命运的“斗士”，以应对公司面临的重大挑战。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2254,7 +2254,7 @@
       "publishedAt": "2026-05-30T13:25:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "白宫迅速废除规定的计划未能如愿，过去一年中仅有少量规则通过行政快捷方式被删除。"
+      "summary": "白宫迅速撤销法规的计划未能成功，过去一年仅通过行政快捷方法废除了少量规则。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2264,7 +2264,7 @@
       "publishedAt": "2026-05-30T13:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "戴尔、诺基亚和联想等曾经的科技龙头因人工智能的推动重新焕发活力，市值上涨达1.7万亿美元。"
+      "summary": "随着人工智能的推进，戴尔科技、诺基亚和联想等曾经的科技明星重新焕发活力，推动了1.7万亿美元的市场反弹。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2283,7 +2283,7 @@
       "publishedAt": "2026-05-30T12:24:56.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美国国防部长皮特·赫格塞斯重申对亚洲盟国的支持，并对北约提出批评。"
+      "summary": "美国国防部长皮特·赫格塞斯重申对亚洲盟友的支持，并对北约提出批评，强调与中国关系的稳定。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2293,7 +2293,7 @@
       "publishedAt": "2026-05-30T12:03:29.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "英国的政治不确定性加剧，导致投资者关注财政前景和上升的政府借款成本。"
+      "summary": "英国的政治不确定性加剧，投资者日益关注财政前景和政府借贷成本上升的问题。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2303,7 +2303,7 @@
       "publishedAt": "2026-05-30T12:00:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "铝行业面临压力，而波兰在此背景下不断向前发展。"
+      "summary": "铝价面临压力，而波兰在推动铝业发展方面表现突出，需时恢复该行业。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2313,7 +2313,7 @@
       "publishedAt": "2026-05-30T11:35:21.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "韩国汉华航空正在加大武器生产，并扩展在欧洲和美国的业务。"
+      "summary": "韩国汉华航空公司正在扩大武器制造业务，并加强与欧洲和美国的合作，在香格里拉对话会上进行展示。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -3424,31 +3424,22 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-      "publishedAt": "2026-05-30T13:34:57.000Z",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "publishedAt": "2026-05-30T12:16:26.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "publishedAt": "2026-05-30T15:39:12.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国国防部长在新加坡的亚洲安全峰会上表示，美国不会“回头”，但期望盟友增强防务能力，包括进一步的军售。"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "publishedAt": "2026-05-29T21:40:45.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
-      "publishedAt": "2026-05-29T17:27:09.000Z",
-      "category": "politics",
-      "source": "BBC World"
+      "summary": "由于安全问题，意大利当局禁止坎耶·韦斯特和特拉维斯·斯科特的音乐会，取消其他相关演出被认为是决策的原因之一。"
     },
     {
       "sourceId": "bbc-world",
@@ -3479,12 +3470,22 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "US, UK and Australia to develop underwater drone technology",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-      "publishedAt": "2026-05-30T12:16:26.000Z",
+      "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
+      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
+      "publishedAt": "2026-05-30T01:49:39.000Z",
       "category": "politics",
       "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
+      "publishedAt": "2026-05-30T13:34:57.000Z",
+      "category": "politics",
+      "source": "BBC World",
+      "summary": "美国国防部长在新加坡的亚洲安全峰会上表示，美国不会在亚洲盟友问题上“回头”，并期待盟国加强防卫能力。"
     },
     {
       "sourceId": "bbc-world",
@@ -3497,19 +3498,28 @@
     },
     {
       "sourceId": "bbc-world",
-      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
-      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
-      "publishedAt": "2026-05-29T10:38:46.000Z",
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+      "publishedAt": "2026-05-29T21:40:45.000Z",
       "category": "politics",
       "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
-      "title": "Ex-US attorney general defends Epstein files handling in congressional probe",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "excerpt": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "publishedAt": "2026-05-30T01:49:39.000Z",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
+      "publishedAt": "2026-05-29T17:27:09.000Z",
+      "category": "politics",
+      "source": "BBC World"
+    },
+    {
+      "sourceId": "bbc-world",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "excerpt": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "publishedAt": "2026-05-29T10:38:46.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3672,15 +3682,6 @@
       "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
       "excerpt": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
       "publishedAt": "2026-05-29T03:02:48.000Z",
-      "category": "politics",
-      "source": "BBC World"
-    },
-    {
-      "sourceId": "bbc-world",
-      "title": "How did this novel about food win a Booker Prize this year?",
-      "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
-      "excerpt": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
-      "publishedAt": "2026-05-28T22:48:45.000Z",
       "category": "politics",
       "source": "BBC World"
     },
@@ -3872,7 +3873,7 @@
       "publishedAt": "2026-05-30T13:00:20.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "专家指出，人工智能公司与梵蒂冈的合作可能会导致快乐的对话缺乏批判性审视，特别是在教皇警告人工智能时，公司的创始人曾与教皇同坐。"
+      "summary": "人工智能公司Anthropic与教廷的合作引起争议，专家担心这种参与可能造成缺乏批判性审视的无害话语。"
     },
     {
       "sourceId": "guardian-world",
@@ -3960,9 +3961,10 @@
       "title": "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It",
       "url": "https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html",
       "excerpt": "A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.",
-      "publishedAt": "2026-05-30T10:53:36.000Z",
+      "publishedAt": "2026-05-30T15:39:23.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "刚果的一座偏远金矿城镇正遭受埃博拉病毒的猛烈袭击，医疗工作者面临死亡和感染激增的挑战。"
     },
     {
       "sourceId": "nyt-world",
@@ -3981,7 +3983,7 @@
       "publishedAt": "2026-05-30T14:56:59.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "在罗马尼亚东部，一架无人机坠毁在一栋公寓楼，居民们意识到俄罗斯与乌克兰之间的战争对邻国构成的威胁。"
+      "summary": "一架无人机在罗马尼亚东部一栋公寓楼内坠毁，提醒居民俄罗斯-乌克兰战争所带来的邻国危险。"
     },
     {
       "sourceId": "nyt-world",
@@ -4006,10 +4008,20 @@
       "title": "As Trump Mulls Decision About Iran War Deal, the Middle East Remains on Edge",
       "url": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html",
       "excerpt": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a “final determination” soon.",
-      "publishedAt": "2026-05-30T13:23:50.000Z",
+      "publishedAt": "2026-05-30T15:45:39.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普总统仍在考虑与伊朗达成停战协议的问题，他于周五表示将很快做出“最终决定”。"
+      "summary": "特朗普总统正在考虑与伊朗达成和平协议以结束战争，但尚未做出最终决定，他承诺将很快做出“最终判定”。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "What to Know About the Ebola Outbreak",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
+      "excerpt": "Aid agencies are racing to help underequipped health workers in the Democratic Republic of Congo. More than 245 people are now suspected to have died from the virus.",
+      "publishedAt": "2026-05-30T15:20:25.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "援助机构正在全力帮助刚果的医疗工作者，目前已有245人疑似因埃博拉病毒死亡。"
     },
     {
       "sourceId": "nyt-world",
@@ -4076,22 +4088,12 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
-      "excerpt": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
-      "publishedAt": "2026-05-30T01:24:33.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
       "title": "What I Saw Inside an Ebola Ward",
       "url": "https://www.nytimes.com/video/world/africa/100000010929380/what-i-saw-inside-an-ebola-ward.html",
       "excerpt": "Our chief Africa correspondent, Declan Walsh, walked inside an Ebola ward where both adults and children were being treated, and where someone had recently died of the disease amid a spiraling outbreak in the region. This is what he saw.",
       "publishedAt": "2026-05-30T12:40:15.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "《纽约时报》非洲首席记者走访埃博拉病房，报告说在疫情暴发区域，成人与儿童都在接受治疗，且最近有患者去世。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4119,7 +4121,7 @@
       "publishedAt": "2026-05-30T14:45:24.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "一款由新不伦瑞克省制造并主要由省政府资助的运动轿车在市场上只持续了18个月，凸显出特朗普通关税的潜在风险。"
+      "summary": "新不伦瑞克省一款由省政府资助的运动轿车仅维持了约18个月，暴露出特朗普关税对汽车产业的风险。"
     },
     {
       "sourceId": "nyt-world",
@@ -4213,19 +4215,19 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "One of Five Gold Miners Is Rescued From Laos Cave After More Than a Week",
-      "url": "https://www.nytimes.com/2026/05/29/world/asia/laos-cave-rescue.html",
-      "excerpt": "An international effort to free the trapped men brought attention to the country’s informal mines, where panning for gold can pay more than minimum wage.",
-      "publishedAt": "2026-05-29T20:51:28.000Z",
+      "title": "After Orban’s Defeat, Hungary Is Poised to Get Billions From E.U.",
+      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
+      "excerpt": "The European Union is set to release 16 billion euros it had withheld, as Hungary moves to enact anti-corruption and rule of law policies.",
+      "publishedAt": "2026-05-30T01:24:33.000Z",
       "category": "politics",
       "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
-      "title": "Romania Says It Could Invoke NATO’s Article 4. What Would That Do?",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/nato-article-4-romania-russia.html",
-      "excerpt": "The clause in NATO’s founding treaty is an “instrument” Romania can use, the foreign minister said after a drone, alleged to be Russian, wounded two civilians.",
-      "publishedAt": "2026-05-29T17:23:07.000Z",
+      "title": "One of Five Gold Miners Is Rescued From Laos Cave After More Than a Week",
+      "url": "https://www.nytimes.com/2026/05/29/world/asia/laos-cave-rescue.html",
+      "excerpt": "An international effort to free the trapped men brought attention to the country’s informal mines, where panning for gold can pay more than minimum wage.",
+      "publishedAt": "2026-05-29T20:51:28.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4327,7 +4329,7 @@
       "publishedAt": "2026-05-30T14:20:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "美英澳三国在新加坡宣布共同开发无人水下载具的先进技术，这被视为加强三国军事科技合作及提升印太安全的重要步骤。"
+      "summary": "美英澳三国在新加坡宣布联合开发无人水下载具的先进技术，这是加强三方军事合作的重要一步。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4337,7 +4339,7 @@
       "publishedAt": "2026-05-30T13:56:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "菲律宾国防部长吉尔伯托·特奥多罗表示，尽管美中关系有所缓和，菲律宾仍面临来自中国的“严重威胁”。"
+      "summary": "菲律宾国防部长吉尔伯托·特奥多罗表示，尽管美中关系趋于缓和，菲律宾仍面临来自中国的严重安全威胁。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4593,13 +4595,23 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Senior Sri Lankan monk suspended over child sex abuse allegation",
+      "url": "https://www.aljazeera.com/news/2026/5/30/senior-sri-lankan-monk-suspended-over-child-sex-abuse-allegation?traffic_source=rss",
+      "excerpt": "Pallegama Hemarathana is accused of abusing an 11-year-old girl in a Buddhist temple in 2022.",
+      "publishedAt": "2026-05-30T15:26:35.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "斯里兰卡高层僧侣帕勒加马·赫玛拉塔纳因涉嫌在佛教寺庙内对一名11岁女孩实施性侵而被暂时停职。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Rescuers free four more men from flooded Laos cave, two still missing",
       "url": "https://www.aljazeera.com/news/2026/5/30/rescuers-free-four-more-men-from-flooded-laos-cave-two-still-missing?traffic_source=rss",
       "excerpt": "Five of seven men who entered cave seeking gold are now out after being trapped for 10 days.",
       "publishedAt": "2026-05-30T14:53:35.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "在老挝，一支救援队成功救出七名寻金男子中的五人，这些人被困在洞内长达10天，目前仍有两人失踪。"
+      "summary": "在老挝，一个金矿洞穴中被困的七名男子中，已有五人成功获救，仍有两人失踪，救援持续进行。"
     },
     {
       "sourceId": "aljazeera",
@@ -4609,7 +4621,7 @@
       "publishedAt": "2026-05-30T14:11:35.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "一辆载有从巴基斯坦返回的阿富汗家庭的卡车在高速公路翻覆，造成至少18人遇难，其中包括10名儿童。"
+      "summary": "一辆满载从巴基斯坦返回的阿富汗家庭的卡车在高速公路翻车，造成至少18人死亡，其中包括10名儿童。"
     },
     {
       "sourceId": "aljazeera",
@@ -4619,7 +4631,7 @@
       "publishedAt": "2026-05-30T13:50:57.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "以色列军队自2006年以来首次越过黎巴嫩利塔尼河，进入南黎巴嫩最大的城市之一纳巴提耶。"
+      "summary": "以色列军队已首次越过黎巴嫩利塔尼河，进入南黎巴嫩最大的城市之一纳巴提耶。"
     },
     {
       "sourceId": "aljazeera",
@@ -4629,7 +4641,7 @@
       "publishedAt": "2026-05-30T13:10:11.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "南非的外籍商店再次面临反移民群体的暴力和抗议活动，外籍工人安全受到威胁。"
+      "summary": "南非的外籍商店再次遭遇暴力和抗议，反移民团体对外籍工人进行攻击。"
     },
     {
       "sourceId": "aljazeera",
@@ -4638,8 +4650,7 @@
       "excerpt": "WHO Chief Tedros Adhanom Ghebreyesus is visiting Bunia in the DRC, the epicentre of the Ebola outbreak.",
       "publishedAt": "2026-05-30T12:53:35.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "世界卫生组织总干事泰德罗斯·阿尔汉姆·盖布雷耶苏斯访问刚果（金）布尼亚，视察埃博拉疫情重灾区。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4648,8 +4659,7 @@
       "excerpt": "Divisive foreign political narratives are being wrongly cast as religious discourse within our Muslim communities.",
       "publishedAt": "2026-05-30T12:49:20.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "外国政治叙事在菲律宾的穆斯林社区中被错误视为宗教话语，引发了内部分歧。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4658,8 +4668,7 @@
       "excerpt": "Senior U.S. and Cuban military officials held a rare face-to-face meeting near Guantanamo Bay.",
       "publishedAt": "2026-05-30T12:49:12.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "古巴称与美国军方高级官员在关塔那摩举行的会晤是“积极的”，双方进行了难得的面对面交流。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4811,15 +4820,6 @@
       "url": "https://www.aljazeera.com/sports/2026/5/30/barcelona-sign-england-winger-anthony-gordon-from-newcastle?traffic_source=rss",
       "excerpt": "Gordon netted 17 goals for Newcastle in all competitions this season, including 10 in 12 Champions League games.",
       "publishedAt": "2026-05-30T06:52:09.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance?traffic_source=rss",
-      "excerpt": "Rwanda turns to Russia for nuclear training and research, advancing ambitions in technology, healthcare and diplomacy.",
-      "publishedAt": "2026-05-30T06:29:07.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
