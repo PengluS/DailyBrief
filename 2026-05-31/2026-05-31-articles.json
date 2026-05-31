@@ -6,150 +6,150 @@
       "title": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "excerpt": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "meta": "Python · ★ 73,485 · 🍴 10,489 · 📈 1,937 stars today",
+      "meta": "Python · ★ 73,526 · 🍴 10,502 · 📈 1,937 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目利用 AI 大模型，允许用户一键生成高清短视频，解决了短视频制作的时间和技术门槛问题，非常适合内容创作者和社交媒体营销人员使用。"
+      "summary": "该项目利用 AI 大模型，提供一键生成高清短视频的功能，旨在简化视频制作流程。适合内容创作者和社交媒体营销人员，快速生成高质量短视频以吸引受众。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "excerpt": "Python tool for converting files and office documents to Markdown.",
-      "meta": "Python · ★ 134,166 · 🍴 9,178 · 📈 2,759 stars today",
+      "meta": "Python · ★ 134,201 · 🍴 9,183 · 📈 2,759 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一个 Python 工具，通过将文件和办公文档转换为 Markdown 格式，简化了文档编辑和发布的流程，适合需要经常编辑文档的开发者和技术作家。"
+      "summary": "这是一个 Python 工具，可以将文件和办公文档转换为 Markdown 格式，简化了文档格式转换的过程，适用于需要将文档发布为 Markdown 格式的开发者和写作者。"
     },
     {
       "sourceId": "github-trending",
       "title": "D4Vinci/Scrapling",
       "url": "https://github.com/D4Vinci/Scrapling",
       "excerpt": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
-      "meta": "Python · ★ 56,266 · 🍴 5,457 · 📈 639 stars today",
+      "meta": "Python · ★ 56,293 · 🍴 5,460 · 📈 639 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Scrapling 是一个自适应的网页抓取框架，支持从单次请求到全规模爬虫的各类抓取任务，适合开发者进行数据采集和大规模信息提取。"
+      "summary": "Scrapling 是一个自适应的网页爬虫框架，能够处理从单请求到大规模抓取的各种需求，适合需要进行网络数据采集的开发者，提升了抓取效率和灵活性。"
     },
     {
       "sourceId": "github-trending",
       "title": "nesquena/hermes-webui",
       "url": "https://github.com/nesquena/hermes-webui",
       "excerpt": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
-      "meta": "Python · ★ 9,696 · 🍴 1,336 · 📈 320 stars today",
+      "meta": "Python · ★ 9,713 · 🍴 1,339 · 📈 320 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Hermes WebUI 提供了一种通过网页或手机使用 Hermes Agent 的最佳方式，让用户能够方便地获取和利用该 AI 工具，适合需要远程访问 AI 代理的用户。"
+      "summary": "Hermes WebUI 提供了从网页或手机使用 Hermes Agent 的最佳方式，支持用户通过简单的界面轻松管理和操作 Hermes Agent，适合需要便捷管理工具的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "excerpt": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
-      "meta": "TypeScript · ★ 18,596 · 🍴 1,404 · 📈 243 stars today",
+      "meta": "TypeScript · ★ 18,601 · 🍴 1,404 · 📈 243 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是 Official Compound Engineering 插件，能够与 Claude Code、Codex 和 Cursor 等多个平台集成，适合需要多功能编程支持的开发者。"
+      "summary": "这是 Claude Code、Codex 和 Cursor 的官方 Compound Engineering 插件，旨在扩展代码处理能力，适合需要高效编程辅助工具的开发者，提升工作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/docs",
       "url": "https://github.com/github/docs",
       "excerpt": "The open-source repo for docs.github.com",
-      "meta": "TypeScript · ★ 19,629 · 🍴 67,275 · 📈 20 stars today",
+      "meta": "TypeScript · ★ 19,636 · 🍴 67,274 · 📈 20 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是 GitHub 上 docs.github.com 的开源仓库，提供了丰富的文档支持，适合开发者和技术作家参考实现和使用 GitHub 的各种功能。"
+      "summary": "这是 docs.github.com 的开源代码库，提供 GitHub 文档的内容，方便开发者获取和贡献文档信息，支持文档协作和更新。"
     },
     {
       "sourceId": "github-trending",
       "title": "OpenBMB/VoxCPM",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "excerpt": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "meta": "Python · ★ 23,231 · 🍴 2,705 · 📈 639 stars today",
+      "meta": "Python · ★ 23,242 · 🍴 2,706 · 📈 639 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "VoxCPM2 是一种无标记的文本转语音（TTS）解决方案，支持多语言语音生成、创意语音设计和真实音频克隆，适合开发者和音频制作者。"
+      "summary": "VoxCPM2 是一个无分词的多语言语音生成工具，支持创意语音设计和真实克隆，适合需要进行自然语言处理和语音合成的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
       "excerpt": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "meta": "HTML · ★ 4,481 · 🍴 637 · 📈 318 stars today",
+      "meta": "HTML · ★ 4,485 · 🍴 638 · 📈 318 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Harness 是一种元技能框架，能够设计特定领域的代理团队、定义专门的代理，以及生成所需的技能，适合需要复杂任务自动化的开发和业务团队。"
+      "summary": "Harness 是一个元技能框架，用于设计特定领域的代理团队，定义专业代理并生成其所需技能，适用于需要高度定制化任务处理的企业。"
     },
     {
       "sourceId": "github-trending",
       "title": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "excerpt": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "meta": "Jupyter Notebook · ★ 2,689 · 🍴 417 · 📈 627 stars today",
+      "meta": "Jupyter Notebook · ★ 2,701 · 🍴 420 · 📈 627 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一种简单的方法来训练 LLM，从下载数据到文本生成，适合希望了解并构建自己的语言模型的研究人员和开发者。"
+      "summary": "这是一个简单的方法，用于从零开始训练语言模型，涵盖数据下载和文本生成，适合希望深入机器学习和自然语言处理的研究人员和开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "supermemoryai/supermemory",
       "url": "https://github.com/supermemoryai/supermemory",
       "excerpt": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
-      "meta": "TypeScript · ★ 23,136 · 🍴 2,089 · 📈 236 stars today",
+      "meta": "TypeScript · ★ 23,141 · 🍴 2,090 · 📈 236 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "超记忆是一款快速、可扩展的记忆引擎及应用程序，提供 AI 时代的记忆 API，适合需要高效学习和记忆管理的用户。"
+      "summary": "Supermemory 是一个极快且可扩展的记忆引擎和应用程序，提供用于 AI 时代的记忆 API，适合需要高效记忆和数据处理的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "Crosstalk-Solutions/project-nomad",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "excerpt": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
-      "meta": "TypeScript · ★ 27,560 · 🍴 2,702 · 📈 372 stars today",
+      "meta": "TypeScript · ★ 27,566 · 🍴 2,703 · 📈 372 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Project N.O.M.A.D 是一款独立的离线生存计算机，集成了关键工具和知识，并配备 AI ，旨在无论何时何地都能为用户提供信息支持，非常适合户外探险者和生存者使用。"
+      "summary": "Project N.O.M.A.D 是一款自包含的离线生存计算机，提供重要工具和知识，利用 AI 增强用户的应急能力，适合需要在偏远地区获得信息和支持的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "excerpt": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "meta": "Python · ★ 128,704 · 🍴 20,978 · 📈 490 stars today",
+      "meta": "Python · ★ 128,715 · 🍴 20,981 · 📈 490 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code 是一款在终端中执行的智能编码工具，能够理解代码库并帮助用户更快编写代码，适合开发人员进行日常编程任务和 Git 工作流程管理。"
+      "summary": "Claude Code 是一款在终端中运行的编程工具，能够理解代码库并帮助用户快速编程，适合需要提升编码效率的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "nicobailon/pi-subagents",
       "url": "https://github.com/nicobailon/pi-subagents",
       "excerpt": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
-      "meta": "TypeScript · ★ 1,761 · 🍴 251 · 📈 59 stars today",
+      "meta": "TypeScript · ★ 1,766 · 🍴 251 · 📈 59 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Pi Subagents 扩展支持异步子代理委派，包含截断、文档和会话共享功能，适合需要提高聊天机器人或代理系统响应能力的开发者使用。"
+      "summary": "这是一个针对异步子代理委派的 Pi 扩展，支持截断、工件和会话共享，适合开发需要高效代理管理和委派的系统。"
     },
     {
       "sourceId": "github-trending",
       "title": "emmabostian/developer-portfolios",
       "url": "https://github.com/emmabostian/developer-portfolios",
       "excerpt": "A list of developer portfolios for your inspiration",
-      "meta": "Python · ★ 23,208 · 🍴 4,598 · 📈 67 stars today",
+      "meta": "Python · ★ 23,217 · 🍴 4,598 · 📈 67 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一系列开发者个人作品集，旨在为用户提供灵感和参考，非常适合正在寻找创意展示方式的开发者。"
+      "summary": "该项目为开发者提供了一个灵感来源列表，汇集了众多开发者的个人作品集，适合想要建立个人品牌或寻找灵感的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 509,034 · 🍴 48,288 · 📈 1,112 stars today",
+      "meta": "Markdown · ★ 509,046 · 🍴 48,289 · 📈 1,112 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目旨在通过从零开始重建您喜欢的技术来掌握编程，适合希望深入理解技术原理的学习者和开发者，是一种极具挑战性和学习价值的实践。"
+      "summary": "该项目提供指导，帮助用户从零开始重建自己喜欢的技术，适合希望深入学习编程原理的开发者和技术爱好者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -173,7 +173,7 @@
       "sourceId": "v2ex-hot",
       "title": "codex 即将刷新，快蹬",
       "url": "https://www.v2ex.com/t/1216788",
-      "excerpt": "18 回复 · 程序员 节点",
+      "excerpt": "19 回复 · 程序员 节点",
       "publishedAt": "2026-05-31T07:47:23.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -270,6 +270,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "用了多年的火绒，今晚我卸掉了它",
+      "url": "https://www.v2ex.com/t/1216844",
+      "excerpt": "8 回复 · 程序员 节点",
+      "publishedAt": "2026-05-31T15:05:31.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "美区， infuse 订阅什么途径最便宜？",
       "url": "https://www.v2ex.com/t/1216804",
       "excerpt": "8 回复 · Apple 节点",
@@ -292,15 +301,6 @@
       "url": "https://www.v2ex.com/t/1209532",
       "excerpt": "7 回复 · Python 节点",
       "publishedAt": "2026-04-30T00:50:21.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "AI 原生开发，大伙能分享一下经验吗？",
-      "url": "https://www.v2ex.com/t/1216739",
-      "excerpt": "6 回复 · 程序员 节点",
-      "publishedAt": "2026-05-31T00:51:22.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -369,10 +369,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "用了多年的火绒，今晚我卸掉了它",
-      "url": "https://www.v2ex.com/t/1216844",
-      "excerpt": "3 回复 · 程序员 节点",
-      "publishedAt": "2026-05-31T15:05:31.000Z",
+      "title": "niri 怎么连自动切换显示器都这么难啊",
+      "url": "https://www.v2ex.com/t/1214237",
+      "excerpt": "3 回复 · Linux 节点",
+      "publishedAt": "2026-05-20T13:21:13.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -380,7 +380,7 @@
       "sourceId": "linuxdo",
       "title": "君の公益，一人一百刀",
       "url": "https://linux.do/t/topic/2277494",
-      "excerpt": "「慕鸢の公益站」 「君の公益」近况 君の公益站能用 LDC 吗，每天 25，半个小时就没了 大家的LDC还是留着交换别的服务吧，我这里不太需要，我直接免费送 希望大家天天开心 也希望小可怜天天开心 点击即领100刀兑换码 cdk.linux.do LINUX DO CDK Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单 顺手展示下风控系统 423 个帖子 - 390 位参与者 阅读完整话题",
+      "excerpt": "「慕鸢の公益站」 「君の公益」近况 君の公益站能用 LDC 吗，每天 25，半个小时就没了 大家的LDC还是留着交换别的服务吧，我这里不太需要，我直接免费送 希望大家天天开心 也希望小可怜天天开心 点击即领100刀兑换码 cdk.linux.do LINUX DO CDK Linux Do 社区 CDK 快速分享平台 - 让分享变得更简单 顺手展示下风控系统 424 个帖子 - 391 位参与者 阅读完整话题",
       "publishedAt": "2026-05-31T02:59:01.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -416,7 +416,7 @@
       "sourceId": "linuxdo",
       "title": "星辰AI 关于key的一点安全提醒",
       "url": "https://linux.do/t/topic/2280244",
-      "excerpt": "今天某位佬友把自己的key不小心上传到了github，被我朋友发现了，目前该key我已经协助禁用，在这里还是提醒各位佬友，一定要妥善保管好自己的key，尽量不要设置无限额度的key，尽可能降低损失。 其实newapi不支持根据key查用户的功能，我是直接联系newapitools的作者，紧急加了一个key反查用户的功能，在此也感谢newapitools的作者！ 泄露自己的key就相当于把把钱扔在马路上，大家一定要注意！！！ 祝大家早安，午安，晚安 15 个帖子 - 15 位参与者 阅读完整话题",
+      "excerpt": "今天某位佬友把自己的key不小心上传到了github，被我朋友发现了，目前该key我已经协助禁用，在这里还是提醒各位佬友，一定要妥善保管好自己的key，尽量不要设置无限额度的key，尽可能降低损失。 其实newapi不支持根据key查用户的功能，我是直接联系newapitools的作者，紧急加了一个key反查用户的功能，在此也感谢newapitools的作者！ 泄露自己的key就相当于把把钱扔在马路上，大家一定要注意！！！ 祝大家早安，午安，晚安 17 个帖子 - 16 位参与者 阅读完整话题",
       "publishedAt": "2026-05-31T13:10:09.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -425,7 +425,7 @@
       "sourceId": "linuxdo",
       "title": "君の公益 上架一点grok",
       "url": "https://linux.do/t/topic/2280585",
-      "excerpt": "感谢大佬的馈赠！ 37 个帖子 - 31 位参与者 阅读完整话题",
+      "excerpt": "感谢大佬的馈赠！ 43 个帖子 - 37 位参与者 阅读完整话题",
       "publishedAt": "2026-05-31T14:09:56.000Z",
       "category": "tech",
       "source": "LinuxDo"
@@ -609,7 +609,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "波士顿儿童医院利用OpenAI技术改善病人护理，减轻运营负担，帮助诊断超过40种罕见疾病。"
+      "summary": "波士顿儿童医院利用OpenAI技术改善患者护理，降低运营负担，帮助诊断超过40例罕见疾病。"
     },
     {
       "sourceId": "openai-news",
@@ -619,7 +619,7 @@
       "publishedAt": "2026-05-29T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Braintrust工程师使用Codex与GPT-5.5加速实验和编码。"
+      "summary": "Braintrust的工程师使用Codex与GPT-5.5加速实验和代码开发。"
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-05-29T03:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI推出Rosalind Biodefense，为被审查的开发者和美国政府合作伙伴提供GPT-Rosalind的受信访问。"
+      "summary": "OpenAI推出Rosalind Biodefense，扩大了受信开发者和美国政府合作伙伴在生物防御和公共卫生方面的访问。"
     },
     {
       "sourceId": "openai-news",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI分享关于如何进行第三方AI评估的指导，涵盖模型能力评估、保障措施和有效性。"
+      "summary": "OpenAI发布了关于第三方AI评估的指导，涵盖如何评估模型能力、安全性和有效性。"
     },
     {
       "sourceId": "openai-news",
@@ -649,7 +649,7 @@
       "publishedAt": "2026-05-28T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Endava利用Codex构筑代理组织，加快软件交付，将需求分析的时间从几周缩短到几小时。"
+      "summary": "Endava使用Codex构建一个代理组织，加速软件交付，并将需求分析时间从数周缩短到数小时。"
     },
     {
       "sourceId": "openai-news",
@@ -1154,7 +1154,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "PyTorch中的性能分析（第一部分）：初学者的torch.profiler指南。"
+      "summary": "PyTorch的torch.profiler为初学者提供了性能分析的指导。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1425,7 +1425,7 @@
       "publishedAt": "2026-05-29T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Anthropic估值965亿美元，以及Opus 4.8的更新。"
+      "summary": "Anthropic达到965亿美元的估值，推出Opus 4.8，微软的编码模型也引人关注。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1606,7 +1606,7 @@
       "publishedAt": "2026-05-29T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Anthropic推出了Claude Opus 4.8，虽然在文档解析上有回退，但在合作能力和编码行为上有所改善。"
+      "summary": "Anthropic推出了Claude Opus 4.8，展示了逐步改进的特性及混合的基准结果，包括更好的协调和编码行为，但在文档解析上有一些退步。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1616,7 +1616,7 @@
       "publishedAt": "2026-05-28T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Anthropic完成65亿美元的H轮融资，融资后估值达965亿美元，年收入超470亿美元，同时推出Claude Opus 4.8。"
+      "summary": "Anthropic宣布完成650亿美元的H轮融资，市值达到965亿美元，推出了Claude Opus 4.8。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1878,7 +1878,7 @@
       "publishedAt": "2026-05-30T01:57:15.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "在一个平静的日子里，AIE WF的新动态得到了强调。"
+      "summary": "AINews突出介绍了新的AIE WF关注点，尽管当天相对安静。"
     },
     {
       "sourceId": "latent-space",
@@ -1888,7 +1888,7 @@
       "publishedAt": "2026-05-29T02:07:24.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Anthropic成功融资，总额达到965亿美元。"
+      "summary": "Anthropic成功募集了965亿美元的H轮融资，并发布了Opus 4.8和动态工作流程/超编码。"
     },
     {
       "sourceId": "latent-space",
@@ -1898,7 +1898,7 @@
       "publishedAt": "2026-05-28T18:41:24.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cognition公司展示80%的Devin Commits，完整虚拟机和代理记忆的工作流。"
+      "summary": "Cognition涉及80%的Devin提交，规范到PR的工作流程和完整虚拟机，以及代理记忆等议题。"
     },
     {
       "sourceId": "latent-space",
@@ -1908,7 +1908,7 @@
       "publishedAt": "2026-05-28T07:26:09.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Cognition融资10亿美元，估值达260亿美元，编程市场前景广阔。"
+      "summary": "Cognition成功募集10亿美元的D轮融资，为260亿美元的市场铺平道路。"
     },
     {
       "sourceId": "latent-space",
@@ -2062,7 +2062,7 @@
       "publishedAt": "2026-05-29T10:00:00.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "教皇利奥十四世关于人工智能的新通谕指出“技术从来不是中立的”，呼吁人们勇敢行动。"
+      "summary": "教宗利奥十四世关于人工智能的新通谕指出“技术从来不是中立的”，呼吁人们勇敢行动以迎接AI时代。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2072,7 +2072,7 @@
       "publishedAt": "2026-05-28T09:51:11.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "在阿利桑那大学的毕业典礼上，前谷歌首席执行官埃里克·施密特支持AI的发展时遭到观众嘘声。"
+      "summary": "在亚利桑那大学毕业典礼上，前谷歌CEO埃里克·施密特提到让2026届学生塑造AI时，引起了强烈的嘘声。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2148,13 +2148,43 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "SpaceX Cuts Valuation to $1.8 Trillion, Still on Track for World's Largest IPO",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-31/spacex-cuts-valuation-to-1-8-trillion-from-2-trillion-video",
+      "excerpt": "SpaceX is targeting a valuation of at least $1.8 trillion in its initial public offering, according to sources, after Bloomberg News reported in April that SpaceX was aiming for a valuation above $2 trillion. Bloomberg's space and aviation managing editor Benedikt Kammel joined David Gura and Christ",
+      "publishedAt": "2026-05-31T15:49:40.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "据报道，SpaceX在其首次公开募股中目标估值至少为1.8万亿美元，此前原定超过2万亿美元。Bloomberg的董事编辑Benedikt Kammel也参与了讨论。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "A Look Inside the Epicenter of the Ebola Outbreak",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-31/a-look-inside-the-epicenter-of-the-ebola-outbreak-video",
+      "excerpt": "New York Times Chief Africa Correspondent Declan Walsh joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss his on the ground reporting from an Ebola treatment ward in Mongbwalu, Democratic Republic of Congo. (Source: Bloomberg)",
+      "publishedAt": "2026-05-31T15:46:35.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "《纽约时报》的非洲首席记者Declan Walsh与David Gura和Christina Ruffini在Bloomberg频道讨论了他在刚果民主共和国Mongbwalu的一家埃博拉治疗病房的实地报道。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "How Britain, Europe and the West Were Changed by Brexit",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-31/how-britain-europe-and-the-west-were-changed-by-brexit-video",
+      "excerpt": "A fancy dress protest in Boston Harbor on Dec. 16, 1773; a gunshot in Sarajevo on June 28, 1914; a train arriving at the Finland Station in St. Petersburg on April 16, 1917: There are days that change the course of history — when a single incendiary event combusts with explosive forces that propel t",
+      "publishedAt": "2026-05-31T15:36:14.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "历史性的事件，如1773年波士顿港的抗议和1914年萨拉热窝的枪声，极大地改变了英国、欧洲及西方的历史进程。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Ukraine’s Drone Warfare Redefines Battlefield Dynamics",
       "url": "https://www.bloomberg.com/news/videos/2026-05-31/ukraine-s-drone-warfare-redefines-battlefield-dynamics-video",
       "excerpt": "Ukraine’s extensive use of approximately 10,000 drones daily has significantly impacted Russian forces, causing 90% of their casualties and rendering traditional armored vehicles and tanks largely ineffective near the front lines. Bloomberg's Chief Europe Correspondent Oliver Crook joined David Gura",
       "publishedAt": "2026-05-31T15:13:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰每日使用约10,000架无人机，这一做法显著影响了俄罗斯军队，导致其90%的伤亡，并使传统装甲车辆和坦克在前线失效。"
+      "summary": "乌克兰每日使用约1万个无人机，导致俄方90%的伤亡，改变了前线传统装甲车和坦克的作战效果。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2164,7 +2194,7 @@
       "publishedAt": "2026-05-31T15:11:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "关于特朗普最近在局势室的会晤新信息显示，他对与伊朗政权达成的协议进行了多项修改请求，但没有达成突破。"
+      "summary": "新消息表明，特朗普在最近的会议上要求对与伊朗的协议进行多项修改，目前谈判未见突破。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2174,7 +2204,7 @@
       "publishedAt": "2026-05-31T13:18:44.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "欧洲央行理事会成员阿尔瓦罗·桑托斯·佩雷拉呼吁，面对高企的消费者价格压力，应该及时采取行动。"
+      "summary": "欧洲中央银行理事会成员阿尔瓦罗·圣托斯·佩雷拉指出，鉴于消费者价格压力，ECB应尽早采取行动。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2184,7 +2214,7 @@
       "publishedAt": "2026-05-31T14:04:36.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "全球铝市场受到中东冲突和美国关税双重压力，海湾地区的生产和运输中断正在显著减少全球市场供应。"
+      "summary": "全球铝市场受到中东冲突和美国关税的双重压力，行业高管称，海湾地区的生产和运输中断已对全球供应造成显著影响。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2194,7 +2224,7 @@
       "publishedAt": "2026-05-31T14:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "少数科技巨头在标普500指数中的主导地位，正在影响美国股息期货和期权的细分市场。"
+      "summary": "少数科技巨头在标准普尔500指数中的主导地位蔓延到分红期货和期权的利基市场。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2204,7 +2234,7 @@
       "publishedAt": "2026-05-31T13:29:40.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "美联储理事克里斯托弗·沃勒表示，稳定币的全球传播可能增强美国中央银行政策的影响力。"
+      "summary": "美国联邦储备委员会成员克里斯托弗·沃勒表示，全球稳定币的传播可能会增强美国货币政策的影响力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2223,7 +2253,7 @@
       "publishedAt": "2026-05-31T13:00:07.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "随着芯片制造商股票的历史性上涨，投资者对于是否进入人工智能泡沫的辩论愈发紧迫。"
+      "summary": "芯片制造商的股票表现火热，推动了关于人工智能泡沫的争论是否属实。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2233,7 +2263,7 @@
       "publishedAt": "2026-05-31T12:39:51.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "刚果民主共和国政府批准将锂纳入战略矿产清单，这可能导致锂矿企业的特许权使用费增加三倍。"
+      "summary": "刚果民主共和国将锂纳入战略矿产，并可能要求锂矿工支付三倍的特许权使用费。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2243,7 +2273,7 @@
       "publishedAt": "2026-05-31T12:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "由于流入新兴市场的资金激增，两家专注于难以获得债务的对冲基金开始拒绝投资者。"
+      "summary": "由于资金流入新兴市场，专注于难以接触的债务的两家对冲基金开始拒绝新投资者。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2252,8 +2282,7 @@
       "excerpt": "Poland has become one of Europe’s standout growth stories, with an economy that crossed $1 trillion and a new generation of entrepreneurs returning home after studying and working abroad. Finance Minister Andrzej Domański points to decades of reform, EU integration, foreign investment and a diversif",
       "publishedAt": "2026-05-31T12:05:33.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "波兰成为欧洲经济增长的佼佼者，经济总量突破1万亿美元，新一代企业家在海外学习和工作后回国。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2396,33 +2425,6 @@
       "url": "https://www.bloomberg.com/news/videos/2026-05-30/bloomberg-this-weekend-5-30-2026-video",
       "excerpt": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Associated Press International Correspondent Philip Crowther, Fmr. CDC Director Dr. Tom Frieden",
       "publishedAt": "2026-05-30T16:38:18.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "This Millennial University President Sees Running Grambling State Like an Enterprise",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/lemelle-running-grambling-state-like-an-enterprise-video",
-      "excerpt": "Dr. Martin Lemelle, Jr., Grambling State University President says he views running his HBU like an enterprise (Source: Bloomberg)",
-      "publishedAt": "2026-05-30T15:28:48.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "At Scrabble’s Biggest Tournament, Thailand Punches Above Its Weight",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/thailand-punches-above-its-weight-in-scrabble-video",
-      "excerpt": "Known locally as Crossword, Scrabble took off in Thailand in the 1980s after schools embraced it as a teaching aid and pathway to advancement. Much like athletic scholarships in the US, strong players can secure financial assistance and preferential admission to top universities, creating a pipeline",
-      "publishedAt": "2026-05-30T14:12:53.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Can AI Grow Without Hurting Local Communities?",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video",
-      "excerpt": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, trans",
-      "publishedAt": "2026-05-30T14:03:33.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2613,8 +2615,7 @@
       "excerpt": "International support matters when it aligns with strategies built alongside regional institutions and governments",
       "publishedAt": "2026-05-31T12:21:01.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "国际支持应与区域机构和政府共同制定战略时发挥作用，非洲应自我定义对抗埃博拉的响应。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2623,8 +2624,7 @@
       "excerpt": "Global pharmaceutical companies are increasingly looking to China as patents on best-selling medicines expire",
       "publishedAt": "2026-05-31T12:00:10.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "全球制药公司日益依赖中国，随着畅销药物专利的到期，这引发了国家安全方面的担忧。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -3405,9 +3405,10 @@
       "title": "Laos cave survivors help with plan to find last two missing men",
       "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
       "excerpt": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
-      "publishedAt": "2026-05-31T11:38:19.000Z",
+      "publishedAt": "2026-05-31T15:52:42.000Z",
       "category": "politics",
-      "source": "BBC World"
+      "source": "BBC World",
+      "summary": "截至目前，已有五名男子从狭窄的，被淹没的洞穴中获救，但搜寻另外两名失踪者的工作仍在进行中。"
     },
     {
       "sourceId": "bbc-world",
@@ -3417,7 +3418,7 @@
       "publishedAt": "2026-05-31T15:08:38.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "哥伦比亚举行总统选举，现任左翼总统古斯塔沃·佩特罗与美国总统唐纳德·特朗普之间的对立关系引发公众关注。"
+      "summary": "哥伦比亚进行总统选举，此次选举可能重新定义与美国的关系，当前左翼总统古斯塔沃·佩德罗与特朗普的矛盾加剧。"
     },
     {
       "sourceId": "bbc-world",
@@ -3619,13 +3620,22 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "WHO calls for community cooperation to contain DRC Ebola outbreak",
+      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+      "excerpt": "Tedros Adhanom Ghebreyesus makes appeal after protests against protocols for handling bodies in Ituri province Containing the Ebola outbreak in the Democratic Republic of Congo requires community cooperation and is “everybody’s business”, the World Health Organization has said. Tedros Adhanom Ghebre",
+      "publishedAt": "2026-05-31T15:49:47.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "世卫组织呼吁社区合作以控制刚果民主共和国的埃博拉疫情，强调疫情防控是“每个人的责任”。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Death of Congolese man renews scrutiny of race relations in Ireland",
       "url": "https://www.theguardian.com/world/2026/may/31/yves-sakila-death-congolese-man-ireland-race-relations",
       "excerpt": "Yves Sakila died after being restrained by security guards ‘in broad daylight’ Irish authorities have agreed to a second postmortem on the body of a Congolese man who died after being restrained by shop security guards on a Dublin street, prompting an outcry and comparisons to the death of George Fl",
       "publishedAt": "2026-05-31T13:59:34.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "刚果籍男子伊夫·萨基拉在被店内保安拘留后去世，爱尔兰当局同意对其进行第二次尸检，事件引发对爱尔兰种族关系的审视与讨论。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3651,15 +3661,6 @@
       "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
       "excerpt": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likely Ebola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the ",
       "publishedAt": "2026-05-29T05:44:22.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
-      "excerpt": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke out just after midnight at Utumishi girls academy in Gilgil, N",
-      "publishedAt": "2026-05-28T14:57:11.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3761,7 +3762,7 @@
       "publishedAt": "2026-05-31T15:00:53.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "独立议员莫妮克·瑞安的研究显示，如果澳大利亚工党将HECS债务的指数化日期提前五个月，大学毕业生在十年内将能节省超过30亿澳元。"
+      "summary": "根据独立议员莫尼克·瑞安委托的成本分析，如果工党将高等教育贷款的指数化日期提前五个月，大学毕业生在十年内将节省超过30亿澳元。"
     },
     {
       "sourceId": "guardian-world",
@@ -3771,7 +3772,7 @@
       "publishedAt": "2026-05-31T15:00:52.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "专家预测，澳大利亚的房价将继续下滑，并可能在未来一年内下降10%。悉尼、墨尔本和堪培拉的中位房价在5月底时均低于2025年底水平。"
+      "summary": "澳大利亚首府城市的房价开始下跌，专家预测衰退可能持续一年，房价可能下滑10%。"
     },
     {
       "sourceId": "guardian-world",
@@ -3916,7 +3917,7 @@
       "publishedAt": "2026-05-31T14:59:05.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "以色列在南黎巴嫩夺取了象征其长期占领的博福特城堡，这一事件勾起了两国间的苦涩回忆，同时以色列与真主党冲突愈演愈烈。"
+      "summary": "以色列在黎巴嫩南部夺取了象征其长期占领的博福特城堡，此次事件唤起了两国之间的痛苦记忆，同时以色列与真主党之间的冲突仍在扩大。"
     },
     {
       "sourceId": "nyt-world",
@@ -3926,7 +3927,7 @@
       "publishedAt": "2026-05-31T14:45:20.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "乌克兰政府委任奥尔佳·瑞谢季洛娃负责监察士兵权益，尽管一些指挥官对她表示不满，她认为此举将增强军队实力。"
+      "summary": "乌克兰政府任命奥尔哈·雷谢季洛娃负责监督士兵权利，尽管一些指挥官对此感到不满，但她认为自己的工作能增强武装力量的实力。"
     },
     {
       "sourceId": "nyt-world",
@@ -3945,7 +3946,7 @@
       "publishedAt": "2026-05-31T15:05:03.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "哥伦比亚和厄瓜多尔沿海社区的居民表示，美国的空袭行动使他们对依赖海洋生计的想法产生了动摇，因为相关死亡人数已超过200人。"
+      "summary": "哥伦比亚和厄瓜多尔沿海社区居民表示，美国的空袭行动使他们对依赖海洋生计的想法产生了重新考虑。"
     },
     {
       "sourceId": "nyt-world",
@@ -3955,7 +3956,7 @@
       "publishedAt": "2026-05-31T14:52:39.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "台湾对来自中国的‘大陆配偶’产生的渗透担忧加剧，此案件涉及如何在保护民主的同时，避免不公正地针对中国移民。"
+      "summary": "在台湾，一名来自中国的“大陆配偶”成为了渗透担忧的焦点，涉及保护民主与不公正针对中国移民的复杂问题。"
     },
     {
       "sourceId": "nyt-world",
@@ -4172,7 +4173,7 @@
       "publishedAt": "2026-05-31T15:14:16.000Z",
       "category": "politics",
       "source": "NPR World",
-      "summary": "美国军方在本周进行的第四次空袭中针对一艘涉嫌走私毒品的船只展开打击，造成3人死亡，至今总死亡人数已达205人。"
+      "summary": "美国军方本周在太平洋对一艘涉嫌走私的船只进行了第四次空袭，造成三人死亡，总死亡人数达到205人。"
     },
     {
       "sourceId": "npr-world",
@@ -4542,7 +4543,7 @@
       "publishedAt": "2026-05-31T15:21:50.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "救援人员在老挝的洞穴中进行紧急搜救，试图营救由于山洪而被困的两人，面临严峻的恶劣天气和设备故障的挑战。"
+      "summary": "救援人员在老挝中部受暴雨影响，面临设备故障，仍在紧急寻找被困洞穴中的两人。"
     },
     {
       "sourceId": "aljazeera",
@@ -4552,7 +4553,7 @@
       "publishedAt": "2026-05-31T15:19:33.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "加利福尼亚州虽然是民主党强州，但由于采取丛林初选制度，现阶段共和党候选人可能会占据优势，有可能使民主党被排除在州长竞选之外。"
+      "summary": "尽管加州是民主党堡垒，但由于标记初选制度，现有共和党候选人可能在加州州长选举中占据领先地位。"
     },
     {
       "sourceId": "aljazeera",
@@ -4562,7 +4563,7 @@
       "publishedAt": "2026-05-31T15:09:43.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "伊朗部分地区恢复互联网接入，但许多数据中心仍未完全恢复，互联网协议仍受到封锁或限制。"
+      "summary": "伊朗恢复了一部分互联网接入，但大部分地区的网络协议仍然受到封锁或限制。"
     },
     {
       "sourceId": "aljazeera",
@@ -4572,7 +4573,7 @@
       "publishedAt": "2026-05-31T15:02:49.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "分析师妥雅·莫塔扎维和科林·克拉克探讨了围绕伊朗与美国协议的复杂局势及其未来可能性。"
+      "summary": "分析师讨论伊朗-美国“原则声明”的可能性和周边的复杂情况。"
     },
     {
       "sourceId": "aljazeera",
@@ -4582,7 +4583,7 @@
       "publishedAt": "2026-05-31T14:41:14.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "一项调查显示，在加沙战争期间，至少51个国家和地区向以色列提供了军事相关物资。"
+      "summary": "一项阿尔贾泽拉的调查显示，51个国家和地区在加沙战争期间向以色列提供了军事相关物资。"
     },
     {
       "sourceId": "aljazeera",
@@ -4591,8 +4592,7 @@
       "excerpt": "Video from southern Lebanon shows widespread destruction after Israel repeatedly bombed the city of Tyre.",
       "publishedAt": "2026-05-31T14:36:04.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "以色列对黎巴嫩的提尔市进行了多次空袭，造成广泛破坏，相关视频显示该地区遭受了严重毁坏。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",

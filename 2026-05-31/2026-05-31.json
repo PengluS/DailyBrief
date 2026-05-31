@@ -1,102 +1,113 @@
 {
-  "hero_headline": "以色列在黎巴嫩扩展军事行动",
-  "daily_overview": "今天，以色列军队在黎巴嫩控制了布丰特城堡，显示出其扩展军事行动的决心，可能影响到区域的安全局势。同时，乌克兰通过无人机战争重塑战场动态，给俄罗斯造成了重大伤亡。而在财经领域，全球铝业受到中东冲突和美国关税的双重挤压，市场环境趋于紧张。",
+  "hero_headline": "今日聚焦：AI技术与国际金融市场动向",
+  "daily_overview": "今日科技领域，OpenAI利用AI技术帮助波士顿儿童医院提升患者护理及诊断罕见疾病，标志着AI在医疗领域的应用不断深化。财经方面，SpaceX调整IPO预期估值为1.8万亿美元，继续引发市场关注。同时，国际政局方面，Israel在南黎巴嫩扩大军事行动，捕获象征性城堡，局势紧张加剧，让人关注周边国家的反应。",
   "tech_briefs": [
     {
-      "title": "AI助力波士顿儿童医院新诊断",
+      "title": "波士顿儿童医院运用AI提升医疗服务",
       "url": "https://openai.com/index/boston-childrens-hospital",
       "source": "OpenAI News",
-      "summary": "波士顿儿童医院利用OpenAI的技术来改善患者护理和诊断，识别超过40种罕见疾病，显示出AI在医学领域的潜力（多家报道）。",
+      "summary": "波士顿儿童医院利用OpenAI技术改善患者护理，并有效识别40种罕见疾病，显著提升了诊断效率与准确性。（多家报道）",
       "importance": 9
     },
     {
-      "title": "使用Codex加速开发与实验",
-      "url": "https://openai.com/index/braintrust",
-      "source": "OpenAI News",
-      "summary": "Braintrust利用Codex和GPT-5.5技术，显著加快工程师的代码编写和实验速度，推动AI技术在软件开发中的应用（多家报道）。",
-      "importance": 8
+      "title": "GitHub项目：MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "source": "GitHub Trending",
+      "summary": "该项目利用AI大模型，一键生成高清短视频，使视频制作变得更加高效便捷，适合需要快速内容创作的用户关注。（多家报道）",
+      "importance": 7
     },
     {
-      "title": "AI铝业市场受冲击",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-31/the-aluminum-shock-hitting-the-global-economy-video",
-      "source": "Bloomberg Markets",
-      "summary": "全球铝业市场因中东冲突与美国新关税相互影响，造成生产和运输中断，行业面临严峻挑战（多家报道）。",
+      "title": "Braintrust通过Codex快速将需求转化为代码",
+      "url": "https://openai.com/index/braintrust",
+      "source": "OpenAI News",
+      "summary": "Braintrust工程师使用Codex与GPT-5.5高效地运行实验和编写代码，显著提升开发效率，展示了AI技术在软件开发中的应用潜力。（多家报道）",
       "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "乌克兰无人机战争影响俄罗斯军队",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-31/ukraine-s-drone-warfare-redefines-battlefield-dynamics-video",
+      "title": "SpaceX调整IPO估值至1.8万亿美元",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-31/spacex-cuts-valuation-to-1-8-trillion-from-2-trillion-video",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰的无人机日常使用达到约1万架，显著影响俄罗斯军队的士气和战斗力（多家报道）。",
+      "summary": "SpaceX的IPO预期估值从2万亿美元调低至1.8万亿美元，仍然是市场关注的焦点，反映出当前市场的巨大波动性与不确定性。（多家报道）",
       "importance": 9
     },
     {
-      "title": "铝市场面临双重压力",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-31/the-aluminum-shock-hitting-the-global-economy-video",
-      "source": "Bloomberg Markets",
-      "summary": "中东冲突与新关税的双重影响使得全球铝业市场承受巨大压力，行业前景不容乐观（多家报道）。",
-      "importance": 8
+      "title": "英德亟须应对的青年失业问题",
+      "url": "https://www.bbc.com/news/articles/cg5p9y25qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "前M&S首席执行官将为英国政府提供建议，帮助年轻人就业。该提议源于对“失去一代”的忧虑，政府希望采取措施缓解失业问题。（多家报道）",
+      "importance": 6
     },
     {
-      "title": "华尔街正在押注美国股市反弹",
-      "url": "https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e",
+      "title": "全球制药企业对中国生物技术的依赖加剧",
+      "url": "https://www.ft.com/content/679ea661-559d-4bfd-9ec1-f8f743731fe5",
       "source": "Financial Times",
-      "summary": "尽管市场面临过热风险，投资者和策略师仍然对AI相关股票的未来增长表示乐观（多家报道）。",
+      "summary": "随着畅销药物专利到期，全球医药企业日益依赖中国生物技术，这引发了对国家安全的担忧，影响未来的国际合作与竞争。（多家报道）",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "以色列对于黎巴嫩的最新军事行动",
-      "url": "https://www.npr.org/2026/05/31/g-s1-125056/israel-seizes-medieval-beaufort-castle-southern-lebanon",
-      "source": "NPR World",
-      "summary": "以色列军队在黎巴嫩抓捕了历史悠久的布丰特城堡，显示出其在该地区军事存在的意图（多家报道）。",
-      "importance": 9
+      "title": "以色列在黎巴嫩扩大军事行动",
+      "url": "https://www.nytimes.com/2026/05/31/world/middleeast/israel-lebanon-beaufort-iran.html",
+      "source": "NYT World",
+      "summary": "以色列在对黎巴嫩的军事进攻中占领了一座象征性的城堡，可能意味着其在该地区的军事存在将进一步增强，局势动荡不安。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "反映出美方的回应不满",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "在美方与哥伦比亚政府的关系中，近日发生的一系列空袭加剧了双方的不满情绪，影响未来的合作（多家报道）。",
-      "importance": 8
+      "title": "WHO呼吁社区合作遏制刚果民主共和国埃博拉疫情",
+      "url": "https://www.theguardian.com/world/2026/may/31/who-calls-for-community-cooperation-to-contain-drc-ebola-outbreak",
+      "source": "The Guardian",
+      "summary": "世卫组织总干事呼吁加强社区合作，以解决刚果民主共和国的埃博拉疫情，强调社区参与对控制疫情至关重要。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今天的报道涵盖了技术、财经和时政多个领域的重要动态，尤其以色列在黎巴嫩的军事操作和市场压力引发广泛关注。",
+  "editor_note": "今日的科技与财经动态显示出AI技术在医疗及金融市场中的广泛应用，而国际政治局势依然紧张，引发各方关注与分析。",
   "keywords": [
-    "以色列",
-    "乌克兰",
-    "无人机",
-    "铝市场",
     "AI技术",
+    "SpaceX",
     "波士顿儿童医院",
-    "财经",
-    "军事"
+    "以色列军事行动",
+    "全球药品市场",
+    "青年失业",
+    "社区合作"
   ],
   "trading": {
-    "market_overview": "整体来看，美股在近期维持在高位，SPY和QQQ均显示出强势的上行趋势，新高的接近使得部分技术指标进入超买状态。加密市场则表现恐慌，当前的恐慌贪婪指数为28，指向市场情绪偏向恐慌，全球加密总市值下降至2.58万亿美元。中概股如阿里巴巴和拼多多等在技术面上显示出较弱的下行态势，而商品市场中的WTI原油期货也呈现出震荡整理的趋势，显示出中性偏下行的状态。 ",
+    "market_overview": "当前市场情绪由加密货币显示出恐慌状态，加密恐慌贪婪指数为 28，且加密总市值为 2.57万亿 USD，24小时变化为 -0.08%。整体来看，美股(MSFT, QQQ, SPY)表现独立且偏向于看涨趋势，部分个股如 PDD 和 BTC 则显示出一定的下行压力，表明市场将美股与加密市场的表现分化显著。",
     "watchlist": [
       {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
+        "symbol": "QQQ",
+        "display_name": "纳斯达克 100 ETF (QQQ)",
         "stance": "偏上行",
-        "rationale": "当前SPY价位756.48，RSI为74.1，已处于超买状态，接近52周高点，且多个均线呈多头排列，显示出上升趋势。"
+        "rationale": "当前相对强弱指数 (RSI) 为 77.2，已进入超买区域，同时 MACD 指标形成金叉，显示出买入动能。价格接近 52 周最高点，且趋势为看涨。"
       },
       {
-        "symbol": "QQQ",
-        "display_name": "Nasdaq 100 ETF",
+        "symbol": "SPY",
+        "display_name": "标普 500 ETF (SPY)",
         "stance": "偏上行",
-        "rationale": "QQQ当前价格738.31，MACD金叉信号出现，RSI为77.2，显示超买迹象，且接近52周高点，趋势依然强劲向上。"
+        "rationale": "目前 RSI 指数为 74.1，处于超买水平，且 MACD 指标的数值表明趋势向上。价格已接近其 52 周高点，趋势状态为看涨。"
       },
       {
         "symbol": "BTC-USD",
-        "display_name": "Bitcoin",
+        "display_name": "比特币 (BTC)",
         "stance": "偏下行",
-        "rationale": "比特币当前价格73617.01，RSI为36.8，处于正常状态，这表明市场情绪较低。MACD处于空头排列，价格已接近52周低位，显示下行趋势。"
+        "rationale": "比特币当前 RSI 为 36.6，暗示超卖状态，同时 MACD 处于负值区域且没有呈现出买入信号，显示出持续的下行压力。"
+      },
+      {
+        "symbol": "PDD",
+        "display_name": "拼多多 (PDD)",
+        "stance": "偏下行",
+        "rationale": "拼多多的 RSI 为 32.3，处于超卖区域，且 MACD 当前显示死叉，表明下行压力持续，趋势状态为看跌。"
+      },
+      {
+        "symbol": "MSFT",
+        "display_name": "微软 (MSFT)",
+        "stance": "中性",
+        "rationale": "微软当前趋势为中性，RSI 为 69.6，较接近超买水平，但仍未达到超卖，MACD 指标显示金叉，短期内可能继续维持在当前价位波动。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，本文仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，且本报告仅供技术指标解读参考，决策时请结合其他分析因素。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -352,18 +363,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 73617.01,
-        "pct1Day": -0.18687037364817574,
-        "pct5Day": -2.9128954611591986,
-        "pct52WeekHigh": -41.66550249144064,
-        "pct52WeekLow": 22.54346512096048,
-        "sma20": 76750.41875,
-        "sma50": 77231.999375,
-        "sma200": 79522.77791015625,
-        "rsi14": 36.845751877205075,
-        "macd": -1109.061070243435,
-        "macdSignal": -587.0470959540528,
-        "macdHistogram": -522.0139742893823,
+        "currentPrice": 73549.48,
+        "pct1Day": -0.2784304715612453,
+        "pct5Day": -3.0019549349072876,
+        "pct52WeekHigh": -41.71901361090546,
+        "pct52WeekLow": 22.431054141492304,
+        "sma20": 76747.0421875,
+        "sma50": 77230.64875,
+        "sma200": 79522.44025390624,
+        "rsi14": 36.62676567696923,
+        "macd": -1114.4481785055395,
+        "macdSignal": -588.1245176064737,
+        "macdHistogram": -526.3236608990659,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -379,18 +390,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 2010.69,
-        "pct1Day": -0.43418832474722885,
-        "pct5Day": -2.9054696079512037,
-        "pct52WeekHigh": -59.41061013986826,
-        "pct52WeekLow": 14.986740745328467,
-        "sma20": 2118.67216796875,
-        "sma50": 2241.7315625,
-        "sma200": 2497.443729248047,
-        "rsi14": 32.18608620729255,
-        "macd": -66.4948468435523,
-        "macdSignal": -57.36143212168454,
-        "macdHistogram": -9.133414721867759,
+        "currentPrice": 2008.2,
+        "pct1Day": -0.5574887196720458,
+        "pct5Day": -3.0257096154492276,
+        "pct52WeekHigh": -59.460875263160126,
+        "pct52WeekLow": 14.844343367087234,
+        "sma20": 2118.5476684570312,
+        "sma50": 2241.6817626953125,
+        "sma200": 2497.431279296875,
+        "rsi14": 31.976025326776877,
+        "macd": -66.69347854316038,
+        "macdSignal": -57.40115846160616,
+        "macdHistogram": -9.292320081554223,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -406,18 +417,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 82.07,
-        "pct1Day": -0.5782074614504319,
-        "pct5Day": -1.814308554003841,
-        "pct52WeekHigh": -67.58815512347661,
-        "pct52WeekLow": 19.47565226834867,
-        "sma20": 85.79237785339356,
-        "sma50": 86.35593002319337,
-        "sma200": 104.44305019378662,
-        "rsi14": 39.431627915500535,
-        "macd": -1.48321617777043,
-        "macdSignal": -0.9661518972763786,
-        "macdHistogram": -0.5170642804940514,
+        "currentPrice": 81.8,
+        "pct1Day": -0.9052926812068348,
+        "pct5Day": -2.1373271562996687,
+        "pct52WeekHigh": -67.69478602534893,
+        "pct52WeekLow": 19.08259236689316,
+        "sma20": 85.77887802124023,
+        "sma50": 86.35053009033203,
+        "sma200": 104.44170021057128,
+        "rsi14": 38.807568111671,
+        "macd": -1.5047543715193115,
+        "macdSignal": -0.9704595360261549,
+        "macdHistogram": -0.5342948354931566,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -732,13 +743,13 @@
       "timestamp": "2026-05-31T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2575968351137.712,
-      "total24hVolumeUsd": 54023481926.29649,
-      "marketCapChangePct24h": 0.04872767707435598,
-      "btcDominance": 57.27389822224688,
-      "ethDominance": 9.420063357555792,
+      "totalMarketCapUsd": 2572685372146.6973,
+      "total24hVolumeUsd": 53953113968.83036,
+      "marketCapChangePct24h": -0.0787808270175317,
+      "btcDominance": 57.29109036889377,
+      "ethDominance": 9.420494053252728,
       "activeCryptocurrencies": 17402
     },
-    "generated_at": "2026-05-31T15:39:26.730Z"
+    "generated_at": "2026-05-31T16:01:54.266Z"
   }
 }
