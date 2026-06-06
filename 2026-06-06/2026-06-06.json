@@ -1,102 +1,102 @@
 {
-  "hero_headline": "以色列空袭致黎巴嫩三名士兵死亡",
-  "daily_overview": "今天，技术领域继续热论，AI代理技能和相关技术持续引发关注，特别是在软件交付方面的创新。财经方面，特朗普与以色列总理的对话令市场对中东局势关注加剧，且美国股市因科技股疲软而下滑。在政治上，以色列增兵黎巴嫩，以及巴勒斯坦儿童被杀事件的报道，引发国际社会对中东战争的进一步关切。",
+  "hero_headline": "全球多地政局动荡与AI技术持续创新",
+  "daily_overview": "今天，国际政治舞台上未止的冲突和抗议引发关注，包括以色列的袭击和美国与伊朗的紧张局势。与此同时，科技领域的发展势头不减，新的AI技术和应用层出不穷，例如使用AI优化软件交付的解决方案。经济方面，股市出现波动，尤其是科技股引发的市场担忧，也在提醒投资者保持警惕。",
   "tech_briefs": [
     {
-      "title": "AI代理技能的综合性研究工具",
+      "title": "AI技能为信息整合提供新模式",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "source": "GitHub Trending",
-      "summary": "此AI代理技能能够在Reddit、X、YouTube等中综合研究任一主题，进而进行信息汇总与总结，展现出强大的信息处理能力。（多家报道）",
+      "summary": "mvanhorn 的 AI 代理技能可以从 Reditt、YouTube 等多个平台收集信息，并生成高度概括的摘要。此工具能显著提升用户的信息查找效率，展示了 AI 在信息整合领域的应用价值。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Endava在AI代理下重新设计软件交付",
+      "title": "Endava重塑软件交付以适应AI时代",
       "url": "https://openai.com/index/endava-frontiers",
       "source": "OpenAI News",
-      "summary": "Endava利用AI代理、ChatGPT企业版以及Codex，加速软件交付和自动化工作流程，构建AI原生文化，这将引领企业未来的数字转型。（多家报道）",
+      "summary": "Endava通过利用AI代理和ChatGPT Enterprise等新技术，提升了软件交付速度和自动化程度，推动企业文化向AI原生化转变，为企业运营带来新的可能性。",
       "importance": 7
     },
     {
-      "title": "Meta遭攻击事件揭示AI安全问题",
+      "title": "Meta黑客事件揭示AI安全的重要性",
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "source": "MIT Tech Review AI",
-      "summary": "此次事件显示，攻击者利用Meta的AI客服代理盗取Instagram账户，这暴露了AI安全性的问题及其在个人隐私保护中的挑战。（多家报道）",
-      "importance": 9
+      "summary": "该事件涉及攻击者利用Meta的AI客户支持代理盗取Instagram账户，反映出AI在安全领域面临的严峻挑战，促进对AI系统安全性的深入讨论和改进措施。",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普与以色列总理的通话引市场关注",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/trump-holds-profanity-filled-call-with-netanyahu-video",
-      "source": "Bloomberg Markets",
-      "summary": "特朗普与内塔尼亚胡的通话内容涉及对伊朗冲突的处理，市场对此反应谨慎，可能波及中东局势的发展与投资信心。（多家报道）",
+      "title": "美国股票因对科技股担忧大跌",
+      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "纳斯达克指数经历了自2025年初以来的最大单日跌幅，主要由于市场对大科技公司的业绩和增长前景的担忧，投资者情绪受影响。",
+      "importance": 9
+    },
+    {
+      "title": "伊朗战争推动油轮主的市场焦虑",
+      "url": "https://www.ft.com/content/786f23d9-876d-4c56-a9e8-67ac5b78cd49",
+      "source": "Financial Times",
+      "summary": "在伊朗战争前，一些船东因获得暴利而增加新船的投入，但对霍尔木兹海峡重新开放后可能带来的急剧价格下跌感到担忧。",
       "importance": 7
     },
     {
-      "title": "美国股市因科技股疲软而重挫",
-      "url": "https://www.bbc.com/news/articles/cwy2yq0dj58o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "近期科技股的下滑使得纳斯达克出现自2025年以来的最大跌幅，反映出投资者对市场未来的担忧加剧。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "波利维亚计划因民众动荡而受到考验",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/why-protests-are-threatening-bolivia-s-investment-push-video",
+      "title": "FIFA为2026年世界杯做准备",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/fifa-prepares-for-world-cup-2026-video",
       "source": "Bloomberg Markets",
-      "summary": "波利维亚正在努力吸引外资，却因民众抗议动荡面临挑战，影响国家经济和投资环境的稳定。（多家报道）",
-      "importance": 6
+      "summary": "尽管面临挑战，FIFA向纽约市长提供了关于世界杯期间球迷带水入场的保证，以确保观众的安全和舒适，显示出其赛事管理的应变能力。",
+      "importance": 5
     }
   ],
   "politics_briefs": [
     {
-      "title": "以色列空袭致黎巴嫩士兵伤亡",
-      "url": "https://www.nytimes.com/2026/06/06/world/middleeast/israel-strike-lebanese-soldiers-general.html",
-      "source": "NYT World",
-      "summary": "以色列在与黎巴嫩会谈仅几天后，对一辆车发动空袭，导致包括军官在内的多名士兵遇难，局势进一步紧张。（多家报道）",
-      "importance": 9
+      "title": "美国与伊朗在海湾的紧张局势加剧",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "美国军方对伊朗的无人机和雷达设施实施打击，伊朗则针对科威特和巴林的美国基地展开报复，显示出两国之间的微妙且危险的局势。",
+      "importance": 8
     },
     {
-      "title": "巴勒斯坦婴儿死于以色列军队的攻击",
-      "url": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank",
-      "source": "The Guardian",
-      "summary": "一名七个月大的巴勒斯坦婴儿在约旦河西岸被以色列军队射击身亡，引发国际社会的广泛谴责和关注。（多家报道）",
-      "importance": 8
+      "title": "以色列空袭导致黎巴嫩军人伤亡",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5848595/israeli-airstrikes-kill-lebanese-army-officers",
+      "source": "NPR World",
+      "summary": "以色列空军在停火协议签署后对黎巴嫩的目标发动攻击，造成至少9人死亡，引发国际社会对局势进一步恶化的忧虑。",
+      "importance": 7
     }
   ],
-  "editor_note": "今天的国际局势因中东冲突再度紧张，需关注未来的市场与政治动向。",
+  "editor_note": "今日全球局势复杂，科技持续进步与经济波动交织影响，将继续关注这些动向对未来的深远影响。",
   "keywords": [
+    "科技",
+    "金融",
+    "政治",
+    "AI",
+    "市场波动",
     "以色列",
-    "黎巴嫩",
-    "巴勒斯坦",
-    "AI技术",
-    "特朗普",
-    "美国股市",
-    "中东局势",
-    "投资"
+    "美国",
+    "创新"
   ],
   "trading": {
-    "market_overview": "市场整体表现呈现出一定的分化，虽然美股的主要指数，如 S&P 500 ETF 和 Nasdaq 100 ETF 近期均出现回调，但 VIX 恐慌指数上涨 39.68%，表明市场情绪相对紧张。此外，当前加密市场也显露出恐慌情绪，加密恐慌贪婪指数为 12，显示出极度恐慌。同时, Bitcoin 目前占据加密总市值的 56.1%。",
+    "market_overview": "当前市场情绪在加密领域表现为极度恐慌，反映在加密恐慌贪婪指数为12。加密市场总市值为2.17万亿美元，其中比特币主导率为56.1%。同时，美股在近期整体表现不佳，尤其是纳斯达克100 ETF（QQQ）单日下跌4.8%，展现出投资者情绪的谨慎。整体商品市场如原油和黄金也表现出一定的压力，尽管部分商品显示出回调迹象，但市场情绪依然偏向保守。",
     "watchlist": [
+      {
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
+        "stance": "偏中性",
+        "rationale": "当前价格为737.55，RSI值为49.4，处于正常状态，且移动平均线呈现多头排列，表明价格在近期保持横盘震荡状态。"
+      },
       {
         "symbol": "BTC-USD",
         "display_name": "Bitcoin",
         "stance": "偏下行",
-        "rationale": "当前 Bitcoin 的 RSI 为 15.4，处于超卖状态。同时，其价格接近 52 周低点，显示出持续的空头趋势。"
+        "rationale": "比特币当前价格为60623.44，RSI值为15.2，处于超卖状态，加上MACD显示空头排列，近期表现较弱。接近52周低点，显示出强烈的下行压力。"
       },
       {
-        "symbol": "TSLA",
-        "display_name": "Tesla",
+        "symbol": "AAPL",
+        "display_name": "Apple",
         "stance": "偏下行",
-        "rationale": "Tesla 当前价格为 391，RSI 为 40.4，且 MACD 有死叉信号，表明短期内可能面临进一步下行压力。"
-      },
-      {
-        "symbol": "NVDA",
-        "display_name": "Nvidia",
-        "stance": "偏上行",
-        "rationale": "Nvidia 的 MACD 当前为 2.2998，显示出较为强势的多头排列，并且其价格处在一个看似回升的趋势中。"
+        "rationale": "苹果当前价格为307.34，RSI值为60.7，虽处于正常状态，但MACD已出现死叉，且最近表现波动，潜在下行空间需要关注。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现。以上分析基于技术指标，僅供技术指标解读参考，不应视为投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -341,18 +341,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 60897.36,
-        "pct1Day": -0.04154113664716887,
-        "pct5Day": -14.61363789473269,
-        "pct52WeekHigh": -51.74461859836684,
-        "pct52WeekLow": 2.354310013383113,
-        "sma20": 72359.90625,
-        "sma50": 76054.36609375,
-        "sma200": 78616.56701171875,
-        "rsi14": 15.428456891207446,
-        "macd": -3918.4695925847773,
-        "macdSignal": -2374.6654687185046,
-        "macdHistogram": -1543.8041238662727,
+        "currentPrice": 60623.44,
+        "pct1Day": -0.49116031639238994,
+        "pct5Day": -14.997710903938255,
+        "pct52WeekHigh": -51.961674215778416,
+        "pct52WeekLow": 1.8939141505925794,
+        "sma20": 72346.2103515625,
+        "sma50": 76048.887734375,
+        "sma200": 78615.197421875,
+        "rsi14": 15.187868914215358,
+        "macd": -3940.320598638893,
+        "macdSignal": -2379.0356699293275,
+        "macdHistogram": -1561.2849287095655,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
@@ -376,24 +376,28 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1560.76,
-        "pct1Day": -1.2715122885665728,
-        "pct5Day": -22.08748556097516,
-        "pct52WeekHigh": -68.49325549035444,
-        "pct52WeekLow": 3.1995797326118165,
-        "sma20": 1980.354266357422,
-        "sma50": 2172.9744506835937,
-        "sma200": 2456.613646850586,
-        "rsi14": 12.522826283372652,
-        "macd": -140.93360319541466,
-        "macdSignal": -95.65630891388707,
-        "macdHistogram": -45.27729428152759,
+        "currentPrice": 1555,
+        "pct1Day": -1.6358707352322075,
+        "pct5Day": -22.375022455288686,
+        "pct52WeekHigh": -68.60953143821034,
+        "pct52WeekLow": 2.818720677241457,
+        "sma20": 1980.0662658691406,
+        "sma50": 2172.8592504882813,
+        "sma200": 2456.584846801758,
+        "rsi14": 12.408379489289672,
+        "macd": -141.39309115392598,
+        "macdSignal": -95.74820650558934,
+        "macdHistogram": -45.64488464833664,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
           {
             "type": "rsi-oversold",
             "label": "RSI 超卖"
+          },
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -407,24 +411,28 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 62.79,
-        "pct1Day": -1.0977726538827408,
-        "pct5Day": -22.564672714329507,
-        "pct52WeekHigh": -75.20239137569266,
-        "pct52WeekLow": 3.8910928816814585,
-        "sma20": 79.97428531646729,
-        "sma50": 84.50217613220215,
-        "sma200": 102.39263902664185,
-        "rsi14": 15.900303898341235,
-        "macd": -5.269810619253434,
-        "macdSignal": -3.0677965924754376,
-        "macdHistogram": -2.2020140267779964,
+        "currentPrice": 62.02,
+        "pct1Day": -2.3106204808696797,
+        "pct5Day": -23.514269815937503,
+        "pct52WeekHigh": -75.50648691066186,
+        "pct52WeekLow": 2.617066101638549,
+        "sma20": 79.9357852935791,
+        "sma50": 84.48677612304688,
+        "sma200": 102.38878902435303,
+        "rsi14": 15.454477734489856,
+        "macd": -5.331235157194698,
+        "macdSignal": -3.0800815000636903,
+        "macdHistogram": -2.2511536571310073,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
           {
             "type": "rsi-oversold",
             "label": "RSI 超卖"
+          },
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -722,13 +730,13 @@
       "timestamp": "2026-06-06T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2174433761277.1548,
-      "total24hVolumeUsd": 148681759877.36066,
-      "marketCapChangePct24h": -0.40149934938448206,
-      "btcDominance": 56.143005830305135,
-      "ethDominance": 8.659086952769186,
+      "totalMarketCapUsd": 2170516590420.5862,
+      "total24hVolumeUsd": 141402825226.35715,
+      "marketCapChangePct24h": 0.08803543449640912,
+      "btcDominance": 56.10314430592418,
+      "ethDominance": 8.662149157815396,
       "activeCryptocurrencies": 17349
     },
-    "generated_at": "2026-06-06T14:16:22.695Z"
+    "generated_at": "2026-06-06T15:04:16.456Z"
   }
 }
