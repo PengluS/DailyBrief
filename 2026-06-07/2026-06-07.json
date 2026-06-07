@@ -1,101 +1,102 @@
 {
-  "hero_headline": "AI技术助力软件交付与生物防御计划",
-  "daily_overview": "今日科技新闻中，AI推动软件开发新模式，引发行业关注；财经领域，欧美面临商业并购与市场风险，分析未来经济趋势；政治方面，中东局势严峻，以色列再度发动攻击，习近平即将访问朝鲜，国际关系持续紧张，需密切关注后续发展。",
+  "hero_headline": "各国政治局势紧张，金融市场动荡不安",
+  "daily_overview": "今日全球资讯显示，科技领域围绕AI发展引发广泛讨论，部分项目助力软件交付与性能提升；财经方面，美国就业市场回暖积极，但担忧趋动的交易风险正在增长；政治板块则显露出中东地区局势加剧，包含以色列针对哈马斯的攻击以及习近平访朝的消息，影响国际关系走向。",
   "tech_briefs": [
     {
-      "title": "Endava重塑AI驱动的软件交付",
+      "title": "AI项目提升软件交付效率",
       "url": "https://openai.com/index/endava-frontiers",
       "source": "OpenAI News",
-      "summary": "Endava利用AI代理和ChatGPT加速软件交付，通过自动化工作流，推动企业文化向AI原生转型。创新使得项目交付更加高效，能够及时响应市场需求。",
-      "importance": 9
-    },
-    {
-      "title": "AI代理技能整合多平台资源",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "source": "GitHub Trending",
-      "summary": "这个AI代理技能能够整合Reddit、X、YouTube等网站的信息，并生成基于立场的摘要，帮助用户快速获取信息，有助于知识获取和决策支持。（多家报道）",
+      "summary": "Endava利用AI代理与ChatGPT增强软件交付改革，加速业务流程自动化，积极塑造AI原生文化，旨在提升企业效能与响应速度。此类项目展示了AI在软件行业的潜力与重要性。（多家报道）",
       "importance": 8
     },
     {
-      "title": "ChatGPT实现更好的记忆系统",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
-      "source": "OpenAI News",
-      "summary": "ChatGPT推出一种新记忆系统，提升其记忆用户偏好的能力，确保多轮对话中的上下文更加连贯，提升用户体验。",
+      "title": "Meta客户支持系统被攻击",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "source": "MIT Tech Review AI",
+      "summary": "攻击者利用Meta的AI客服系统窃取Instagram账号，表明AI安全领域面临新威胁。这一事件强调了AI应用中的安全隐患及必要的应对措施。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "新AI技能助力信息整合",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "summary": "该AI代理技能能够从多个平台（包括Reddit、YouTube等）整合信息，提供基于数据的总结。这种能力能帮助用户快速获取全面信息，提高决策效率，解决了信息过载的问题。（多家报道）",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "意大利银行BPM提议与Monte dei Paschi合并",
-      "url": "https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51",
-      "source": "Financial Times",
-      "summary": "这项拟议的平等合并是意大利银行业整合的最新尝试，旨在提高在竞争激烈的市场中的竞争力，尚需监管批准。",
-      "importance": 8
-    },
-    {
-      "title": "Tata钢铁新炉可能因电力问题推迟",
-      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "Tata钢铁公司在建造新型£1.25亿的炼钢炉时，面临电力连接问题，可能会推迟项目实施，影响生产计划。",
-      "importance": 7
-    },
-    {
-      "title": "美国劳动力市场持续强劲",
+      "title": "美国就业市场持续回暖",
       "url": "https://www.economist.com/finance-and-economics/2026/06/05/how-hot-is-americas-labour-market",
       "source": "The Economist Finance",
-      "summary": "美国劳动力市场依然活跃，但如果市场波动加大，可能会影响美联储政策方向，值得投资者关注。",
+      "summary": "美国劳动力市场表现良好，为经济复苏注入信心。然而，未来可能需要美联储采取措施应对经济潜在风险，市场仍需保持警惕。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Tata Steel新炉可能因电力问题延误",
+      "url": "https://www.bbc.com/news/articles/ckg0w0lw451o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "Tata Steel报告称，其计划中的£12.5亿新炼钢炉可能因电气连接问题推迟。这一消息引发市场对公司未来产能的关注。（多家报道）",
+      "importance": 6
+    },
+    {
+      "title": "意大利银行计划合并提案",
+      "url": "https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51",
+      "source": "Financial Times",
+      "summary": "意大利银行BPM向蒙特皮斯奇提出合并提案，计划合并以加强国有银行的竞争力，体现了意大利金融行业的整合趋势。（多家报道）",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "中东局势再度紧张，以色列空袭贝鲁特",
-      "url": "https://www.theguardian.com/world/live/2026/jun/07/israel-lebanon-southern-beirut-hezbollah-idf-ceasefire-iran-latest-news-updates",
-      "source": "The Guardian",
-      "summary": "以色列声称针对黎巴嫩的真主党指挥中心进行攻击，这一行为引发国际社会的广泛关注和担忧，局势持续升温。",
-      "importance": 8
+      "title": "俄无人机袭击切尔诺贝利核电站",
+      "url": "https://www.ft.com/content/3c109ff1-e1cd-42c9-86b2-5e5bfb4671e5",
+      "source": "Financial Times",
+      "summary": "乌克兰政府报告称，俄罗斯无人机袭击了切尔诺贝利的核燃料储存地点，所幸辐射水平保持在正常范围内，此事件进一步加剧了地区紧张局势。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "习近平将访问朝鲜，核武发展成焦点",
-      "url": "https://www.dw.com/zh/习近平年度首访前往朝鲜-金正恩底气十足不弃核武/a-77449965?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "习近平于6月8日至9日访问朝鲜，这是七年后的首次访问，外界关注这次会谈能否影响朝鲜的核武政策。",
-      "importance": 7
+      "title": "以色列对黎巴嫩南部空袭加剧冲突",
+      "url": "https://www.theguardian.com/world/2026/jun/07/israel-escalates-war-hezbollah-airstrikes-beirut",
+      "source": "The Guardian",
+      "summary": "以色列空军对南黎巴嫩进行空袭，此举被解释为针对对其北方攻击的报复，加剧了与哈马斯的冲突，国际社会对此表示担忧。（多家报道）",
+      "importance": 8
     }
   ],
-  "editor_note": "今天的简报涵盖了科技、财经及政治三方面的重要新闻，值得关注全局动向，尤其是中东局势及经济市场的反应。",
+  "editor_note": "今日新闻展示了科技、财经与政治领域的多样动态，值得关注市场反应及其对未来可能产生的影响。",
   "keywords": [
-    "AI技术",
-    "经济并购",
-    "中东局势",
-    "软件开发",
-    "国际关系",
-    "劳动市场",
-    "核武政策"
+    "AI",
+    "就业市场",
+    "金融",
+    "以色列",
+    "安全",
+    "软件交付",
+    "合并",
+    "无人机"
   ],
   "trading": {
-    "market_overview": "当前市场整体来看，美股面临下行压力，尤其是主要指数如 S&P 500 和 Nasdaq 都有明显回调。加密市场则受到极度恐慌情绪影响，恐慌贪婪指数为 12，Bitcoin 和 Ethereum 的 RSI 均显示超卖状态。另一方面，美元指数 DXY表现强劲，回调风险相对较小，且技术指标显示继续多头排列，未来走势值得关注。",
+    "market_overview": "当前市场上，美股表现相对疲弱，标准普尔 500 ETF（SPY）在过去 1 日下跌 2.58%，整体趋势依旧偏向下行。同时，加密市场也面临极度恐慌的情绪，恐慌贪婪指数为 12，表明当前市场情绪较悲观，BTC 的主导率为 56.1%，其当前价格在 61820.01 美元，处于长期低位，反映出整体市场的脆弱性，可能会影响投资者信心。商品外汇方面，黄金和原油期货均在震荡走势中，显示出市场的不确定性。",
     "watchlist": [
       {
-        "symbol": "BTC-USD",
-        "display_name": "Bitcoin (BTC-USD)",
+        "symbol": "ETH-USD",
+        "display_name": "Ethereum",
         "stance": "偏下行",
-        "rationale": "当前 Bitcoin 的 RSI 为 20.5，显示出明显的超卖状态，同时 MACD 为 -4111.0184，显示出持续的下行动能，这使得该资产的技术状态偏向下行。"
+        "rationale": "以当前价格 1626.21 美元，RSI 值为 20.6，处于超卖状态，且 MACD 显示空头排列，这表明其短期趋势看跌。"
       },
       {
-        "symbol": "ETH-USD",
-        "display_name": "Ethereum (ETH-USD)",
+        "symbol": "AAPL",
+        "display_name": "Apple",
         "stance": "偏下行",
-        "rationale": "Ethereum 当前的 RSI 值为 20.3，同样表明超卖，且 MACD 的读数为 -147.8877，表明持续的下行压力，整体技术状态也偏向下行。"
+        "rationale": "当前价格 307.34 美元，RSI 值为 60.7，接近超买状态，且 MACD 死叉信号已出现，显示出短期向下压力。"
       },
       {
         "symbol": "^VIX",
         "display_name": "VIX 恐慌指数",
         "stance": "偏上行",
-        "rationale": "VIX 当前值为 21.51，RSI 为 65.7，显示出市场情绪的强烈波动，且出现了 MACD 金叉，表明市场的不确定性在上升，技术状态偏向上行。"
+        "rationale": "当前 VIX 指数为 21.51，近 1 日上涨 39.68%，且 RSI 值为 65.7，显示出恐慌情绪加剧，动量上行。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，市场动态瞬息万变。以上内容仅供技术指标解读参考，不构成任何投资建议。",
+    "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -340,24 +341,28 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 61898.88,
-        "pct1Day": 1.6946110712718392,
-        "pct5Day": -7.203167742397933,
-        "pct52WeekHigh": -50.95100899720575,
-        "pct52WeekLow": 3.0373719648015904,
-        "sma20": 71605.6443359375,
-        "sma50": 75777.220546875,
-        "sma200": 78468.58171875,
-        "rsi14": 20.49992498872828,
-        "macd": -4111.018379070389,
-        "macdSignal": -2722.31825876589,
-        "macdHistogram": -1388.7001203044988,
+        "currentPrice": 61820.01,
+        "pct1Day": 1.565034349121281,
+        "pct5Day": -7.321407138008268,
+        "pct52WeekHigh": -51.013505991018725,
+        "pct52WeekLow": 2.906084330407181,
+        "sma20": 71601.7009765625,
+        "sma50": 75775.643203125,
+        "sma200": 78468.1873828125,
+        "rsi14": 20.13190975756403,
+        "macd": -4117.30977864303,
+        "macdSignal": -2723.5765386804183,
+        "macdHistogram": -1393.7332399626116,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
           {
             "type": "rsi-oversold",
             "label": "RSI 超卖"
+          },
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -371,18 +376,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1623.71,
-        "pct1Day": 3.502258479559924,
-        "pct5Day": -12.596450142104182,
-        "pct52WeekHigh": -67.22249665050579,
-        "pct52WeekLow": 3.754851996727053,
-        "sma20": 1955.5143432617188,
-        "sma50": 2158.5867919921875,
-        "sma200": 2449.656881103516,
-        "rsi14": 20.33170641875529,
-        "macd": -147.88766888008308,
-        "macdSignal": -106.00037448795868,
-        "macdHistogram": -41.8872943921244,
+        "currentPrice": 1626.21,
+        "pct1Day": 3.6616192312944698,
+        "pct5Day": -12.461876311404893,
+        "pct52WeekHigh": -67.1720296592489,
+        "pct52WeekLow": 3.914601662610627,
+        "sma20": 1955.6393432617188,
+        "sma50": 2158.6367919921877,
+        "sma200": 2449.6693811035157,
+        "rsi14": 20.647899445939927,
+        "macd": -147.68823868065306,
+        "macdSignal": -105.96048844807267,
+        "macdHistogram": -41.72775023258039,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
@@ -402,18 +407,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64.73,
-        "pct1Day": 4.084585826481094,
-        "pct5Day": -12.695572250943677,
-        "pct52WeekHigh": -74.43622859927672,
-        "pct52WeekLow": 4.365750085578144,
-        "sma20": 78.91593074798584,
-        "sma50": 84.06071800231933,
-        "sma200": 102.02945329666137,
-        "rsi14": 23.244178250729277,
-        "macd": -5.672415163502009,
-        "macdSignal": -3.596380938691316,
-        "macdHistogram": -2.076034224810693,
+        "currentPrice": 64.9,
+        "pct1Day": 4.357942532652915,
+        "pct5Day": -12.466285170496592,
+        "pct52WeekHigh": -74.36909062402378,
+        "pct52WeekLow": 4.639845211710517,
+        "sma20": 78.9244306564331,
+        "sma50": 84.06411796569824,
+        "sma200": 102.0303032875061,
+        "rsi14": 23.709312372543422,
+        "macd": -5.658854056007797,
+        "macdSignal": -3.593668717192474,
+        "macdHistogram": -2.0651853388153234,
         "trend": "bearish",
         "rsiState": "oversold",
         "signals": [
@@ -724,6 +729,6 @@
       "ethDominance": 8.827041223244176,
       "activeCryptocurrencies": 17344
     },
-    "generated_at": "2026-06-07T14:21:58.466Z"
+    "generated_at": "2026-06-07T15:13:45.489Z"
   }
 }
