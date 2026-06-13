@@ -1,102 +1,108 @@
 {
-  "hero_headline": "AI 技术与全球市场动态交织",
-  "daily_overview": "今天，技术领域继续引领潮流，OpenAI 推出新的学习课程以促进实用 AI 技能；在财经方面，全球投资者关注 SpaceX 的成功 IPO，以及英美经济面临的挑战；政治局势则因伊朗战争和国际会议的紧急磋商而愈发复杂，各国关系都引发关注。整体来看，多元化的新闻反映出当今社会的迅速变革与发展。",
+  "hero_headline": "SpaceX成功上市，马斯克成首位万亿富翁",
+  "daily_overview": "今日科技领域，SpaceX的成功上市使创始人马斯克的财富突破万亿美元，彰显其在航天领域的卓越影响力。财经方面，FIFA世界杯期间官员警告麻疹疫情的传播风险，且多个投资公司加入特朗普的委内瑞拉石油竞标。政治领域，特朗普正在法国参加G7峰会，全球局势仍受伊朗战争的影响，各国紧密关注发展。",
   "tech_briefs": [
     {
-      "title": "Google DeepMind 关注 AI 代理互动的潜在风险",
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "source": "MIT Tech Review AI",
-      "summary": "研究表明，AI 代理互动可能导致不可预测的后果。Google DeepMind 正在资助相关研究，以评估这些隐患，例如如何协调成千上万的 AI 代理之间的行为。（多家报道）",
-      "importance": 9
+      "title": "SpaceX成功上市，市值2100亿美元",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/spacex-shares-close-higher-post-historic-75-billion-ipo-video",
+      "source": "Bloomberg Markets",
+      "summary": "SpaceX首日交易上涨19%，成为最有价值的上市公司，其上市标志着马斯克的回报丰厚，个人财富增至1110亿美元。该IPO被认为是历史上最大的一次，吸引了大量投资者关注。",
+      "importance": 10
     },
     {
-      "title": "OpenAI 推出实用 AI 技能课程",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "source": "OpenAI News",
-      "summary": "OpenAI 新推出的三门课程旨在帮助用户掌握 AI 应用技巧，利用自动化运营日常工作，提升工作效率。这些课程关注实践性，是 AI 行业影响力的又一体现。（多家报道）",
+      "title": "Google DeepMind对多智能体交互担忧",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Tech Review AI",
+      "summary": "谷歌DeepMind正在资助研究，以探究多种AI智能体之间的交互所带来的潜在危险，帮助加强技术安全性。",
       "importance": 8
     },
     {
-      "title": "Elon Musk 通过 SpaceX IPO 实现历史性成就",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/how-wall-street-pulled-off-the-biggest-ipo-in-history-for-spacex",
-      "source": "Financial Times",
-      "summary": "SpaceX 近期上市，此次 IPO 成功将 Elonn Musk 的资产推至 1.11 万亿美元，成为全球首位亿万富翁，引发业界和投资者的广泛关注。（多家报道）",
-      "importance": 10
+      "title": "OpenAI推出新课程以应用AI",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出三门新学院课程，旨在帮助人们建立实用的AI技能，推广在日常工作中的应用，助力提升工作效率。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "Musk 成为全球首位亿万富翁",
+      "title": "穆斯克成首位万亿富翁",
       "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "根据彭博社的数据显示，Elon Musk 的净资产达到 1.11 万亿美元，SpaceX 的估值也随之大幅上升，成为市场关注的焦点。（多家报道）",
-      "importance": 9
+      "summary": "由于SpaceX股票的成功上市，马斯克的财富首次突破万亿大关，成为全球第一位万亿富翁，进一步巩固其在科技界的领导地位。",
+      "importance": 10
     },
     {
-      "title": "投资公司参与特朗普竞逐委内瑞拉石油",
+      "title": "投资公司参与特朗普委内瑞拉石油竞标",
       "url": "https://www.ft.com/content/6982febe-5d1b-4e16-9505-fbee84ca60ab",
       "source": "Financial Times",
-      "summary": "Lionheart Capital 和 Keo Energy 合作创建了在纳斯达克上市的公司，意在追寻拉丁美洲的石油资产，显示出对该地区资源的持续兴趣。（多家报道）",
-      "importance": 7
+      "summary": "Lionheart Capital和Keo Energy联合创建在纳斯达克上市的公司，目标是追求委内瑞拉的矿产资源，推动盈利机会（多家报道）。",
+      "importance": 8
     },
     {
-      "title": "美经济在伊朗战争影响下收缩",
-      "url": "https://www.bbc.com/news/articles/c77y47248k4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "根据官方数据，美国经济在四月略有收缩，原因与即将开始的伊朗战争有关，商界对此感到担忧，预示着更广泛的经济挑战。（多家报道）",
+      "title": "世界杯期间健康官员发出麻疹疫情警告",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/health-officials-warn-of-measles-outbreak-at-world-cup-video",
+      "source": "Bloomberg Markets",
+      "summary": "由于FIFA世界杯的举办，预计将为病原体传播创造良好的环境，世界各地的健康官员呼吁警惕麻疹等传染病的扩散风险。",
       "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普启程参加 G7 峰会",
+      "title": "特朗普出席G7峰会",
       "url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
       "source": "NPR World",
-      "summary": "美国总统特朗普前往法国参加 G7 峰会，伊朗战争在国际讨论中成为焦点，形势复杂，全球领导者的立场受到广泛关注。（多家报道）",
-      "importance": 8
+      "summary": "总统特朗普于今日抵达法国，参加第52届G7峰会，讨论全球局势，尤其是伊朗战争相关问题。",
+      "importance": 9
     },
     {
-      "title": "瑞士将投票决定限制人口计划",
-      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "瑞士人民党提出的计划旨在实现可持续发展，但受到反对者的质疑，认为该计划将导致混乱，相关的投票将在周一举行。（多家报道）",
-      "importance": 7
+      "title": "欧盟启动乌克兰和摩尔多瓦入盟谈判",
+      "url": "https://www.dw.com/zh/欧盟将启动乌克兰和摩尔多瓦首轮入盟谈判/a-77537180?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "欧盟计划于周一启动与乌克兰和摩尔多瓦的入盟谈判首轮磋商，期待两国能够满足欧盟标准。",
+      "importance": 8
     }
   ],
-  "editor_note": "今日新闻展现了技术进步与经济波动的复杂关系，以及政治局势的深远影响，提醒人们关注全球范围内的各类动态。",
+  "editor_note": "今日简报涵盖了重要的国际经济发展、科技创新及政治动态，反映出全球局势的复杂性与多变性，值得关注。",
   "keywords": [
-    "AI",
-    "投资",
     "SpaceX",
-    "特朗普",
-    "全球经济",
-    "伊朗战争",
-    "DeepMind",
-    "OpenAI"
+    "马斯克",
+    "AI",
+    "G7峰会",
+    "委内瑞拉",
+    "世界杯",
+    "国际政治",
+    "经济动态"
   ],
   "trading": {
-    "market_overview": "当前整体市场看法偏向震荡。加密货币领域恐慌指数为13，显示出极度恐慌的市场心理。比特币市值回暖至2.28万亿美元，主导率保持在56.5%。美股表现强劲，特别是S&P 500和Nasdaq 100都显示出上行趋势，而中概股普遍处于抑制状态，显示出当前市场的分化特征。",
+    "market_overview": "当前市场整体情绪偏向谨慎，加密市场的恐慌贪婪指数为13，表明极度恐慌的状态，整体加密货币市值为2.28万亿美元，主要资产如比特币的主导率为56.5%。美股方面，S&P 500 ETF（SPY）和纳斯达克100 ETF（QQQ）表现出上行势头，而一些个股如苹果（AAPL）则呈现出下行压力，整体呈现出多元化的技术面状态，有上涨和下行的标的，未来走势需关注市场情绪变化。虽然大部分资产依然在短期内面临一定的压力，但也有部分ETF显示出买入信号。总体来说，市场仍在进行调整。 ",
     "watchlist": [
       {
         "symbol": "SPY",
         "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "当前价格741.75接近52周高点，RSI为52.9，显示出正常的趋势，并且MACD为3.7722，表明多头势头强劲。"
+        "rationale": "SPY 当前价格为741.75，接近52周高点并且rsi14为52.9，说明市场处于正常状态，多头排列信号强烈，表明上行趋势明显。"
       },
       {
         "symbol": "QQQ",
         "display_name": "Nasdaq 100 ETF",
         "stance": "偏上行",
-        "rationale": "QQQ当前价格721.34，RSI为55.2，处于正常区间，同时MACD为8.3152，显示出强劲的上行动能，趋势偏向多头排列。"
+        "rationale": "QQQ 当前价格721.34，rsi14为55.2，且形成多头排列，表明短期内具备继续向上的动能，整体趋势看涨。"
+      },
+      {
+        "symbol": "AAPL",
+        "display_name": "Apple",
+        "stance": "偏下行",
+        "rationale": "AAPL 当前价格291.13，rsi14下滑至44，且连续的5个交易日下跌5.27%，表现出较强的下行压力，当前状态偏弱。"
       },
       {
         "symbol": "BTC-USD",
         "display_name": "Bitcoin",
-        "stance": "中性",
-        "rationale": "比特币当前价格64096.76，同时MACD显示在-3567.0725，呈现空头排列，但近期小幅反弹，显示出动能尚未完全消失，RSI为35.2，略有超卖迹象。"
+        "stance": "偏下行",
+        "rationale": "BTC当前价格为64252，rsi14为35.9，且处于超卖状态，尽管存在MACD金叉，但整体仍然维持空头排列，表明下行风险较大。"
       }
     ],
-    "risk_caveat": "以上内容基于公开行情数据的技术指标计算与文本摘要，不构成任何投资建议。过去走势不代表未来表现，市场风险自负。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考，不构成投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -309,18 +315,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64096.76,
-        "pct1Day": 0.8711566116530378,
-        "pct5Day": 1.5948022656657366,
-        "pct52WeekHigh": -49.20939757636547,
-        "pct52WeekLow": 8.438391648448047,
-        "sma20": 67497.380859375,
-        "sma50": 74151.5465625,
-        "sma200": 77768.26626953125,
-        "rsi14": 35.245816183374075,
-        "macd": -3567.072548703196,
-        "macdSignal": -3570.179105765247,
-        "macdHistogram": 3.1065570620512517,
+        "currentPrice": 64252,
+        "pct1Day": 1.115462850414448,
+        "pct5Day": 1.840861147639205,
+        "pct52WeekHigh": -49.08638460160286,
+        "pct52WeekLow": 8.701025452707496,
+        "sma20": 67505.1427734375,
+        "sma50": 74154.651328125,
+        "sma200": 77769.0424609375,
+        "rsi14": 35.88559881015648,
+        "macd": -3554.6888681476485,
+        "macdSignal": -3567.7023696541373,
+        "macdHistogram": 13.013501506488865,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -341,18 +347,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1678.05,
-        "pct1Day": 0.7760480801353156,
-        "pct5Day": -0.715828173908474,
-        "pct52WeekHigh": -66.12554612854589,
-        "pct52WeekLow": 11.386877981236044,
-        "sma20": 1824.47421875,
-        "sma50": 2080.4817041015626,
-        "sma200": 2414.400520019531,
-        "rsi14": 32.42923077954448,
-        "macd": -132.32661366861475,
-        "macdSignal": -130.8500004579428,
-        "macdHistogram": -1.4766132106719567,
+        "currentPrice": 1680.49,
+        "pct1Day": 0.9225833784372349,
+        "pct5Day": -0.571462166187805,
+        "pct52WeekHigh": -66.07629034507916,
+        "pct52WeekLow": 11.548842155291775,
+        "sma20": 1824.5962158203124,
+        "sma50": 2080.5305029296874,
+        "sma200": 2414.4127197265625,
+        "rsi14": 32.721038292363204,
+        "macd": -132.1319744681159,
+        "macdSignal": -130.81107261784302,
+        "macdHistogram": -1.3209018502728895,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -368,18 +374,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 68.17,
-        "pct1Day": 2.128449766778023,
-        "pct5Day": 2.05861005685014,
-        "pct52WeekHigh": -73.07767192357012,
-        "pct52WeekLow": 12.836739125828936,
-        "sma20": 73.19682350158692,
-        "sma50": 81.74087280273437,
-        "sma200": 100.03297058105468,
-        "rsi14": 37.79215929924203,
-        "macd": -5.166947568135967,
-        "macdSignal": -5.038842128811042,
-        "macdHistogram": -0.12810543932492546,
+        "currentPrice": 68.5,
+        "pct1Day": 2.622837157463612,
+        "pct5Day": 2.55265936473866,
+        "pct52WeekHigh": -72.94734526572618,
+        "pct52WeekLow": 13.382963622110633,
+        "sma20": 73.21332359313965,
+        "sma50": 81.74747283935547,
+        "sma200": 100.03462059020995,
+        "rsi14": 38.55243423913496,
+        "macd": -5.140622635744137,
+        "macdSignal": -5.033577142332676,
+        "macdHistogram": -0.1070454934114613,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -650,11 +656,11 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 99.807,
-        "pct1Day": -0.05307491490848865,
-        "pct5Day": -0.2628157246190332,
-        "pct52WeekHigh": -0.8277027027027012,
-        "pct52WeekLow": 4.455259026687604,
+        "currentPrice": 99.75,
+        "pct1Day": -0.11015482643624154,
+        "pct5Day": -0.31977585270320497,
+        "pct52WeekHigh": -0.8843402225755171,
+        "pct52WeekLow": 4.395604395604399,
         "sma20": 99.42100028991699,
         "sma50": 98.8972004699707,
         "sma200": 98.64450019836426,
@@ -683,13 +689,13 @@
       "timestamp": "2026-06-13T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2276621216537.247,
-      "total24hVolumeUsd": 61493671515.60772,
-      "marketCapChangePct24h": 0.17373877537267016,
-      "btcDominance": 56.46083080091714,
-      "ethDominance": 8.903972482815993,
+      "totalMarketCapUsd": 2279516759605.5874,
+      "total24hVolumeUsd": 56533694203.59914,
+      "marketCapChangePct24h": 0.9082310668143205,
+      "btcDominance": 56.486779079157934,
+      "ethDominance": 8.893292281413364,
       "activeCryptocurrencies": 17463
     },
-    "generated_at": "2026-06-13T14:24:25.116Z"
+    "generated_at": "2026-06-13T15:16:57.565Z"
   }
 }
