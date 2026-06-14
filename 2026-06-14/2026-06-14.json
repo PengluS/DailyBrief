@@ -1,114 +1,101 @@
 {
-  "hero_headline": "全球经济与技术动态交织，AI安全成焦点",
-  "daily_overview": "今日资讯涵盖了技术、财经与政治三大领域的核心内容。在技术方面，Google DeepMind 加大对多智能体安全研究的投资，凸显对未来人工智能互动的关注。财经上，2026 年世界杯预计将创造超 110 亿美元的收入，成为足球历史上最富盛名的赛事，同时美股市场也在吸引大量融资。政治方面，特朗普声称美国与伊朗的和平协议将于周日签署，而伊朗对此表达了怀疑（多家报道）。",
+  "hero_headline": "AI、安全与国际关系热点新闻",
+  "daily_overview": "今天的新闻聚焦于技术进展、安全研究与国际政治。OpenAI 推出多项新课程，旨在提升人们的 AI 应用技能，同时 DeepMind 开始关注 AI 交互带来的潜在风险。在金融方面，美国经济表现强劲，尽管面临挑战，但总体趋势向好。同时，与伊朗和以色列间的紧张局势在持续升温，使得全球和平议程受到考验。",
   "tech_briefs": [
     {
-      "title": "Google DeepMind 加强多智能体安全研究",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "source": "DeepMind Blog",
-      "summary": "Google DeepMind 和合作伙伴宣布将为多智能体安全研究提供 1000 万美元的资金支持，旨在探索数百万 AI 代理在线互动时可能带来的安全隐患。",
-      "importance": 10
-    },
-    {
-      "title": "OpenAI推出新课程以应用AI",
+      "title": "OpenAI推出新课程提升AI应用技能",
       "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
       "source": "OpenAI News",
-      "summary": "OpenAI 推出了三门新课程，旨在帮助人们建立实用的人工智能技能，提升工作效率和流程的重复性应用。",
+      "summary": "OpenAI推出三门新课程，专注于帮助用户构建实用的AI技能，理顺工作流程，并在日常工作中应用智能体。这将进一步推动AI技术的普及及应用。（多家报道）",
+      "importance": 9
+    },
+    {
+      "title": "Google DeepMind关注AI交互的潜在风险",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "source": "MIT Tech Review AI",
+      "summary": "Google DeepMind开始资助研究AI智能体相互作用带来的潜在危险，预示着AI安全议题的重要性正在增加，尤其是在智能体数量激增的情况下。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Anthropic暂停新AI工具发布，因安全隐患",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "Anthropic 由于对其最新AI工具的网络安全和黑客威胁的担忧，已暂停全球用户访问的权限，反映出对AI发展的监管愈发严格。（多家报道）",
-      "importance": 9
+      "title": "OpenAI计划收购Ona以增强Codex平台",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News",
+      "summary": "OpenAI计划收购Ona，旨在为Codex提供更加安全和持久的云环境，有效支持长期AI智能体在企业工作流程中的应用。（多家报道）",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "2026 年世界杯将创造超 110 亿美元收入",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-14/fifa-s-american-dream-how-the-world-cup-cashed-in-video",
-      "source": "Bloomberg Markets",
-      "summary": "2026 年世界杯预计将打破财务纪录，成为足球历史上最丰厚的赛事，门票价格飙升和二级市场的繁荣将进一步推动收入增加。",
+      "title": "美国经济持续向好分析",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "尽管面临全球经济震荡的挑战，美国经济依然表现强劲，分析认为其应对措施和结构性优势使其在全球风波中稳健前行。（多家报道）",
       "importance": 9
     },
     {
-      "title": "美股市场新融资潮显示投资热情",
-      "url": "https://www.ft.com/content/db05efcb-9035-4d55-aca4-7253656a1c06",
-      "source": "Financial Times",
-      "summary": "在AI竞争加剧的背景下，SpaceX、Anthropic 和 Alphabet 等公司的融资案显示投资者对新发行股票的接受度在增加，表明市场活跃。",
+      "title": "英国计划逐步淘汰俄罗斯燃料进口",
+      "url": "https://www.bbc.com/news/articles/ceqdl8xre7qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "英国政府决定逐步停用俄罗斯柴油和喷气燃料，作为对乌克兰战争的制裁措施的一部分，显示出国际社会对俄罗斯的持续压力。（多家报道）",
       "importance": 8
     },
     {
-      "title": "英国推动电动汽车目标放宽",
+      "title": "美国国会讨论节能电动汽车政策",
       "url": "https://www.ft.com/content/a38fc691-fa88-4636-b766-a0477fe80818",
       "source": "Financial Times",
-      "summary": "英国首相计划将全电动车目标从 80% 降至 50%，因担心工作岗位流失，这一决定可能会影响电动车市场发展方向。",
+      "summary": "英国首相将在即将到来的会议上提出将电动汽车的全电池目标从80%降低至50%的提案，原因是担忧可能出现的失业现象。（多家报道）",
       "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普称与伊朗的和平协议将于周日签署",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "特朗普声称美国与伊朗的和平协议将在周日签署，但伊朗方面对此表示时间尚未确定，引发国际关注。（多家报道）",
-      "importance": 9
+      "title": "特朗普呼吁避免中东冲突升级",
+      "url": "https://www.theguardian.com/world/live/2026/jun/14/iran-us-middle-east-crisis-donald-trump-peace-deal-strait-hormuz-open-pakistan-latest-news-updates",
+      "source": "The Guardian",
+      "summary": "特朗普在以色列和伊朗关系紧张时呼吁各方保持克制，强调任何进一步的攻击都可能破坏即将达成的和平协议。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "英国扣留一艘疑似俄罗斯油轮",
-      "url": "https://www.ft.com/content/3fb01bb7-791f-449c-96c6-a75fd39220fd",
-      "source": "Financial Times",
-      "summary": "英国政府宣布扣押一艘被怀疑与俄罗斯“影子舰队”有关的油轮，作为应对乌克兰战争的进一步制裁措施。",
-      "importance": 8
+      "title": "英国扣留涉嫌与俄罗斯油轮有关的船只",
+      "url": "https://www.npr.org/2026/06/14/nx-s1-5857587/britain-detains-sanctioned-oil-tanker-believed-linked-to-russias-shadow-fleet",
+      "source": "NPR World",
+      "summary": "英国正在调查一艘被扣押的油轮，该油轮怀疑是俄罗斯的“影子舰队”一部分，涉嫌违反国际制裁。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今天的简报把技术、财经和政治的最新动态做了整合，突出AI安全与国际关系的紧迫性，值得关注。",
+  "editor_note": "今日简报涵盖了技术进步、财经表现和政治动态，展现出国际局势下的多重挑战与机遇。",
   "keywords": [
-    "AI安全",
-    "2026世界杯",
-    "特朗普",
-    "融资",
-    "产业电动化",
-    "多智能体",
-    "英国",
-    "伊朗"
+    "AI",
+    "安全",
+    "美国经济",
+    "国际关系",
+    "电动汽车",
+    "中东局势",
+    "OpenAI"
   ],
   "trading": {
-    "market_overview": "整体来看，美股市场表现稳健，标普500 ETF（SPY）和纳斯达克100 ETF（QQQ）均有增长，分别显示多头排列。而加密市场则显示出恐慌状态，贝特币（BTC）已经出现超卖，整体市值为2.27万亿美金，恐慌贪婪指数为18，表明极度恐慌状态。商品市场中，黄金和原油价格波动，波动较小。整体市场情绪分化，不同资产之间表现不一。",
+    "market_overview": "当前市场整体表现出一定的多头趋势， US 股市中的 SPY 和 QQQ 均显示出积极的信号，尤其是 SPY 接近 52 周高点。然而，加密货币市场表现相对疲软，Bitocin 当前价格 63997.99，尽管短期内有反弹，但整体仍处于空头排列。加密恐慌贪婪指数为 18，显示出极度恐慌的市场情绪。整体来看，各类资产间呈现出多元化的趋势与状态。",
     "watchlist": [
       {
         "symbol": "SPY",
         "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "当前价格741.75，接近52周高位，RSI14为52.9，处于正常区域，且MACD为3.7722，显示出多头排列的信号。"
+        "rationale": "当前价格为 741.75，接近 52 周高点，且 RSI 读数为 52.9，处于正常状态，显示出上行趋势。"
       },
       {
         "symbol": "QQQ",
         "display_name": "Nasdaq 100 ETF",
-        "stance": "偏上行",
-        "rationale": "当前价格721.34，RSI14为55.2，显示正常状态，MACD为8.3152，有利于上行趋势形成，并且长期趋势保持在多头排列。"
+        "stance": "偏下行",
+        "rationale": "当前价格为 721.34，过去 5 天下跌 2.31%。尽管 MACD 有多头排列，但当前 RSI 为 55.2，显示出上行压力，可能存在调整风险。"
       },
       {
         "symbol": "BTC-USD",
         "display_name": "Bitcoin",
         "stance": "偏下行",
-        "rationale": "当前价格64239.8，RSI14为36.1，显示超卖状态，且MACD为-3311.4577，呈现空头排列，需关注未来的反弹潜力。"
-      },
-      {
-        "symbol": "META",
-        "display_name": "Meta",
-        "stance": "偏下行",
-        "rationale": "当前价格566.98，RSI14为34.7，处于超卖区域，MACD显著为负，显示出空头排列的趋势，整体技术面表现弱势。"
-      },
-      {
-        "symbol": "AAPL",
-        "display_name": "Apple",
-        "stance": "中性",
-        "rationale": "当前价格291.13，尽管RSI14为44，接近合理支持位，然而MACD为2.2614显示出尚未形成上行趋势，因此目前处于中性状态。"
+        "rationale": "现价为 63997.99，过去五天涨幅 3.82% 但 RSI 仅 35.5，处于超卖状态，且 MACD 显示空头排列，表明前景偏弱。"
       }
     ],
-    "risk_caveat": "请注意，过去走势不代表未来表现，本报告仅供技术指标解读参考，不能作为投资建议。",
+    "risk_caveat": "请注意，过去走势不代表未来表现，此报告仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -321,18 +308,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64239.8,
-        "pct1Day": -0.2817766026255697,
-        "pct5Day": 4.211323019708501,
-        "pct52WeekHigh": -49.096051944376015,
-        "pct52WeekLow": 8.680385589193165,
-        "sma20": 66861.6025390625,
-        "sma50": 73890.593515625,
-        "sma200": 77638.49625,
-        "rsi14": 36.12451043490471,
-        "macd": -3311.457687860384,
-        "macdSignal": -3514.2922580808245,
-        "macdHistogram": 202.83457022044058,
+        "currentPrice": 63997.99,
+        "pct1Day": -0.6571336803206995,
+        "pct5Day": 3.8190531181926772,
+        "pct52WeekHigh": -49.287663432570724,
+        "pct52WeekLow": 8.271293343586496,
+        "sma20": 66849.5119140625,
+        "sma50": 73885.757265625,
+        "sma200": 77637.2871875,
+        "rsi14": 35.548693433655885,
+        "macd": -3330.7475739002693,
+        "macdSignal": -3518.1502352888015,
+        "macdHistogram": 187.40266138853212,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -353,18 +340,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1666.75,
-        "pct1Day": -0.8013618982066529,
-        "pct5Day": 1.7734149576929739,
-        "pct52WeekHigh": -66.35365692902707,
-        "pct52WeekLow": 10.636820026635153,
-        "sma20": 1802.3514282226563,
-        "sma50": 2067.4834130859376,
-        "sma200": 2407.606032714844,
-        "rsi14": 31.86989836009556,
-        "macd": -126.76469261670877,
-        "macdSignal": -130.00531157480435,
-        "macdHistogram": 3.240618958095581,
+        "currentPrice": 1660.43,
+        "pct1Day": -1.1775043267672214,
+        "pct5Day": 1.387509463448118,
+        "pct52WeekHigh": -66.4812374829245,
+        "pct52WeekLow": 10.217306180786448,
+        "sma20": 1802.0354309082031,
+        "sma50": 2067.3570141601563,
+        "sma200": 2407.5744329833983,
+        "rsi14": 31.499759617921526,
+        "macd": -127.26884787623521,
+        "macdSignal": -130.10614262670964,
+        "macdHistogram": 2.8372947504744275,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -385,18 +372,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 67.67,
-        "pct1Day": -1.746390003471691,
-        "pct5Day": 4.168496226587718,
-        "pct52WeekHigh": -73.27513655666701,
-        "pct52WeekLow": 12.009126252674843,
-        "sma20": 72.36493759155273,
-        "sma50": 81.38530502319335,
-        "sma200": 99.65977355957031,
-        "rsi14": 37.609611137764944,
-        "macd": -4.828365366840259,
-        "macdSignal": -4.987776702073298,
-        "macdHistogram": 0.15941133523303908,
+        "currentPrice": 67.35,
+        "pct1Day": -2.2110147293308575,
+        "pct5Day": 3.675901002817822,
+        "pct52WeekHigh": -73.40151392184903,
+        "pct52WeekLow": 11.479454013856213,
+        "sma20": 72.34893760681152,
+        "sma50": 81.37890502929687,
+        "sma200": 99.65817356109619,
+        "rsi14": 37.162907415623735,
+        "macd": -4.85389240802283,
+        "macdSignal": -4.992882110309813,
+        "macdHistogram": 0.13898970228698282,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -672,11 +659,11 @@
         "group": "macro",
         "currency": "USD",
         "exchangeName": "NYB",
-        "currentPrice": 99.807,
-        "pct1Day": -0.05307491490848865,
-        "pct5Day": -0.2628157246190332,
-        "pct52WeekHigh": -0.8277027027027012,
-        "pct52WeekLow": 4.455259026687604,
+        "currentPrice": 99.75,
+        "pct1Day": -0.11015482643624154,
+        "pct5Day": -0.31977585270320497,
+        "pct52WeekHigh": -0.8843402225755171,
+        "pct52WeekLow": 4.395604395604399,
         "sma20": 99.42100028991699,
         "sma50": 98.8972004699707,
         "sma200": 98.64450019836426,
@@ -705,13 +692,13 @@
       "timestamp": "2026-06-14T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2274616878076.432,
-      "total24hVolumeUsd": 50320851086.46893,
-      "marketCapChangePct24h": -0.12120889300561487,
-      "btcDominance": 56.63408626949854,
-      "ethDominance": 8.840345168559136,
+      "totalMarketCapUsd": 2268587453862.995,
+      "total24hVolumeUsd": 51506222199.38515,
+      "marketCapChangePct24h": -0.518755660274772,
+      "btcDominance": 56.61537553087407,
+      "ethDominance": 8.842013940057452,
       "activeCryptocurrencies": 17446
     },
-    "generated_at": "2026-06-14T14:25:44.861Z"
+    "generated_at": "2026-06-14T15:20:24.736Z"
   }
 }
