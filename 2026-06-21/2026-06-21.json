@@ -1,102 +1,114 @@
 {
-  "hero_headline": "AI技术助力英国住房建设",
-  "daily_overview": "今日科技领域迎来了多个AI相关项目的更新和发布，OpenAI和DeepMind推出的新功能和合作将促进企业在AI应用中的有效性和成本控制。财经方面，欧洲最大的资产管理公司Amundi面临收购压力，而英国国债增加给公共财政带来警示。政治方面，伊朗与美国开启了历史性的和谈，面临的挑战与机遇并存，英国政坛对于首相斯塔默的未来产生了更多的质疑和讨论。",
+  "hero_headline": "科技与财经动态牵动全球局势",
+  "daily_overview": "今日，科技领域再迎新发展，OpenAI和DeepMind等企业推出新工具以提升AI应用，助力建筑规划及企业管理。同时，财经界则受到多重因素影响，包括俄乌局势对油价的作用和英国的财政政策变动，展现出市场的波动与机遇。政治方面，全球紧张局势加剧，其中美伊谈判在瑞士进行，成为各方关注的焦点。整体来看，科技创新与国际金融形势紧密相连，值得密切关注。",
   "tech_briefs": [
     {
-      "title": "DeepMind助力英国住房建设",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source": "DeepMind Blog",
-      "summary": "英国政府与Google DeepMind合作，推出了一个新型AI原型，旨在加速住房决策流程，通过优化规划，提高住房建设的效率。",
+      "title": "OpenAI推出新支出控制工具",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI News",
+      "summary": "OpenAI为ChatGPT企业版推出新的支出控制和使用分析工具，旨在帮助组织更好地管理成本并提升AI应用的信心。（多家报道）",
       "importance": 8
     },
     {
-      "title": "OpenAI推出企业使用新控制与分析工具",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source": "OpenAI News",
-      "summary": "OpenAI为ChatGPT Enterprise引入了新的支出控制和使用分析功能，旨在帮助组织有效管理成本，增强AI部署的信心和可控性。",
+      "title": "DeepMind与英国政府合作推动住房AI规划",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source": "DeepMind Blog",
+      "summary": "DeepMind与英国政府合作，推出新的AI原型，旨在加速住房决策，此举希望能够应对持续的住房危机。（多家报道）",
       "importance": 7
     },
     {
-      "title": "Subquadratic打破LLM瓶颈",
+      "title": "LLM发展带动新创业公司崛起",
       "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
       "source": "MIT Tech Review AI",
-      "summary": "迈阿密AI初创公司Subquadratic声称其解决了限制大型语言模型发展的数学瓶颈，为该领域带来新的突破。",
-      "importance": 8
+      "summary": "迈阿密的一家创业公司宣称突破了限制大型语言模型发展的数学瓶颈，可能会带来全新的计算能力和应用场景，值得关注。（多家报道）",
+      "importance": 9
     }
   ],
   "finance_briefs": [
     {
-      "title": "Amundi面临收购压力",
-      "url": "https://www.bloomberg.com/news/features/2026-06-21/europe-s-largest-asset-manager-amundi-is-under-pressure-to-make-a-deal",
-      "source": "Bloomberg Markets",
-      "summary": "Amundi因多年未进行重大收购而面临竞争压力，考虑进行策略调整以维持在欧洲资产管理市场的领先地位。",
-      "importance": 7
-    },
-    {
-      "title": "O'Leary在新合同中可能获得€150百万赔偿",
+      "title": "Ryanair首席执行官面临丰厚合同收入",
       "url": "https://www.ft.com/content/a113ebe0-6133-42ac-9ec7-adc73fd6ef01",
       "source": "Financial Times",
-      "summary": "Ryanair首席执行官O'Leary签署了新合同，其中包含达成目标后的丰厚股权奖励，激励投资者的关注。",
-      "importance": 6
+      "summary": "Ryanair首席执行官迈克尔·奥莱利与航空公司续签新合同，包含丰厚的股权奖励，若达成目标可获150百万欧元奖金。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "美国消费者财务状况向下滑",
+      "title": "美国家庭储蓄率指数骤降",
       "url": "https://www.economist.com/finance-and-economics/2026/06/21/how-stretched-is-the-american-consumer",
       "source": "The Economist Finance",
-      "summary": "美国家庭储蓄率急剧下降，专家呼吁理性对待其消费能力的下降，以防经济过度回撤。",
+      "summary": "美国家庭储蓄率急剧下降，反映消费者面临财务压力，经济复苏的复盖面依然狭隘。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "油价在市场波动中保持不定",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-volatile-for-months",
+      "source": "The Economist Finance",
+      "summary": "在乌克兰战事的影响下，油价将继续维持不确定性，市场对于未来几个月的波动持谨慎态度。（多家报道）",
+      "importance": 9
     }
   ],
   "politics_briefs": [
     {
-      "title": "伊朗与美国开启历史性和谈",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "伊朗与美国启动了为期60天的和平谈判，讨论地区安全与经济合作，面临诸多挑战。",
-      "importance": 8
+      "title": "美伊谈判在瑞士开启新一轮",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "美伊两国代表在瑞士进行面对面的谈判，双方希望在持续的冲突背景下找到和平解决方案，成为国际焦点。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "英国政坛对斯塔默压力加大",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-21/uk-s-starmer-faces-growing-pressure-to-step-down-video",
-      "source": "Bloomberg Markets",
-      "summary": "随着政局动荡升级，英国首相斯塔默备受压力，有关其辞职的传闻日益增多。",
-      "importance": 6
+      "title": "法国因高温气候取消活动",
+      "url": "https://www.theguardian.com/world/2026/jun/21/france-cancels-events-restricts-alcohol-consumption-music-festival-heatwave",
+      "source": "The Guardian",
+      "summary": "法国因面临极端高温，决定取消全国性音乐节和相关活动，同时限制酒精消费，以保障公众安全。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今天的新闻展示了技术进步对经济和政治的重要影响，各方需关注其带来的机遇与挑战。",
+  "editor_note": "今日简报汇聚了科技创新、财经动态及国际政治进展。各领域变化迅速，应关注后续发展。",
   "keywords": [
+    "科技",
+    "财经",
+    "政治",
     "AI",
-    "DeepMind",
-    "OpenAI",
-    "财务",
-    "和谈",
-    "英国",
-    "经济",
-    "美国"
+    "美伊谈判",
+    "油价波动",
+    "住房政策",
+    "消费者信心"
   ],
   "trading": {
-    "market_overview": "当前市场表现不一，美股方面，纳斯达克和标普500表现出偏强的上涨动能，分别接近52周高，RSI状态正常；相对地，加密市场恐慌贪婪指数为23，显示极度恐慌，整体加密资产市值为2.28万亿，BTC主导率56.2%。在商品和外汇市场，WTI原油期货其价格呈现下行趋势，而黄金期货则处于中性。整体来看，技术指标呈现出较为复杂的状况。",
+    "market_overview": "当前市场呈现出多样化的技术面状况。美股方面，S&P 500 ETF和Nasdaq 100 ETF的走势偏向上行，技术指标均显示强势。而在加密市场，Bitcoin和Ethereum技术指标下行明显，分别为40.5与41.3的RSI值，显示出市场情绪低迷，恐慌贪婪指数为23，反映出极度恐慌的情绪。此外，整体风险偏好仍显不足，使得部分商品如WTI原油和黄金期货处于相对中立的状态。商品和外汇市场上，美元指数虽然RSI超买，但也显示出市场的强势反弹迹象。",
     "watchlist": [
       {
-        "symbol": "QQQ",
-        "display_name": "纳斯达克 100 ETF (QQQ)",
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "当前价格740.62，接近52周高，且RSI为59.1，表明强劲的动量，符合多头排列。"
+        "rationale": "当前价格746.74接近52周高，且RSI为54.1在正常范围内，MACD为3.9298呈现出多头态势，技术指标显示出上行倾向。"
       },
       {
-        "symbol": "SPY",
-        "display_name": "标普500 ETF (SPY)",
+        "symbol": "QQQ",
+        "display_name": "Nasdaq 100 ETF",
         "stance": "偏上行",
-        "rationale": "当前价格746.74，RSI为54.1，处于正常区间，且MACD为3.9298，显示出偏强的上涨力量。"
+        "rationale": "当前价格740.62接近52周高，RSI为59.1，显示出正常的上行动能，同时MACD为9.5234，指标信号表明趋势依然强劲。"
+      },
+      {
+        "symbol": "MSFT",
+        "display_name": "Microsoft",
+        "stance": "偏下行",
+        "rationale": "目前价格379.4处于熊市状态，RSI为34.9显示超卖情况，并且MACD为-8.5715,明显处于空头排列，显示出下行压力。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "当前价格107.1，RSI为24.7，处于超卖状态，且MACD显示空头排列，短期面临压力。"
+        "rationale": "当前价格107.1，RSI为24.7属于超卖状态，同时MACD为-6.2971，显示出明显的空头排列，技术面信号指向下行。"
+      },
+      {
+        "symbol": "DX-Y.NYB",
+        "display_name": "美元指数 DXY",
+        "stance": "中性",
+        "rationale": "当前价格100.76，RSI为70.9接近超买区域，同时MACD为0.347表示强劲，但略显疲态，趋势不典型，属于中性状态。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，投资决策应结合更多信息，仅供技术指标解读参考。",
+    "risk_caveat": "过去的走势不代表未来的表现，所有分析结论仅供技术指标解读参考，投资需谨慎。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -328,18 +340,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64139.22,
-        "pct1Day": -0.15637653837493282,
-        "pct5Day": -2.2277535875816743,
-        "pct52WeekHigh": -49.17575205389433,
-        "pct52WeekLow": 8.510225140646295,
-        "sma20": 63704.68125,
-        "sma50": 72116.67046875,
-        "sma200": 76728.22173828125,
-        "rsi14": 40.25572713943607,
-        "macd": -2060.0576918560328,
-        "macdSignal": -2564.5590423954613,
-        "macdHistogram": 504.5013505394286,
+        "currentPrice": 64221.61,
+        "pct1Day": -0.028122466420156467,
+        "pct5Day": -2.102160301883484,
+        "pct52WeekHigh": -49.11046579396975,
+        "pct52WeekLow": 8.649611891051707,
+        "sma20": 63708.80078125,
+        "sma50": 72118.31828125,
+        "sma200": 76728.63369140626,
+        "rsi14": 40.49760008843432,
+        "macd": -2053.4852203460614,
+        "macdSignal": -2563.244548093467,
+        "macdHistogram": 509.7593277474057,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -355,18 +367,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1728.21,
-        "pct1Day": -0.6376923318246427,
-        "pct5Day": -3.4734280670094675,
-        "pct52WeekHigh": -65.11297641596752,
-        "pct52WeekLow": 14.716459419967684,
-        "sma20": 1709.3277648925782,
-        "sma50": 1991.4020141601563,
-        "sma200": 2363.899984741211,
-        "rsi14": 41.229550047774325,
-        "macd": -68.28030063640153,
-        "macdSignal": -90.1660961683607,
-        "macdHistogram": 21.88579553195916,
+        "currentPrice": 1729.07,
+        "pct1Day": -0.5882471922903147,
+        "pct5Day": -3.4253940596478833,
+        "pct52WeekHigh": -65.09561577097514,
+        "pct52WeekLow": 14.77354516481418,
+        "sma20": 1709.3707641601563,
+        "sma50": 1991.4192138671874,
+        "sma200": 2363.9042846679686,
+        "rsi14": 41.30237035638221,
+        "macd": -68.21169781633398,
+        "macdSignal": -90.15237560434718,
+        "macdHistogram": 21.940677788013204,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -382,18 +394,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 73.93,
-        "pct1Day": 1.0350134492267022,
-        "pct5Day": 0.7031542348905138,
-        "pct52WeekHigh": -70.80287935029396,
-        "pct52WeekLow": 22.370839424564085,
-        "sma20": 69.03818092346191,
-        "sma50": 79.77314804077149,
-        "sma200": 97.41529945373536,
-        "rsi14": 51.29182843348685,
-        "macd": -1.8187240172104282,
-        "macdSignal": -3.033395428190542,
-        "macdHistogram": 1.214671410980114,
+        "currentPrice": 74.07,
+        "pct1Day": 1.2263417582066882,
+        "pct5Day": 0.8938541076469495,
+        "pct52WeekHigh": -70.74758925302685,
+        "pct52WeekLow": 22.60257102904721,
+        "sma20": 69.04518089294433,
+        "sma50": 79.77594802856446,
+        "sma200": 97.4159994506836,
+        "rsi14": 51.55591541605089,
+        "macd": -1.8075559747313434,
+        "macdSignal": -3.0311618196947254,
+        "macdHistogram": 1.223605844963382,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -716,13 +728,13 @@
       "timestamp": "2026-06-21T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2281505336726.55,
-      "total24hVolumeUsd": 49920482869.61854,
-      "marketCapChangePct24h": 0.10436991525337909,
-      "btcDominance": 56.207102381849936,
-      "ethDominance": 9.11463251096158,
+      "totalMarketCapUsd": 2286459353782.8066,
+      "total24hVolumeUsd": 46694160568.654465,
+      "marketCapChangePct24h": 0.06404465150781236,
+      "btcDominance": 56.223346461458426,
+      "ethDominance": 9.120541740859707,
       "activeCryptocurrencies": 17413
     },
-    "generated_at": "2026-06-21T15:19:54.610Z"
+    "generated_at": "2026-06-21T15:46:20.384Z"
   }
 }
