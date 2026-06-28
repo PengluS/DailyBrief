@@ -1,101 +1,102 @@
 {
-  "hero_headline": "技术与金融动荡，政治局势严峻",
-  "daily_overview": "今天的科技领域，OpenAI 预览了新一代 GPT-5.6 模型，展示了其在编程与安全领域的强劲能力。同时，金融界正面临诸多挑战，包括阿美公司直升机坠毁导致14人遇难和特朗普威胁欧洲国家征收100%关税。政坛方面，美国与伊朗关系紧张，联军在中东的局势依旧扑朔迷离。每个领域的动态都在深刻影响全球的经济与政治格局。",
+  "hero_headline": "中东局势再紧张，美伊互相攻击",
+  "daily_overview": "今日资讯聚焦于技术、财经和时政三大领域。在技术方面，OpenAI预览了新一代模型GPT-5.6，表现出更强的能力，并引发了对AI技术未来的广泛讨论。财经方面，美国总统特朗普威胁对欧洲国家征收100%关税，国内外市场反应不一。时政领域，随着美伊关系的再度紧张，双方互相攻击，提升了地区局势的不稳定性，需密切关注后续发展。",
   "tech_briefs": [
     {
-      "title": "OpenAI 预览新一代 GPT-5.6 模型",
+      "title": "OpenAI预览新一代GPT-5.6模型",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol",
       "source": "OpenAI News",
-      "summary": "OpenAI 在其最新预览中展示了 GPT-5.6 Sol 模型，专注于编程、科学与网络安全，显示出其在安全性方面的先进能力。（多家报道）",
+      "summary": "OpenAI预览了其最新模型GPT-5.6 Sol，该模型在编码、科学和网络安全等领域表现出更强的能力，并配备了先进的安全系统，标志着AI技术的又一次跃进。（多家报道）",
       "importance": 9
     },
     {
-      "title": "简单X：无用户标识的私人消息网络",
+      "title": "SimpleX：无用户标识的私密消息网络",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "source": "GitHub Trending",
-      "summary": "SimpleX 是首个无用户标识的消息网络，设计上100%注重隐私。用户可以在 iOS、Android 和桌面应用上体验这个私人聊天服务。（多家报道）",
+      "summary": "SimpleX是首个无需用户标识的私密消息网络，它在设计之初就确保了用户的100%隐私。该项目同时推出了iOS、Android及桌面应用，满足不同用户需求。值得关注的是，这种无标识的系统在保护用户隐私方面可能设定新的标准。（多家报道）",
       "importance": 8
     },
     {
-      "title": "机器人而非聊天机器人将实现 AI 潜力",
-      "url": "https://www.ft.com/content/794aa75d-5188-4036-91ca-7fc70b61faf8",
-      "source": "Financial Times",
-      "summary": "工厂级应用技术提升了发达经济体的潜力，显示出机器人在实施 AI 方面的价值。（多家报道）",
+      "title": "如何通过代理和AI提升工作效率",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source": "OpenAI News",
+      "summary": "新研究表明，AI代理在简化工作流程方面的潜力巨大，能够完成更复杂的任务并提高各个岗位的生产力，其应用前景广阔。（多家报道）",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "阿美公司直升机坠毁导致14人遇难",
-      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
-      "source": "Financial Times",
-      "summary": "在沙特阿拉伯Ras Tanura港口发生的直升机坠毁事件中，14人遇难，事件发生的时间点恰逢美伊关系紧张的背景下。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "特朗普威胁对欧洲国家征收100%关税",
+      "title": "特朗普威胁对欧洲征收100%关税",
       "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "summary": "美国总统特朗普表示，多个欧洲国家正在讨论实施技术税，此举可能导致对这些国家的重税。（多家报道）",
+      "summary": "美国总统特朗普表示，多个欧洲国家正在讨论实施技术税，如果继续推进，他会考虑对其征收100%的关税，此言论引发市场广泛关注。（多家报道）",
       "importance": 8
     },
     {
-      "title": "中国加强对离岸投资的监管",
+      "title": "阿美公司直升机在沙特港口坠毁",
+      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
+      "source": "Financial Times",
+      "summary": "在拉斯坦努拉发生的事故中，至少14人遇难，涉及阿美公司的直升机。事故引发对地区安全和稳定的担忧。（多家报道）",
+      "importance": 7
+    },
+    {
+      "title": "中国收紧对境外投资监管",
       "url": "https://www.economist.com/finance-and-economics/2026/06/28/china-cracks-down-on-rule-bending-offshore-investments",
       "source": "The Economist Finance",
-      "summary": "中国政府正在加强对离岸投资的监管，以确保国内投资者支援本国科技发展，而非外资市场。（多家报道）",
-      "importance": 7
+      "summary": "中国政府要求大陆投资者更加关注国内科技，而非美国市场，显示出对境外投资的管控正愈加严格。（多家报道）",
+      "importance": 8
     }
   ],
   "politics_briefs": [
     {
-      "title": "美国与伊朗关系再度紧张",
+      "title": "美伊互相攻击再度升级",
       "url": "https://www.dw.com/zh/中东局势：美国与伊朗再次相互攻击/a-77744016?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "美伊双方的军事冲突加剧，美国对伊朗的攻击被视为对其在海湾地区行为的回应。（多家报道）",
+      "summary": "美国与伊朗之间的军事冲突再度升级，美方对伊朗的攻击是对其袭击油轮行动的回击，而德黑兰则以攻击美国在巴林和科威特的军事基地作为报复，局势日趋紧张。（多家报道）",
       "importance": 9
     },
     {
-      "title": "乌干达主要媒体遭军方封锁",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
+      "title": "法国跳伞飞机坠毁造成11人遇难",
+      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "乌干达媒体机构 NTG 和 Daily Monitor 表示，其办公室正遭到军队封锁，新闻自由受到压力。（多家报道）",
-      "importance": 8
+      "summary": "法国一架跳伞飞机在南部坠毁，导致包括飞行员在内的11人全部遇难，当地官方已展开调查。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今日科技与政治的动荡、金融市场的紧张局势再一次印证了全球格局的复杂性，值得持续关注。",
+  "editor_note": "今天的新闻聚焦技术进步、经济政策和国际冲突，希望这份简报能帮助大家快速掌握关键动态。",
   "keywords": [
-    "GPT-5.6",
-    "私人消息网络",
-    "阿美直升机事故",
-    "特朗普关税",
     "中东局势",
-    "乌干达媒体",
-    "投资监管"
+    "美国",
+    "伊朗",
+    "科技进步",
+    "财经政策",
+    "特朗普",
+    "私密通信",
+    "市场动态"
   ],
   "trading": {
-    "market_overview": "当前市场情绪较为悲观，加密市场的恐慌贪婪指数为18，显示存在极度恐慌情绪，影响市场整体趋势。同时，加密总市值为2.15万亿美金，过去24小时跌幅为1.22%。传统股市方面，S&P 500 ETF当前趋势为中性，表明多空力量暂时平衡。",
+    "market_overview": "整体而言，美股市场表现不佳，特别是科技股如 S&P 500 ETF (SPY) 和 Nasdaq 100 ETF (QQQ)，分别有 -0.72% 和 -1.38% 的单日跌幅，且 QQ 和 MSFT 的相应技术指标显示出了空头排列的迹象。加密市场目前呈现极度恐慌状态，恐慌贪婪指数低至 18，表明市场情绪悲观。此时比特币 (BTC-USD) 的 24 小时变化为 -0.24%，并且 RSI 为 31.3 进入超卖区，预计后市将继续承压。与此同时，美元指数 DXY 当前的 RSI 为 71.2，已进入超买区，显示出短期内可能面临调整风险。",
     "watchlist": [
       {
-        "symbol": "BTC-USD",
-        "display_name": "Bitcoin (BTC-USD)",
-        "stance": "偏下行",
-        "rationale": "当前比特币价格为59857.42美元，近期RSI为31.5，显示超卖状态，同时MACD显示死叉，表明市场情绪偏向下行。"
+        "symbol": "QQQ",
+        "display_name": "纳斯达克 100 ETF (QQQ)",
+        "stance": "偏上行",
+        "rationale": "QQQ 当前在 706.52，1 日涨幅 -1.38%，5 日跌幅 -4.6%。其 RSI 为 46.5，处于正常状态，且 MACD 显示出多头排列，表明短期走势偏向上行。"
       },
       {
         "symbol": "AAPL",
-        "display_name": "Apple",
+        "display_name": "苹果 (AAPL)",
         "stance": "中性",
-        "rationale": "Apple当前价格283.78美元，RSI为41.3，处于正常区间，且MACD处于负值，显示该资产技术面没有明显上行或下行信号。"
+        "rationale": "AAPL 当前价格为 283.78，1 日涨幅 3.14%，但 5 日跌幅为 -4.78%，表明短期内波动较大。RSI 为 41.3，处于正常区间，实力未完全偏向任何一方。"
       },
       {
-        "symbol": "BABA",
-        "display_name": "阿里巴巴 (BABA)",
+        "symbol": "MSFT",
+        "display_name": "微软 (MSFT)",
         "stance": "偏下行",
-        "rationale": "阿里巴巴当前价格为94.81美元，RSI为16.5，显示超卖状态，并且MACD显示空头排列，表明短期继续下行风险较大。"
+        "rationale": "MSFT 当前在 372.97，1 日涨幅 5.71%，但 5 日跌幅为 -1.69%。其 RSI 为 40.4，并且 MACD 显示空头排列，显示出下行压力的迹象。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，以上分析仅供技术指标解读参考，不构成投资建议。",
+    "risk_caveat": "请注意，过去走势不代表未来表现。本报告仅供技术指标解读参考，决策前请进一步验证信息及市场条件。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -299,18 +300,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 59857.42,
-        "pct1Day": -0.13793380305142175,
-        "pct5Day": -4.48490243073418,
-        "pct52WeekHigh": -52.5686724052119,
-        "pct52WeekLow": 3.067536424735071,
-        "sma20": 62885.151953125,
-        "sma50": 69410.01765625,
-        "sma200": 75676.66646484374,
-        "rsi14": 31.478236979479092,
-        "macd": -2329.942195771466,
-        "macdSignal": -2302.775073904877,
-        "macdHistogram": -27.167121866588786,
+        "currentPrice": 59798.52,
+        "pct1Day": -0.23619857455344134,
+        "pct5Day": -4.5788897634129,
+        "pct52WeekHigh": -52.61534506827245,
+        "pct52WeekLow": 2.9661174545319273,
+        "sma20": 62882.2068359375,
+        "sma50": 69408.839609375,
+        "sma200": 75676.371953125,
+        "rsi14": 31.333639927059608,
+        "macd": -2334.6409582358538,
+        "macdSignal": -2303.7148263977547,
+        "macdHistogram": -30.92613183809908,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -318,6 +319,10 @@
             "type": "macd-bear-cross",
             "label": "MACD 死叉",
             "daysAgo": 1
+          },
+          {
+            "type": "near-52w-low",
+            "label": "接近 52 周低"
           },
           {
             "type": "below-sma50-sma200",
@@ -331,18 +336,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1578.4,
-        "pct1Day": 0.4334305206490027,
-        "pct5Day": -5.226062572444201,
-        "pct52WeekHigh": -68.13716040004579,
-        "pct52WeekLow": 4.772255425253298,
-        "sma20": 1675.050848388672,
-        "sma50": 1890.89880859375,
-        "sma200": 2310.13849609375,
-        "rsi14": 32.754760867166226,
-        "macd": -79.40953517131538,
-        "macdSignal": -78.49561132746058,
-        "macdHistogram": -0.9139238438548034,
+        "currentPrice": 1577.69,
+        "pct1Day": 0.38825329328606284,
+        "pct5Day": -5.268694031880066,
+        "pct52WeekHigh": -68.15149302556274,
+        "pct52WeekLow": 4.725126496368393,
+        "sma20": 1675.0153442382812,
+        "sma50": 1890.8846069335937,
+        "sma200": 2310.134945678711,
+        "rsi14": 32.65085331009605,
+        "macd": -79.46617996965938,
+        "macdSignal": -78.50694028712937,
+        "macdHistogram": -0.9592396825300114,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -363,18 +368,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 71.69,
-        "pct1Day": 1.8169143332916855,
-        "pct5Day": 2.9382644396235555,
-        "pct52WeekHigh": -71.68752090656803,
-        "pct52WeekLow": 18.663133752833737,
-        "sma20": 69.85198993682862,
-        "sma50": 77.22472625732422,
-        "sma200": 95.14082080841064,
-        "rsi14": 49.347206033847776,
-        "macd": -1.3016103194321431,
-        "macdSignal": -1.9087808936488173,
-        "macdHistogram": 0.6071705742166742,
+        "currentPrice": 71.85,
+        "pct1Day": 2.0441525295997662,
+        "pct5Day": 3.1680053004178004,
+        "pct52WeekHigh": -71.62433222397702,
+        "pct52WeekLow": 18.927969872243043,
+        "sma20": 69.85998973846435,
+        "sma50": 77.22792617797852,
+        "sma200": 95.14162078857422,
+        "rsi14": 49.66913214687336,
+        "macd": -1.2888471031471909,
+        "macdSignal": -1.9062282503918269,
+        "macdHistogram": 0.617381147244636,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -689,13 +694,13 @@
       "timestamp": "2026-06-28T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2154051706959.9946,
-      "total24hVolumeUsd": 42908297501.761955,
-      "marketCapChangePct24h": -1.2154987753438773,
-      "btcDominance": 55.71625745135653,
-      "ethDominance": 8.845544549384257,
+      "totalMarketCapUsd": 2151723230837.5715,
+      "total24hVolumeUsd": 42876577314.28934,
+      "marketCapChangePct24h": -1.3222823551548282,
+      "btcDominance": 55.70087633813054,
+      "ethDominance": 8.848501920224122,
       "activeCryptocurrencies": 17435
     },
-    "generated_at": "2026-06-28T15:39:31.628Z"
+    "generated_at": "2026-06-28T16:01:52.578Z"
   }
 }
