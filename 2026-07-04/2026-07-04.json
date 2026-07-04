@@ -1,100 +1,101 @@
 {
-  "hero_headline": "AI技术持续扩张，金融市场动态频现",
-  "daily_overview": "今日科技领域，AI技术不断创新，OpenAI与DeepMind合作前景引关注，Meta和Hugging Face推出新的AI语音技术，预示着人工智能应用的新阶段。在金融方面，随着AI需求增加和补贴减少，美国清洁能源价格预计将大幅上涨，此外，油价因供应增加而暴跌，市场政策引人瞩目。在政治版块，乌克兰对俄重要基础设施发动攻击，扎根深厚的政治活动引起全球关注。整体来看，各领域交汇的趋势愈发明显。",
+  "hero_headline": "AI技术引领多领域突破",
+  "daily_overview": "今天的新闻重点聚焦于AI技术的持续创新、全球金融市场的波动及重大国际政治事件。技术领域方面，OpenAI与各大公司在AI模型和应用的合作中取得了关键进展，尤其是在声学和代码自动化方面。财经方面，清洁能源价格预计将因补贴减少而上扬，投资者需关注市场动态。时政局势则被乌克兰攻击俄罗斯关键基础设施的消息所主导，这进一步加剧了地区紧张局势，值得持续关注。",
   "tech_briefs": [
     {
-      "title": "OpenAI与DeepMind合作研究新技术",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "source": "DeepMind Blog",
-      "summary": "OpenAI与DeepMind达成新合作，目标是利用人工智能推动科学研究与技术应用，此举可能带来新的突破。（多家报道）",
+      "title": "OpenAI与全球市场的互动趋势",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI News",
+      "summary": "OpenAI最新数据显示，ChatGPT的全球用户和使用频率均在上涨，显示出AI应用正在深入到各个行业的不同场景中。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Hugging Face和Cerebras推出Gemma 4语音AI",
+      "title": "Hugging Face推出实时语音AI Gemma 4",
       "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face与Cerebras合作推出Gemma 4，致力于实时语音AI技术，此技术将增强语音识别与生成的能力，提高用户互动体验。（多家报道）",
+      "summary": "Hugging Face与Cerebras合作推出Gemma 4，使实时语音处理更加高效，可能在语音识别和用户交互上产生深远影响。（多家报道）",
       "importance": 7
     },
     {
-      "title": "Claude Fable更新提升网络安全",
-      "url": "https://news.smol.ai/issues/26-07-01-not-much/",
-      "source": "Smol AI News",
-      "summary": "Claude Fable 5重新启用，并加强网络安全措施，以提升对用户请求的处理效率与安全性，吸引了业界的关注。（多家报道）",
+      "title": "Google DeepMind与A24的合作研究",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "source": "DeepMind Blog",
+      "summary": "Google DeepMind和A24的合作旨在推动AI在电影和娱乐行业中的应用，开启新的跨界合作模式。（多家报道）",
       "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国清洁能源价格将骤升",
+      "title": "美国清洁能源价格将大幅上升",
       "url": "https://www.ft.com/content/911ad6e1-154d-4d10-a7dc-2bd0fd6fbdc2",
       "source": "Financial Times",
-      "summary": "分析师预期，美国清洁能源购买协议价格将因为补贴政策结束而大幅上升，影响技术巨头的能源采购策略。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "油价因供应过剩暴跌",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-s-stunning-reversal-rekindles-fears-of-a-global-glut",
-      "source": "Bloomberg Markets",
-      "summary": "随着美伊之间和平协议的达成，全球油价急剧下滑，市场对供应过剩的担忧加剧，预示着未来的市场波动。（多家报道）",
+      "summary": "随着拜登时代的支持措施结束，预计市场对于清洁能源的采购协议将迅速上升，投资者需提前布局。（多家报道）",
       "importance": 8
     },
     {
-      "title": "安保职员罢工事件避免在阿伯丁机场发生",
-      "url": "https://www.bbc.co.uk/news/articles/c39y3expgk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "在阿伯丁机场，安保人员的罢工威胁被避免，可能避免了航班处理中的重大延误，显示了协调沟通的重要性。（多家报道）",
+      "title": "西方对伊朗的外交局势紧张",
+      "url": "https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks",
+      "source": "NYT World",
+      "summary": "美国与伊朗之间的和平谈判进展缓慢，特别是在国葬期间，局势愈加复杂。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "农民采纳再生农业法",
+      "url": "https://www.ft.com/content/96f06629-225a-4408-b0bb-d4869bb4c3bc",
+      "source": "Financial Times",
+      "summary": "由于高温天气的影响，英国农民正逐步采纳再生农业方式，以提升土壤质量和水分保持能力。（多家报道）",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "乌克兰对俄油气设施发动攻击",
-      "url": "https://www.dw.com/zh/乌克兰打击圣彼得堡附近石油设施/a-77832624?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "乌克兰总统泽连斯基确认对圣彼得堡的油气设施进行打击，旨在削弱俄罗斯在战争中的经济来源，此次行动引发国际社会广泛关注。（多家报道）",
+      "title": "乌克兰针对俄罗斯油库的袭击",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "乌克兰总统泽连斯基宣布，目标是削弱俄罗斯的战争资金来源，这一袭击使地区局势更加紧张。（多家报道）",
       "importance": 9
     },
     {
-      "title": "德国警方与抗议者发生冲突",
-      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-      "source": "The Guardian",
-      "summary": "在德国，抗议者与警方发生冲突，抗议活动针对的是极右翼政党AfD的会议，反映出社会对极端政治观点的愤怒。（多家报道）",
-      "importance": 8
+      "title": "魏德尔连任并提出政策主张",
+      "url": "https://www.dw.com/zh/魏德尔成功连任-称afd要成为-新的人民党-领导德国/a-77833050?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "德国选项党主席魏德尔在党代会上成功连任，并提出希望成为新的人民党这一主张，可能影响德国未来的政治格局。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今日各领域新闻层层递进，科技与金融两者的互动日益紧密，未来走势值得关注。",
+  "editor_note": "今日的新闻亮点集中于技术创新与国际局势变化，关注AI对行业的影响势头及市场经济的动态变化，为读者提供低风险的投资建议。",
   "keywords": [
-    "人工智能",
+    "AI技术",
     "清洁能源",
-    "油价",
+    "国际政治",
     "乌克兰",
-    "极右翼",
-    "深度学习"
+    "市场动态",
+    "科技创新",
+    "融资策略"
   ],
   "trading": {
-    "market_overview": "当前市场整体情绪偏于谨慎，尤其是在加密资产领域，恐慌贪婪指数为22，显示出极度恐慌。美股方面，像SPY这样的股票显示出一定的上行潜力。大宗商品中，WTI原油期货和黄金期货的价格走势则相对疲软，受限于宏观经济数据的影响。",
+    "market_overview": "目前市场整体表现分化，美股方面，S&P 500 ETF (SPY) 稳定在 744.78，走势偏多，且 RSI 处于正常范围。加密货币市场显示出极度恐慌，BTC 和 ETH 的总体状态均显示下行压力，尤其是加密总市值为 2.27T USD，其中 BTC 主导率为 55.5%。在商品市场，黄金期货接近 52 周低相对表现较弱，但 WTI 原油期货显示出一定的波动性。整体而言，美股偏向稳定，但加密货币领域则面临更多的卖压。",
     "watchlist": [
-      {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
-        "stance": "偏上行",
-        "rationale": "SPY当前价格为744.78，短期内上涨1.43%。SMA20（741.08）和SMA50（737.43）构成多头排列，RSI（53.5）处于正常范围，显示出一定的上行动能。"
-      },
       {
         "symbol": "AAPL",
         "display_name": "Apple",
         "stance": "偏上行",
-        "rationale": "AAPL当前价格为308.63，最近1天上涨4.84%。MACD信号出现金叉，RSI（60.3）偏向强势区，显示出上行动能显著。"
+        "rationale": "Apple 当前价格为 308.63，RSI 为 60.3，处于正常范围内，且 MACD 金叉，表明短期趋势向上。该股接近 52 周高，近期 5 日涨幅达到 12.17%。"
+      },
+      {
+        "symbol": "ETH-USD",
+        "display_name": "Ethereum",
+        "stance": "偏下行",
+        "rationale": "Ethereum 当前价格为 1791.53，RSI 为 58，接近超买区间，但由于处于空头排列且当前 MACD 数值为负，显示出下行压力，尤其是在 5 日内上涨 11.26% 的背景下。"
       },
       {
         "symbol": "BABA",
         "display_name": "阿里巴巴 (BABA)",
         "stance": "偏下行",
-        "rationale": "BABA当前价格为96.14，RSI（23.8）已进入超卖状态，短期内下跌1.89%，结合空头排列，表明当前技术面偏向下行。"
+        "rationale": "阿里巴巴的当前价格为 96.14，RSI 为 23.8，处于超卖状态，且 MACD 显示空头排列，表明下行趋势可能持续。该股近 1 日下跌 1.89%，且接近 52 周低点。"
       }
     ],
-    "risk_caveat": "请注意，过去走势不代表未来表现，本报告仅供技术指标解读参考，不构成任何投资建议。",
+    "risk_caveat": "本报告中的数据和分析仅供技术指标解读参考，过去的走势不代表未来的表现。请谨慎使用本报告信息进行投资决策。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -342,18 +343,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 62622.89,
-        "pct1Day": 0.12581627430351505,
-        "pct5Day": 4.1313236886932305,
-        "pct52WeekHigh": -50.37729974792801,
-        "pct52WeekLow": 8.442099734213087,
-        "sma20": 62120.11484375,
-        "sma50": 67035.8084375,
-        "sma200": 74824.21095703125,
-        "rsi14": 48.14880870858916,
-        "macd": -1530.9868751660397,
-        "macdSignal": -2036.1827049061055,
-        "macdHistogram": 505.19582974006585,
+        "currentPrice": 62895.26,
+        "pct1Day": 0.5613003054402498,
+        "pct5Day": 4.584229145996297,
+        "pct52WeekHigh": -50.1614723584917,
+        "pct52WeekLow": 8.913754343328188,
+        "sma20": 62133.7333984375,
+        "sma50": 67041.255859375,
+        "sma200": 74825.5728125,
+        "rsi14": 49.17576558461794,
+        "macd": -1509.259266547815,
+        "macdSignal": -2031.8371831824606,
+        "macdHistogram": 522.5779166346456,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -374,18 +375,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1770.2,
-        "pct1Day": 0.7788885722206252,
-        "pct5Day": 9.936257117267894,
-        "pct52WeekHigh": -64.26533283081667,
-        "pct52WeekLow": 17.503704101484654,
-        "sma20": 1675.3267944335937,
-        "sma50": 1816.1130322265626,
-        "sma200": 2268.0320764160156,
-        "rsi14": 56.346632163300605,
-        "macd": -33.27147592238089,
-        "macdSignal": -60.91654876904164,
-        "macdHistogram": 27.645072846660753,
+        "currentPrice": 1791.53,
+        "pct1Day": 1.9932223724948646,
+        "pct5Day": 11.260932501016237,
+        "pct52WeekHigh": -63.83474846141285,
+        "pct52WeekLow": 18.91956333122404,
+        "sma20": 1676.3932983398438,
+        "sma50": 1816.5396337890625,
+        "sma200": 2268.1387268066405,
+        "rsi14": 58.04946723023682,
+        "macd": -31.569931228648556,
+        "macdSignal": -60.57623983029517,
+        "macdHistogram": 29.006308601646616,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -401,18 +402,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 81.73,
-        "pct1Day": -0.6685214080951589,
-        "pct5Day": 9.05066408074004,
-        "pct52WeekHigh": -67.72243107398249,
-        "pct52WeekLow": 35.28160024576792,
-        "sma20": 73.27186737060546,
-        "sma50": 75.41742279052734,
-        "sma200": 93.54931114196778,
-        "rsi14": 64.39788967418237,
-        "macd": 1.6403666067533038,
-        "macdSignal": -0.03288542565283559,
-        "macdHistogram": 1.6732520324061393,
+        "currentPrice": 82.22,
+        "pct1Day": -0.07299437383561086,
+        "pct5Day": 9.704461039011935,
+        "pct52WeekHigh": -67.52891573354755,
+        "pct52WeekLow": 36.09266086145892,
+        "sma20": 73.29636726379394,
+        "sma50": 75.42722274780273,
+        "sma200": 93.55176113128663,
+        "rsi14": 65.57346783678256,
+        "macd": 1.6794547554300863,
+        "macdSignal": -0.025067795917479097,
+        "macdHistogram": 1.7045225513475653,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -736,13 +737,13 @@
       "timestamp": "2026-07-04T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2257735139217.0083,
-      "total24hVolumeUsd": 55896518298.5666,
-      "marketCapChangePct24h": 0.895289921316977,
-      "btcDominance": 55.57269747202543,
-      "ethDominance": 9.438825527433051,
+      "totalMarketCapUsd": 2270981310111.3896,
+      "total24hVolumeUsd": 55088185891.725105,
+      "marketCapChangePct24h": 1.8165906600266277,
+      "btcDominance": 55.51504170012955,
+      "ethDominance": 9.514571558577078,
       "activeCryptocurrencies": 17355
     },
-    "generated_at": "2026-07-04T14:12:53.691Z"
+    "generated_at": "2026-07-04T15:46:05.254Z"
   }
 }
