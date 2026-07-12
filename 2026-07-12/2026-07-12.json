@@ -1,102 +1,102 @@
 {
-  "hero_headline": "美国在霍尔木兹海峡进行空袭，伊朗反击加剧紧张局势",
-  "daily_overview": "今日国际局势紧张升级，因美国在霍尔木兹海峡发起空袭，伊朗则回应声明关闭该水道，令原本脆弱的外交努力蒙阴影。技术领域，OpenAI推出新版GPT-5.6，引领AI能力新高峰，同时德电正借助AI转型电信行业。财经方面，投资者关注市场动态，尤其在AI领域内价格波动和供需情况的变化。整体局势令人关注。",
+  "hero_headline": "科技、金融与时政动态一览",
+  "daily_overview": "今日科技领域聚焦OpenAI推出多款新模型，尤其是GPT-5.6在多个平台的应用，引发广泛讨论。在金融方面，市场关注美国与伊朗紧张局势对油价的影响，以及德国为乌克兰采购攻击无人机的消息。政治方面，乌克兰总统一系列领导层调整，以及美国参议员林赛·格雷厄姆的突然去世，成为舆论的焦点。",
   "tech_briefs": [
     {
-      "title": "OpenAI推出GPT-5.6新系列",
-      "url": "https://news.smol.ai/issues/26-07-09-gpt-56/",
-      "source": "Smol AI News",
-      "summary": "OpenAI推出了GPT-5.6系列，包括Sol、Terra和Luna三个模型，广泛应用于ChatGPT及Codex等工具。这一新系列改善了AI模型的功能和性能，为用户提供了更多的应用选择和极高的质量保证。（多家报道）",
+      "title": "OpenAI推出GPT-5.6新模型",
+      "url": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI News",
+      "summary": "OpenAI推出了GPT-5.6模型，提升了Microsoft 365 Copilot的AI能力，使用户在Word、Excel等应用中能够更高效地工作。这标志着AI在办公软件中应用的进一步深化。（多家报道）",
       "importance": 9
     },
     {
-      "title": "德电通过AI重塑电信行业",
+      "title": "Deutsche Telekom与OpenAI合作",
       "url": "https://openai.com/index/deutsche-telekom",
       "source": "OpenAI News",
-      "summary": "德意志电信正在通过与OpenAI的合作，全面转变为以AI为核心的电信企业，重点改善客户服务、员工工作流程和网络运营，推动业务创新和效率提升。（多家报道）",
+      "summary": "Deutsche Telekom正在通过OpenAI的技术改造客户服务、员工流程和网络操作，提升用户体验并优化业务效率。（多家报道）",
       "importance": 8
     },
     {
-      "title": "AI技术变革临近，关注市场影响",
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "source": "MIT Tech Review AI",
-      "summary": "随着AI技术的快速进步，越来越多的组织开始扩展其应用案例，这一演变同时也带来了企业需要面对的新风险和机遇。（多家报道）",
+      "title": "Destructive Command Guard：防止危险命令执行",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "source": "GitHub Trending",
+      "summary": "这一工具旨在阻止通过代理执行危险的Git和Shell命令，从而提高开发环境的安全性，避免潜在的操作风险。（多家报道）",
       "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "美国对伊朗发动新一轮空袭",
+      "title": "美国与伊朗在霍尔木兹海紧张局势升级",
       "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
       "source": "Financial Times",
-      "summary": "美国军方声称，霍尔木兹海峡的水道仍然是开放的，并对伊朗在约旦、阿曼、科威特、巴林和卡塔尔的目标进行报复性打击，局势进一步紧张。（多家报道）",
+      "summary": "在美伊紧张关系加剧的背景下，特朗普表示水道仍然开放，但伊朗坚称将继续关闭，给国际油价带来不确定性。（多家报道）",
       "importance": 9
     },
     {
-      "title": "德国超市Aldi挑战美国市场",
-      "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "德国连锁超市Aldi在美国市场推进90亿美元的投资计划，瞄准繁华的城市中心，以低价策略挑战沃尔玛的市场主导地位。（多家报道）",
-      "importance": 7
+      "title": "德国为乌克兰采购5万架无人机",
+      "url": "https://www.dw.com/zh/消息人士：德国出资为乌克兰采购5万架攻击型无人机/a-77923763?maca=chi-rss-chi-all-1127-rdf",
+      "source": "DW 中文",
+      "summary": "德国正在为乌克兰提供大规模无人机采购资金，此项交易被视为西方对乌克兰支持的最新举措。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "AI巨头对新兴市场控制不容小觑",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets",
-      "source": "Bloomberg Markets",
-      "summary": "投资者开始重新审视新兴市场中的科技巨头，因为仅三个AI相关股票便占据了超4.4万亿美元的市场价值，将更多投资者从AI赢家中吸引出去。（多家报道）",
-      "importance": 8
+      "title": "大科技公司面临欧盟消费保护罚款",
+      "url": "https://www.ft.com/content/25640be5-a5bd-4548-81f9-bd0e16f87f35",
+      "source": "Financial Times",
+      "summary": "欧盟官员表示，针对消费者保护失误的罚款将加强社交媒体安全措施，引发业界紧张。（多家报道）",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "美伊局势再度升级，霍尔木兹海峡面临新挑战",
-      "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-      "source": "The Guardian",
-      "summary": "美国和伊朗继续互相进行空袭，伊朗称霍尔木兹海峡已关闭，意味着中东地区的紧张关系进一步加剧，影响全球供油局势。（多家报道）",
-      "importance": 9
+      "title": "美国参议员林赛·格雷厄姆去世",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "林赛·格雷厄姆因“短暂且突然的疾病”去世，特朗普对此表示悼念，称其为“真正的美国爱国者”。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "英国与法国加强边境管控以缓解旅行混乱",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
-      "source": "The Guardian",
-      "summary": "应对即将到来的旅行高峰，法国和英国同意在边境增加人员配置，以防止因新实施的指纹和面部识别检查导致的混乱。（多家报道）",
+      "title": "乌克兰总统宣布领导层变动",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+      "source": "NYT World",
+      "summary": "乌克兰总统泽连斯基宣布内阁的领导层调整，以更有效应对战争形势的变化。（多家报道）",
       "importance": 7
     }
   ],
-  "editor_note": "今日简报聚焦国际局势的紧张状态及其对市场和科技领域的潜在影响，建议读者保持警觉，关注事态的发展。",
+  "editor_note": "今日新闻涵盖科技创新、金融市场动态和政治事件，值得关注的有AI模型的推出与国际局势的变化，体现了当前全球化背景下各领域的紧密关联。",
   "keywords": [
-    "霍尔木兹海峡",
-    "OpenAI",
     "AI",
-    "电信",
-    "美国",
+    "金融",
+    "科技",
+    "时政",
+    "乌克兰",
     "伊朗",
-    "市场",
-    "投资"
+    "无人机",
+    "OpenAI"
   ],
   "trading": {
-    "market_overview": "目前市场整体趋于波动，尤其是加密市场，恐慌贪婪指数为 26，显示市场情绪偏向恐慌。此外，美股的整体表现也有上涨趋势，SPY和AAPL均有金叉形成的信号。商品市场方面，WTI原油期货在经历一段时间的调整后，也呈现出一定的反弹迹象，当前价格为 71.41。",
+    "market_overview": "当前美股市场表现较强，尤其是 S&P 500 ETF 和 Nasdaq 100 ETF 均呈现出向上的趋势，分别受益于看涨的 MACD 和健康的 RSI 水平。加密市场仍处于恐慌状态，恐慌贪婪指数为 26。尽管 BTC 和 ETH 表现出一定的上涨动力，整体市场情绪却仍显疲弱。商品市场方面，WTI 原油期货和黄金期货则呈现出较大的波动，需谨慎关注。此时美元指数略有上行，且 10 年期美债收益率上涨，反映出固定收益市场的健康迹象。",
     "watchlist": [
       {
         "symbol": "SPY",
         "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "SPY 当前价格为 754.95，RSI 读数为 59.1，表明处于正常状态，且 MACD 金叉形成，支持上行趋势。此外，SPY 的短期和中期均线（SMA20 和 SMA50）呈现多头排列，进一步支持看涨信号。"
-      },
-      {
-        "symbol": "AAPL",
-        "display_name": "Apple",
-        "stance": "偏上行",
-        "rationale": "AAPL 当前价格为 315.32，RSI 为 62.9，接近超买区域。MACD 显示强烈的上行动能，此时 MACD 线在信号线之上，形成金叉，且接近52周高位，显示出强烈的上涨潜力。"
+        "rationale": "SPY 在当前价格 754.95，近期表现较好，1 日涨幅为 0.43% 和 5 日涨幅为 1.37%。RSI 当前为 59.1，为正常状态，接近超买区。MACD 显示出金叉，表明短期上涨动能增强。"
       },
       {
         "symbol": "NVDA",
         "display_name": "Nvidia",
         "stance": "偏上行",
-        "rationale": "NVDA 当前价格为 210.96，近期涨幅为 4.03%，短期SMA 20高于SMA 50，且RSI为57，表明该资产在正常范围内，并且刚刚形成MACD金叉，显示出强劲的上行势头。"
+        "rationale": "Nvidia 当前价格为 210.96，1 日涨幅 4.03%，5 日涨幅达到 8.28%。其 MACD 出现金叉，且 RSI 为 57，显示该资产保持在正常范围内，短期趋势向上。"
+      },
+      {
+        "symbol": "AAPL",
+        "display_name": "Apple",
+        "stance": "偏上行",
+        "rationale": "Apple 当前价格为 315.32，RSI 指标为 62.9，接近超买区。当前价格距离 52 周高点只相差 0.66%，显示持稳，但需关注高位风险。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，所有分析和结论仅供技术指标解读参考，决策时请结合其他信息和个人风险管理措施。",
+    "risk_caveat": "过去走势不代表未来表现，以上分析仅供技术指标解读参考，投资者需自行判断风险。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -328,18 +328,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63920.68,
-        "pct1Day": 0.1859700407492199,
-        "pct5Day": 0.9846937198059289,
-        "pct52WeekHigh": -49.34892427435697,
-        "pct52WeekLow": 10.689442081620951,
-        "sma20": 61841.66796875,
-        "sma50": 64879.445546875,
-        "sma200": 73866.28546875,
-        "rsi14": 52.86175966170902,
-        "macd": -207.56676835629332,
-        "macdSignal": -764.0465058088369,
-        "macdHistogram": 556.4797374525435,
+        "currentPrice": 64139.08,
+        "pct1Day": 0.5282789125712933,
+        "pct5Day": 1.3297316184704264,
+        "pct52WeekHigh": -49.175862990614675,
+        "pct52WeekLow": 11.067638529947633,
+        "sma20": 61852.587890625,
+        "sma50": 64883.813515625,
+        "sma200": 73867.3774609375,
+        "rsi14": 53.74044515688935,
+        "macd": -190.1446707779396,
+        "macdSignal": -760.5620862931661,
+        "macdHistogram": 570.4174155152265,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -355,18 +355,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1803.83,
-        "pct1Day": 0.8797267524988845,
-        "pct5Day": 1.9970764056493333,
-        "pct52WeekHigh": -63.58645086442891,
-        "pct52WeekLow": 19.73602224007516,
-        "sma20": 1690.7545776367188,
-        "sma50": 1761.0700244140626,
-        "sma200": 2221.5422326660155,
-        "rsi14": 58.25481592817031,
-        "macd": 13.289837265929691,
-        "macdSignal": -7.519944737279161,
-        "macdHistogram": 20.809782003208852,
+        "currentPrice": 1819.87,
+        "pct1Day": 1.776768500950833,
+        "pct5Day": 2.9040538400786375,
+        "pct52WeekHigh": -63.262654648524666,
+        "pct52WeekLow": 20.80073776023549,
+        "sma20": 1691.5565795898438,
+        "sma50": 1761.3908251953126,
+        "sma200": 2221.622432861328,
+        "rsi14": 59.80935666480426,
+        "macd": 14.569384541570571,
+        "macdSignal": -7.264035282150985,
+        "macdHistogram": 21.833419823721556,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -377,18 +377,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 76.95,
-        "pct1Day": 0.16379566923750385,
-        "pct5Day": -4.586192116064771,
-        "pct52WeekHigh": -69.61019296638877,
-        "pct52WeekLow": 27.369621178414793,
-        "sma20": 76.04234924316407,
-        "sma50": 74.36144607543946,
-        "sma200": 91.74320877075195,
-        "rsi14": 51.69554083231128,
-        "macd": 1.3669624948741586,
-        "macdSignal": 1.4593695516705598,
-        "macdHistogram": -0.09240705679640127,
+        "currentPrice": 77.45,
+        "pct1Day": 0.8146325481799178,
+        "pct5Day": -3.9662193552854634,
+        "pct52WeekHigh": -69.41272833329187,
+        "pct52WeekLow": 28.197234051568888,
+        "sma20": 76.06734924316406,
+        "sma50": 74.37144607543945,
+        "sma200": 91.74570877075195,
+        "rsi14": 52.867473601990994,
+        "macd": 1.4068485347602007,
+        "macdSignal": 1.4673467596477683,
+        "macdHistogram": -0.06049822488756762,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -716,13 +716,13 @@
       "timestamp": "2026-07-12T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2282018743235.6113,
-      "total24hVolumeUsd": 49972095976.315155,
-      "marketCapChangePct24h": -0.43744484639787334,
-      "btcDominance": 56.23346509278897,
-      "ethDominance": 9.545722777362174,
+      "totalMarketCapUsd": 2288595262066.1577,
+      "total24hVolumeUsd": 49614574398.973045,
+      "marketCapChangePct24h": 0.03130180431727519,
+      "btcDominance": 56.22596908577544,
+      "ethDominance": 9.58929809367522,
       "activeCryptocurrencies": 17527
     },
-    "generated_at": "2026-07-12T14:10:55.706Z"
+    "generated_at": "2026-07-12T15:10:07.576Z"
   }
 }
