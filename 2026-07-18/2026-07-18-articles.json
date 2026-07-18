@@ -6,110 +6,110 @@
       "title": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "excerpt": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "meta": "Python · ★ 12,577 · 🍴 1,322 · 📈 827 stars today",
+      "meta": "Python · ★ 12,603 · 🍴 1,323 · 📈 827 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "lingbot-map 是一个前馈式三维基础模型，旨在从流式数据中重建场景。该项目利用深度学习技术，解决了场景重建中的数据实时处理问题，适用于需要实时场景分析与重建的应用，如虚拟现实和增强现实场景生成。"
+      "summary": "lingbot-map 是一个前馈式的 3D 基础模型，能够从流数据中重构场景，为需要处理动态场景重建的开发者提供了有效的解决方案。该项目主要适用于计算机视觉、增强现实等领域。"
     },
     {
       "sourceId": "github-trending",
       "title": "apache/ossie",
       "url": "https://github.com/apache/ossie",
       "excerpt": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "meta": "Python · ★ 1,199 · 🍴 147 · 📈 48 stars today",
+      "meta": "Python · ★ 1,204 · 🍴 147 · 📈 48 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Apache Ossie 是一种行业广泛的规范，旨在标准化在分析、人工智能和商业智能平台之间交换语义元数据的方式，提供无供应商依赖的单一真相来源。这使得企业能够更有效地管理和共享数据，提高数据的互操作性。"
+      "summary": "Apache Ossie 是一项行业标准化努力，旨在统一分析、人工智能和商业智能平台之间的语义元数据交换，为用户提供一个供应商中立的、可信的语义数据源。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 36,428 · 🍴 3,022 · 📈 337 stars today",
+      "meta": "Python · ★ 36,435 · 🍴 3,022 · 📈 337 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PostHog 是领先的自驱动产品构建平台，提供开发者工具，包括 AI 可观测性、分析、会话回放、实验、错误跟踪等功能。此平台为产品团队提供了全面的性能监控与用户分析工具，帮助他们优化用户体验和产品开发。"
+      "summary": "PostHog 是领先的自驱动产品构建平台，提供 AI 可观察性、分析、会话回放、实验、错误追踪和日志等开发工具，帮助产品团队无缝捕捉用户行为与反馈，优化产品体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "ibelick/ui-skills",
       "url": "https://github.com/ibelick/ui-skills",
       "excerpt": "Skills for Design Engineers",
-      "meta": "TypeScript · ★ 4,787 · 🍴 202 · 📈 529 stars today",
+      "meta": "TypeScript · ★ 4,803 · 🍴 202 · 📈 529 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ui-skills 项目为设计工程师提供了一系列技能提升资源，帮助他们提升在用户界面设计领域的专业能力。适合希望加强其设计技能的工程师，提升其在项目中的竞争力。"
+      "summary": "ui-skills 提供设计工程师所需的技能资源，帮助从业者提升在用户界面设计方面的专业能力，适用于培养设计师的教育和技能提升场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 38,936 · 🍴 6,535 · 📈 232 stars today",
+      "meta": "Python · ★ 38,953 · 🍴 6,535 · 📈 240 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ai-engineering-from-scratch 提供了学习人工智能工程的全流程指导，包括如何构建和部署 AI 系统的内容。这适合希望从零开始深入了解 AI 工程的开发者，提供实用的构建与运维经验。"
+      "summary": "本项目旨在引导用户学习人工智能工程的基本原则，通过构建和发布自己的人工智能项目来掌握相关技能，适合希望深入了解人工智能领域的开发者和学习者。"
     },
     {
       "sourceId": "github-trending",
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 20,008 · 🍴 2,119 · 📈 356 stars today",
+      "meta": "Python · ★ 20,021 · 🍴 2,119 · 📈 356 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "code-review-graph 是一款本地优先的代码智能分析工具，可为 MCP 和 CLI 构建持久的代码库地图。该工具优化了AI编码工具的可读性，只关注重要信息，并提高了大规模代码审查的效率，适合需要高效代码管理的开发团队。"
+      "summary": "code-review-graph 是一个本地优先的代码智能图，用于构建您的代码库的持久映射，使 AI 编码工具能够仅读取重要内容，尤其适合大型代码仓库的代码审查场景。"
     },
     {
       "sourceId": "github-trending",
       "title": "elder-plinius/G0DM0D3",
       "url": "https://github.com/elder-plinius/G0DM0D3",
       "excerpt": "LIBERATED AI CHAT",
-      "meta": "TypeScript · ★ 9,399 · 🍴 2,250 · 📈 63 stars today",
+      "meta": "TypeScript · ★ 9,408 · 🍴 2,250 · 📈 63 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "G0DM0D3 是一个灵活的 AI 聊天工具，提供解放式的对话体验。它面向需要灵活交互的用户，通过自然语言处理技术，使用户能够以更自然的方式与 AI 互动。"
+      "summary": "G0DM0D3 提供一种解放的 AI 聊天体验，适用于希望打造更为自由和互动的聊天机器人的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "excerpt": "AirLLM 70B inference with single 4GB GPU",
-      "meta": "Jupyter Notebook · ★ 23,195 · 🍴 2,646 · 📈 242 stars today",
+      "meta": "Jupyter Notebook · ★ 23,207 · 🍴 2,648 · 📈 242 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "airllm 提供了在单个 4GB GPU 上实现的 70B 参数模型推理。这使得开发者能够在资源有限的情况下运行强大的大规模语言模型，适用于需要高效自然语言处理的应用。"
+      "summary": "AirLLM 支持在单个 4GB GPU 上进行 70B 参数的推理，为需要在资源有限的设备上运行大规模语言模型的用户提供了实用工具，适合高效处理自然语言任务的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "excerpt": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "meta": "TypeScript · ★ 1,032 · 🍴 76 · 📈 192 stars today",
+      "meta": "TypeScript · ★ 1,044 · 🍴 78 · 📈 192 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "wigolo 为 AI 编码代理提供了一站式的网络搜索工具，支持本地优先的搜索、获取、爬行与研究，且无需 API 密钥和云服务，适合需要本地高效编码支持的开发者使用，提供公共测试版体验。"
+      "summary": "wigolo 是一个本地优先的 AI 编码代理，实现无 API 密钥、无云服务的搜索、抓取和研究，这为开发者带来了一个无成本的公共测试平台，适合日常编码辅助及研究需求。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 528,009 · 🍴 49,967 · 📈 1,131 stars today",
+      "meta": "Markdown · ★ 528,016 · 🍴 49,967 · 📈 1,131 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "build-your-own-x 通过重新创建用户喜爱的技术，帮助开发者掌握编程技能。该项目适合于希望理论与实践结合、深入理解技术原理的学习者，推动他们对编程的理解与应用。"
+      "summary": "build-your-own-x 项目通过重建您喜爱的技术来帮助开发者掌握编程技能，非常适合希望通过实践学习技术工作原理的程序员。"
     },
     {
       "sourceId": "github-trending",
       "title": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "excerpt": "Kimi Code CLI is your next CLI agent.",
-      "meta": "Python · ★ 9,324 · 🍴 1,156 · 📈 48 stars today",
+      "meta": "Python · ★ 9,335 · 🍴 1,157 · 📈 48 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "kimi-cli 是一个命令行工具，旨在成为开发者的下一个 CLI 助手。该工具为开发者提供了高效的命令行操作体验，适用于需要快速执行命令与自动化任务的程序员。"
+      "summary": "Kimi Code CLI 是一个新型的命令行代理，旨在为开发者提供高效的命令行操作体验，适合需要提升开发工作流的用户。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -124,7 +124,7 @@
       "sourceId": "v2ex-hot",
       "title": "大家用 AI 写代码真实感受是啥？",
       "url": "https://www.v2ex.com/t/1228212",
-      "excerpt": "33 回复 · 程序员 节点",
+      "excerpt": "34 回复 · 程序员 节点",
       "publishedAt": "2026-07-18T06:58:27.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -140,19 +140,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "怎么搞定纯 Python 代码解码 jpg 图片，要求无外部依赖",
-      "url": "https://www.v2ex.com/t/1224588",
-      "excerpt": "26 回复 · Python 节点",
-      "publishedAt": "2026-07-02T10:48:24.000Z",
+      "title": "2026，我将博客部署到了 Cloudflare（CF）",
+      "url": "https://www.v2ex.com/t/1228199",
+      "excerpt": "26 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T04:57:55.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "2026，我将博客部署到了 Cloudflare（CF）",
-      "url": "https://www.v2ex.com/t/1228199",
-      "excerpt": "25 回复 · 程序员 节点",
-      "publishedAt": "2026-07-18T04:57:55.000Z",
+      "title": "怎么搞定纯 Python 代码解码 jpg 图片，要求无外部依赖",
+      "url": "https://www.v2ex.com/t/1224588",
+      "excerpt": "26 回复 · Python 节点",
+      "publishedAt": "2026-07-02T10:48:24.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -284,6 +284,15 @@
     },
     {
       "sourceId": "v2ex-hot",
+      "title": "cursor 两天重构了小红书 uniapp 项目",
+      "url": "https://www.v2ex.com/t/1228237",
+      "excerpt": "9 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T10:58:30.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
       "title": "Linux 上的游戏网络加速",
       "url": "https://www.v2ex.com/t/1223240",
       "excerpt": "9 回复 · Linux 节点",
@@ -297,15 +306,6 @@
       "url": "https://www.v2ex.com/t/1228249",
       "excerpt": "9 回复 · Apple 节点",
       "publishedAt": "2026-07-18T12:19:07.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "cursor 两天重构了小红书 uniapp 项目",
-      "url": "https://www.v2ex.com/t/1228237",
-      "excerpt": "8 回复 · 程序员 节点",
-      "publishedAt": "2026-07-18T10:58:30.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -329,10 +329,10 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "如何给非大陆版 AirPod Pro 购买美版 Apple Care+",
-      "url": "https://www.v2ex.com/t/1227743",
-      "excerpt": "7 回复 · Apple 节点",
-      "publishedAt": "2026-07-16T06:56:11.000Z",
+      "title": "AI 写代码的时候总是使用大量的辅助函数，应该如何处理？",
+      "url": "https://www.v2ex.com/t/1228216",
+      "excerpt": "7 回复 · 程序员 节点",
+      "publishedAt": "2026-07-18T08:13:21.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -344,7 +344,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 首席财务官 Sarah Friar 提出了一种评估人工智能投资回报率的实用评分卡，基于有效工作、每个成功任务的成本、可靠性和计算回报。"
+      "summary": "OpenAI首席财务官Sarah Friar介绍了一种实用的AI评分卡，以衡量投资回报率和工作成本等关键指标。"
     },
     {
       "sourceId": "openai-news",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 介绍了如何为青少年提供安全的人工智能访问，包括适龄保护、学习工具、家长控制和专家合作。"
+      "summary": "OpenAI推出针对青少年的ChatGPT安全性改进，增强了家长控制和学习工具。"
     },
     {
       "sourceId": "openai-news",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Cars24 运用 OpenAI 驱动的语音和聊天代理，每月处理超过 100 万分钟的对话，成功回收 12% 的丢失潜在客户。"
+      "summary": "Cars24利用OpenAI的语音和聊天代理处理每月超过100万分钟的对话，成功恢复12%的丢失线索。"
     },
     {
       "sourceId": "openai-news",
@@ -617,7 +617,7 @@
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "谷歌 DeepMind 和 Isomorphic Labs 分享了针对生物韧性和人工智能模型的共同方案。"
+      "summary": "Google DeepMind与Isomorphic Labs分享其生物韧性和AI模型的共同方法。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -888,7 +888,7 @@
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA NeMo Automodel 和 🤗 Diffusers 实现大规模视频和图像模型的微调。"
+      "summary": "NVIDIA发布NeMo Automodel和Diffusers，支持大规模微调视频和图像模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -898,7 +898,7 @@
       "publishedAt": "2026-07-16T11:49:48.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "更新的模型继续保持相同的优势。"
+      "summary": "新模型保持相同优势。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -908,7 +908,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "关于 2026 年 7 月的安全事件披露。"
+      "summary": "关于2026年7月的安全事件披露。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1161,7 +1161,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Kimi K3 发布，而 Gemini 3.5 推迟，ARC-AGI 3 的表现引人注目。"
+      "summary": "Kimi K3发布，而Gemini 3.5被延迟推出。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1342,7 +1342,7 @@
       "publishedAt": "2026-07-17T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot 发布的 Kimi K3 引发了对中国开放权重模型接近前沿的重新评估，其在编码、代理任务和长时知识工作方面表现优异。"
+      "summary": "Moonshot的Kimi K3发布引发了对中国开放模型接近前沿的重新评估，在编码和长时知识工作上表现出色。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1352,7 +1352,7 @@
       "publishedAt": "2026-07-16T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot AI 推出了 Kimi K3，具备 2.8T 参数、1M-token 语境窗口和原生多模态输入，采用新颖的 Kimi Delta Attention 技术，实现高达 6.3 倍更快的解码速度。"
+      "summary": "Moonshot AI推出2.8T参数的Kimi K3开放模型，具备1M令牌上下文和原生多模态输入。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1614,7 +1614,7 @@
       "publishedAt": "2026-07-18T04:30:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "今日没有重大新闻，整体市场相对安静。"
+      "summary": "今天市场平静，没有显著事件。"
     },
     {
       "sourceId": "latent-space",
@@ -1624,7 +1624,7 @@
       "publishedAt": "2026-07-17T01:46:36.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "本周开放模型的发布持续带来良好消息，Kimi K3 2.8T-A50B 模型被认为是史上最大的开放模型。"
+      "summary": "Kimi K3 2.8T-A50B是迄今为止发布的最大开放模型，市场反应良好。"
     },
     {
       "sourceId": "latent-space",
@@ -1634,7 +1634,7 @@
       "publishedAt": "2026-07-16T13:30:44.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Lila Sciences 认为科学是最后一个未开发的训练数据源，探讨了未来实验室与数据中心的结合。"
+      "summary": "Lila Science认为科学是最后未开发的训练数据来源，探讨其在机器人环境中的实际应用。"
     },
     {
       "sourceId": "latent-space",
@@ -1644,7 +1644,7 @@
       "publishedAt": "2026-07-16T06:18:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Thinky 发布的 Inkling 模型 975B-A41B 是新的最佳美国开放模型，并且具备完全开放权重。"
+      "summary": "Thinky发布了975B-A41B多模态开放模型，标志着其首次完整LLM发布。"
     },
     {
       "sourceId": "latent-space",
@@ -1798,7 +1798,7 @@
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "随着全球气候预测的重要性增加，航空公司、能源网和农民每天基于天气预报作出战略决策，这使得天气数据受到破坏的风险上升。"
+      "summary": "全球航空公司、电网运营商和农民每天依赖天气预报做出重要决策，然而天气数据被篡改的风险正在增加。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1890,7 +1890,7 @@
       "category": "tech",
       "meta": "@part_harry_ · 1.5K 粉丝 · 225.6K 阅 · 503 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "GLM 5.2 是目前最佳的开源语言模型之一，但与 Qwen、Kimi 和 Minimax 等其他主流模型不同，GLM 5.2 不支持图像输入。博主探索了这一点并分享了相关见解。"
+      "summary": "GLM 5.2 是当前最优秀的开源语言模型之一，但与 Qwen、Kimi 和 Minimax 等旗舰模型不同，GLM 5.2 不支持图片输入。博主分享了对该模型的评估及其在特定场景下的应用局限。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1901,7 +1901,7 @@
       "category": "tech",
       "meta": "@amasad · 472.6K 粉丝 · 223.7K 阅 · 560 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Replit 的工程师在过去六个月几乎将代码输出提高了三倍，博主分析了公司如何自主运营所带来的变化，包括审核时间稳定和返工率的问题。"
+      "summary": "Replit 的工程师们在过去六个月内将代码产出几乎增加到三倍，同时保持审查时间稳定。博主探讨了公司自我运营的潜力及其对生产力的影响。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1912,7 +1912,7 @@
       "category": "tech",
       "meta": "@DesignArena · 17.6K 粉丝 · 191.5K 阅 · 509 赞 · 46 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "在设计领域对比测试中，GPT-5.6 Sol 的表现显著提升，排名比其前身 GPT-5.5 高出 18 位，博主分享了其在 Web 设计方面的表现。"
+      "summary": "在设计领域的评测中，GPT-5.6 Sol 的表现令人惊讶，排名高于 GPT-5.5 18 位，成为第一。这一结果表明该模型在设计品味上有了显著提升。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1923,7 +1923,7 @@
       "category": "tech",
       "meta": "@btaylor · 158.6K 粉丝 · 144.3K 阅 · 511 赞 · 40 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Sierra 发布了 Horizon 平台，使代理能够追求长期目标、如贷款发放等操作，博主详细介绍了这一新功能的用途及影响。"
+      "summary": "Sierra 推出了一个新平台 Horizon，旨在支持代理追求长期目标，比如申请贷款或获取医疗程序的事先授权，展示了代理技术的进步与应用前景。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1934,7 +1934,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 186.6K 粉丝 · 111.0K 阅 · 512 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Gemini API 的新管理代理功能正式公布，包括免费套餐、预算控制和定时触发等，博主总结了这些新功能的应用和设计。"
+      "summary": "Gemini API 新增了管理代理的功能，包括免费使用、预算控制及定时触发器等。这些改进将提升用户在不同场景下的灵活性和控制力。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1945,7 +1945,7 @@
       "category": "tech",
       "meta": "@cerebras · 60.4K 粉丝 · 70.7K 阅 · 509 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主分享了内部知识库的构建过程，指出员工对该知识库的问询超过 15000 次，提供了技术博客的互动版本链接。"
+      "summary": "Cerebras 团队分享了其内部知识库的构建方法，员工每月向该知识库提问超过15,000次，反映出其在公司内部的重要性和实用性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1956,7 +1956,7 @@
       "category": "tech",
       "meta": "@elliotarledge · 40.7K 粉丝 · 69.3K 阅 · 506 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主获得了 Kimi K3 模型的早期访问权，在测试其内核性能时感到非常满意，进一步期待基准分数的发布。"
+      "summary": "Kimi K3 模型正在经过内测，博主对其在核心处理性能上表现出色感到满意，尽管尚未发布基准分数，等待进一步体验和评估。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1967,7 +1967,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 281.7K 粉丝 · 53.7K 阅 · 516 赞 · 74 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主逐步讲解如何构建 Claude Code 的编码环境，包括代理循环、规划、子代理、沙箱、内存和检查点等内容，适合希望深入了解的开发者。"
+      "summary": "博主详细介绍了构建 Claude Code 的步骤，包括代理循环、规划、子代理、沙盒、记忆和检查点等内容，适合想要深入了解该技术的人。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1978,7 +1978,7 @@
       "category": "tech",
       "meta": "@zachlloydtweets · 12.1K 粉丝 · 42.7K 阅 · 527 赞 · 57 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "在系列文章中，博主探讨如何建立一个自我改进的代码审阅代理，此文为第三篇，聚焦于软件工厂中的问题分类、规格编写等。"
+      "summary": "博主分享了构建自我提升的代码审查代理的过程，这是一系列关于建立云软件工厂的帖子中的第三篇，强调了自动化流程的潜力和实现方式。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1988,7 +1988,7 @@
       "publishedAt": "2026-07-18T08:01:05.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "科威特在中东冲突开始以来遭遇最严重的伊朗报复性攻击，油气设施和电厂接连遭到袭击。"
+      "summary": "在中东冲突升级之际，科威特遭遇了自战争爆发以来最严重的伊朗 retaliatory 攻击，包括石油设施和电厂遭到袭击。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1998,7 +1998,7 @@
       "publishedAt": "2026-07-18T12:19:25.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰总统弗拉基米尔·泽伦斯基正在考虑解除武装部队总司令奥列克桑德尔·希尔斯基的职务，此前该国军方高层经历了多日的动荡。"
+      "summary": "乌克兰总统泽连斯基正在考虑解雇乌克兰武装部队总司令阿列克桑德尔·西尔斯基，因近期军方领导层出现动荡，相关报道来自《金融时报》。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2008,7 +2008,7 @@
       "publishedAt": "2026-07-18T12:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "市场仍然受到人工智能相关新闻的主导，相关价格走势继续受到关注。"
+      "summary": "市场目前仍被人工智能的新闻主导，显示出这一领域的持续关注和变革潜力。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2018,7 +2018,7 @@
       "publishedAt": "2026-07-18T10:02:41.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度第二大私营银行ICICI银行第一季度利润超出预期，受益于零售和企业贷款的强劲增长。"
+      "summary": "印度第二大私营银行ICICI银行公布的第一季业绩超出预期，得益于零售和企业贷款的健康增长。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2046,7 +2046,7 @@
       "publishedAt": "2026-07-18T07:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "匈牙利针对200亿美元电动车行业的打击，让长期受到保护的行业面临压力，新政府计划收紧环保规定并提高税收。"
+      "summary": "匈牙利的新领导层对价值200亿美元的电动车行业进行打击，重视环境违规和计划提高税收，预示着对中国企业的警告。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2056,7 +2056,7 @@
       "publishedAt": "2026-07-18T06:35:43.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "印度央行邀请制造商投标，提供适合印制印度钞票的具有安全特征的聚合物基材。"
+      "summary": "印度央行已邀请制造商提交投标，供应适用于印制印度钞票的带有安全特征的聚合物基材。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2066,7 +2066,7 @@
       "publishedAt": "2026-07-18T05:06:27.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "中国要求与吉尔吉斯斯坦在绿色矿产领域加强合作，呼吁保护在该国中国企业的合法权益。"
+      "summary": "中国呼吁加强与吉尔吉斯斯坦在绿色矿产产业链上的合作，并要求保护中国企业在该国的权利和利益。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2076,7 +2076,7 @@
       "publishedAt": "2026-07-18T05:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "深圳的英诺科技有限公司考虑在欧洲进行收购，显示出准备与西门子等工业巨头竞争的意图。"
+      "summary": "中国企业深圳市优克智能科技有限公司计划在欧洲进行收购，准备与西门子及博世等工业巨头展开竞争。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2356,7 +2356,7 @@
       "publishedAt": "2026-07-18T12:00:03.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "美国司法部通知顶级律师事务所的负责人，必须就一年前达成的协议进行询问，这标志着与特朗普的第二轮斗争即将展开。"
+      "summary": "美国司法部要求多家顶级法律事务所的领导人出席关于一年多前达成的和解协议的取证，显示出特朗普及其协议的法律问题仍在持续发酵。"
     },
     {
       "sourceId": "ft-companies",
@@ -2366,7 +2366,7 @@
       "publishedAt": "2026-07-18T11:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "在首次公开募股几周后，埃隆·马斯克的火箭与人工智能公司SpaceX的股价首次跌破上市价，交易商开始加大对其做空的赌注。"
+      "summary": "在首次公开募股几周后，特斯拉CEO马斯克旗下的SpaceX公司股价首次跌破上市价格，交易者开始加大对其失利的赌注。"
     },
     {
       "sourceId": "ft-companies",
@@ -2376,7 +2376,7 @@
       "publishedAt": "2026-07-18T10:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "配送应用的兴起使大型比萨公司销售额受损，DoorDash和Uber Eats等服务平衡了市场竞争。"
+      "summary": "大型企业在外卖服务如DoorDash和Uber Eats的冲击下，销售逐渐受到影响，失去了竞争优势。"
     },
     {
       "sourceId": "ft-companies",
@@ -2386,7 +2386,7 @@
       "publishedAt": "2026-07-18T08:00:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "评论员讨论超级商业化的世界杯是否将成为常态，以及MLS如何计划利用美国的足球热潮。"
+      "summary": "本周最新通讯中讨论了转会市场的大额支出，以及美国职业足球联赛（MLS）如何借机利用美国足球热潮。"
     },
     {
       "sourceId": "ft-companies",
@@ -3143,7 +3143,7 @@
       "publishedAt": "2026-07-18T15:04:25.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国对伊朗进行空袭，已连续第七夜，伊朗则对美国在该地区的盟友进行报复，科威特报道称一座电力和水务设施遭到攻击。"
+      "summary": "美国连续第七晚对伊朗发动空袭，科威特报告称一座电力和水厂遭到袭击。"
     },
     {
       "sourceId": "bbc-world",
@@ -3177,10 +3177,10 @@
       "title": "German politician resigns over surrogacy child controversy",
       "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
       "excerpt": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "publishedAt": "2026-07-18T14:20:32.000Z",
+      "publishedAt": "2026-07-18T15:23:31.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "延斯·斯潘因使用代孕而辞去职务，此举引发了公众的广泛批评。"
+      "summary": "德国政客延斯·斯潘因其代孕儿女争议辞职，此前他曾公开反对代孕。"
     },
     {
       "sourceId": "bbc-world",
@@ -3442,7 +3442,7 @@
       "publishedAt": "2026-07-18T14:13:36.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "美国各地发布空气质量警告，火灾烟雾弥漫，预计东部地区将在周六面临危险状况，尽管中部大西洋地区可能因降雨情况有所改善。"
+      "summary": "美国多个地区因野火烟雾导致空气质量警告，预计在周六警告将持续。"
     },
     {
       "sourceId": "guardian-world",
@@ -3574,11 +3574,11 @@
       "sourceId": "guardian-world",
       "title": "Germany’s CDU party chair resigns after using surrogacy to become parent",
       "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
-      "excerpt": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in Germany A senior German politician and key ally of chancellor Friedrich Merz has resigned as chair of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to bec",
-      "publishedAt": "2026-07-18T14:29:06.000Z",
+      "excerpt": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in Germany A senior German politician and ally of the chancellor, Friedrich Merz, has resigned as chair of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to b",
+      "publishedAt": "2026-07-18T15:09:33.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "德国基督教民主党主席延斯·斯潘因与丈夫代孕成为父亲而辞职，突显出党内对代孕的强烈反对。"
+      "summary": "德国基民盟主席延斯·斯潘因与其丈夫借助代孕生子辞职，这一做法在德国是非法的。"
     },
     {
       "sourceId": "guardian-world",
@@ -3588,7 +3588,7 @@
       "publishedAt": "2026-07-18T14:26:22.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "乌克兰国防部长费多罗夫被解职，泽连斯基支持军事老将，反映出对创新方法的分歧。"
+      "summary": "在基辅似乎占据优势的时刻，泽连斯基突然解雇了年轻且创新的国防部长米哈伊尔·费多罗夫，引发广泛关注。"
     },
     {
       "sourceId": "guardian-world",
@@ -3667,10 +3667,30 @@
       "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
       "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
       "excerpt": "In the days since the cease-fire unraveled, the United States and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
-      "publishedAt": "2026-07-18T14:40:50.000Z",
+      "publishedAt": "2026-07-18T15:27:17.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "自停火协议破裂以来，美伊之间的攻击范围扩大，包括水务设施等关键基础设施遭到袭击。"
+      "summary": "自停火协议破裂以来，美国与伊朗扩大了攻击范围，报告显示水设施和其他重要基础设施遭到袭击。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "A Very British CPAC: No Costumes, and Not Much Trump",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+      "excerpt": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
+      "publishedAt": "2026-07-18T15:08:44.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "伦敦举办了一个低调的保守派政治行动会议，与美国的奢华庆祝形成鲜明对比。"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
+      "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+      "excerpt": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing having had a baby by surrogate, which is illegal in Germany.",
+      "publishedAt": "2026-07-18T14:46:45.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "德国政客延斯·斯潘因代孕生子辞职，此举在德国是违法的，受到公众强烈反对。"
     },
     {
       "sourceId": "nyt-world",
@@ -3680,7 +3700,7 @@
       "publishedAt": "2026-07-18T13:56:40.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "19岁的足球明星拉米内·亚马尔正值西班牙世界杯决赛前，成为关于西班牙在多元文化社会中认同的全国性讨论的核心。"
+      "summary": "19岁的足球明星拉米内·亚马尔成为西班牙社会多元化辩论中心，展现了移民背景下的新西班牙形象。"
     },
     {
       "sourceId": "nyt-world",
@@ -3726,7 +3746,7 @@
       "publishedAt": "2026-07-18T14:05:17.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "印度活动家索南·旺珠因全国性考试失误导致数百万学生受影响，要求教育部长辞职，期间被警方强行带走。"
+      "summary": "印度活动家索南·旺丘因全国考试问题要求教育部长辞职，期间被警方强制带离。"
     },
     {
       "sourceId": "nyt-world",
@@ -3766,41 +3786,13 @@
     },
     {
       "sourceId": "nyt-world",
-      "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-      "excerpt": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals” had been harmed.",
-      "publishedAt": "2026-07-17T19:52:28.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Prominent Cuban Artist Will Go Into Exile After 5-Year Prison Term",
-      "url": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-prison-release-exile.html",
-      "excerpt": "The United States offered a visa to Luis Manuel Otero Alcántara, who was expected to fly to Miami on Saturday.",
-      "publishedAt": "2026-07-17T19:34:45.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
       "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
       "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
       "excerpt": "",
       "publishedAt": "2026-07-18T14:24:02.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "科威特指责伊朗在空袭后袭击了平民设施，导致火灾发生。"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
-      "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
-      "excerpt": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing having had a baby by surrogate, which is illegal in Germany.",
-      "publishedAt": "2026-07-18T14:46:45.000Z",
-      "category": "politics",
-      "source": "NYT World",
-      "summary": "德国高官延斯·斯潘因与丈夫通过代孕生子引发争议而辞职，此前他曾反对代孕并与执政党立场不符。"
+      "summary": "科威特指责伊朗针对平民设施展开攻击，导致多处火灾。"
     },
     {
       "sourceId": "nyt-world",
@@ -3827,7 +3819,8 @@
       "excerpt": "",
       "publishedAt": "2026-07-18T14:05:56.000Z",
       "category": "politics",
-      "source": "NYT World"
+      "source": "NYT World",
+      "summary": "最新动态尚未更新。"
     },
     {
       "sourceId": "nyt-world",
@@ -3855,7 +3848,7 @@
       "publishedAt": "2026-07-18T14:29:39.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "乌克兰国防部长费多罗夫因此前对无人机战的推广而受到广泛欢迎，但最近被总统泽连斯基解职，反映出军事高层的矛盾。"
+      "summary": "乌克兰国防部长米哈伊尔·费多罗夫因推动无人机作战受到赞誉，但因与军方意见不合被解除职务。"
     },
     {
       "sourceId": "nyt-world",
@@ -3881,6 +3874,24 @@
       "url": "https://www.nytimes.com/2026/07/17/world/asia/lam-wing-kee-dead.html",
       "excerpt": "One of five booksellers kidnapped by Chinese officials in 2015, Mr. Lam spoke out after his release and became an international cause célèbre.",
       "publishedAt": "2026-07-17T21:03:38.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Prominent Cuban Artist Will Go Into Exile After 5-Year Prison Term",
+      "url": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-prison-release-exile.html",
+      "excerpt": "The United States offered a visa to Luis Manuel Otero Alcántara, who was expected to fly to Miami on Saturday.",
+      "publishedAt": "2026-07-17T19:34:45.000Z",
+      "category": "politics",
+      "source": "NYT World"
+    },
+    {
+      "sourceId": "nyt-world",
+      "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+      "excerpt": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals” had been harmed.",
+      "publishedAt": "2026-07-17T19:52:28.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -3926,15 +3937,6 @@
       "url": "https://www.nytimes.com/2026/07/17/world/americas/luis-manuel-otero-alcantara-cuba-missing-exile.html",
       "excerpt": "A Cuban artist awaiting permission from the Trump administration to enter the United States was held in an unknown location in Cuba.",
       "publishedAt": "2026-07-17T19:44:21.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Iran-U.S. Talks: How 4 Negotiators Would Approach Diplomacy",
-      "url": "https://www.nytimes.com/2026/07/17/world/middleeast/iran-us-war-peace-talks-strategies.html",
-      "excerpt": "First step: Agree on a goal.",
-      "publishedAt": "2026-07-17T13:06:32.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4306,7 +4308,7 @@
       "publishedAt": "2026-07-18T14:23:33.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "在对华盛顿的访问中，伊拉克与美国公司签署了48项协议，包括重建伊拉克-叙利亚原油管道，这将绕过霍尔木兹海峡。"
+      "summary": "伊拉克在总理访问华盛顿期间与美国公司签署了48项协议，包括重建长期停用的伊拉克-叙利亚原油管道。"
     },
     {
       "sourceId": "aljazeera",
@@ -4316,7 +4318,7 @@
       "publishedAt": "2026-07-18T14:04:05.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "中国警告英国，呼吁对英国钢铁的国有化进行公平解决，涉及的公司寻求补偿以应对安全风险。"
+      "summary": "中国对英国国有化亏损的英国钢铁公司表示警告，要求公正解决。"
     },
     {
       "sourceId": "aljazeera",
@@ -4325,8 +4327,7 @@
       "excerpt": "Jens Spahn steps down after party criticism over surrogacy, highlighting tensions in Germany's conservative coalition.",
       "publishedAt": "2026-07-18T13:54:21.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "德国一位高级保守派政客因代孕引起了党内强烈反对而辞职，此举暴露出德国保守派联盟内部的紧张关系。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
