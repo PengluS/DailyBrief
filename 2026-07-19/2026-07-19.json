@@ -1,101 +1,101 @@
 {
-  "hero_headline": "中东局势紧张，伊朗与美国加剧冲突",
-  "daily_overview": "在技术领域，OpenAI与DeepMind的最新进展引发了关注，尤其是在AI安全和应用方面的创新。同时，金融市场受到世界杯热潮的影响，预测市场交易显著提升。政治新闻中，美国与伊朗的冲突加剧，导致多国局势动荡，关注焦点集中在军事行动与外交关系的变化。",
+  "hero_headline": "中东紧张局势升级，美军加大空袭力度",
+  "daily_overview": "今日科技领域，多款AI新工具和模型发布，其中DeepMind的生物韧性模型备受关注。财经方面，市场对于英铁价格和北海石油政策动态反应强烈，投资者正在评估这些变化对市场的影响。同时，时政领域中美冲突升级，特别是在伊朗局势和对乌克兰的攻击引发国际关注，各方反应正在持续发酵。",
   "tech_briefs": [
     {
-      "title": "Kimi K3 发布引发模型重估热潮",
-      "url": "https://news.smol.ai/issues/26-07-16-kimi-k30/",
-      "source": "Smol AI News",
-      "summary": "Moonshot AI推出了Kimi K3，这是一款开创性的开源权重模型，具有2.8万亿参数和1百万token的上下文窗口，为多模态输入提供支持，吸引了众多开发者的注意，并推动了AI模型的重估与进化。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "DeepMind及其生物韧性研究进展",
+      "title": "DeepMind分享生物韧性模型策略",
       "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
       "source": "DeepMind Blog",
-      "summary": "DeepMind与Isomorphic Labs联合提出生物韧性研究的新方法，尤其是在如何利用AI模型来提高生态系统的适应能力方面取得了重要进展。",
+      "summary": "DeepMind与Isomorphic Labs联合发布了他们在生物韧性和AI模型方面的方法，旨在提升模型的适应性和可靠性。（多家报道）",
       "importance": 8
     },
     {
-      "title": "OpenAI推出AI成绩卡以衡量投资回报",
+      "title": "OpenAI发布AI投资回报评分卡",
       "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
       "source": "OpenAI News",
-      "summary": "OpenAI的首席财务官提出了一种新的AI成绩卡，旨在通过有效的工作、成功任务的成本、可靠性和计算回报来衡量AI投资的回报率，推动了AI在商业领域的应用评估。（多家报道）",
+      "summary": "OpenAI的CFO介绍了一套新的评分卡，用于评估AI项目的投资回报率，包括成功任务的成本和可靠性等指标。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "新工具帮助管理大规模AI项目",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "summary": "NVIDIA推出新工具NeMo Automodel，助力大规模视频和图像模型微调，提高开发效率。（多家报道）",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "世界杯期间预测市场交易量激增",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
-      "source": "Bloomberg Markets",
-      "summary": "在世界杯的热潮下，预测市场的交易量急剧增长，占体育博彩的27%，这一趋势凸显了传统博彩公司所面临的挑战，特别是像Kalshi这样的公司正在崛起。",
-      "importance": 9
-    },
-    {
-      "title": "英国钢铁产业面临法律挑战",
-      "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "summary": "中国公司Jingye对英国政府国家化British Steel的决定表示不满，正在通过法律途径寻求赔偿，可能对英国产业界产生深远影响。",
+      "title": "北海石油政策遭到批评",
+      "url": "https://www.ft.com/content/d9631aae-1100-43e0-a09a-e49f5c21f896?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "英国新政府对北海石油勘探许可证的禁止引发了行业和工会的广泛质疑，可能导致经济格局的变化。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Caspian管道因袭击停止装载",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike",
+      "title": "市场对预测市场的投资激增",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
       "source": "Bloomberg Markets",
-      "summary": "由于无人机袭击事件，Caspian管道联盟在黑海沿岸的终端装货工作被迫暂停，可能会对全球石油供应产生影响。",
+      "summary": "在世界杯期间，预测市场交易的增长显著超过传统博彩，显示出市场转向的趋势。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "英铁新价格政策获市场关注",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "新任首相将宣布对北海石油的支持政策，可能影响铁路票价的动态，这引发了广泛讨论。（多家报道）",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "美伊关系紧张加剧",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
-      "source": "Bloomberg Markets",
-      "summary": "美伊之间的攻击性回应不断升级，特别是在约旦，伊朗袭击导致两名美国军人死亡，这加剧了中东地区的不安定局势。",
+      "title": "美国对伊朗发动新一轮空袭",
+      "url": "https://www.guardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
+      "source": "The Guardian",
+      "summary": "美国对伊朗展开了新一轮空袭，以回应伊朗对驻约旦美军的袭击，再次加剧中东地区的紧张局势。（多家报道）",
       "importance": 9
     },
     {
-      "title": "欧盟新规禁止销毁滞销服装",
-      "url": "https://www.dw.com/zh/禁止销毁滞销服装-欧盟新规能奏效吗？/a-78026008?maca=chi-rss-chi-all-1127-rdf",
-      "source": "DW 中文",
-      "summary": "欧盟实施新规，禁止大公司销毁滞销的服装和鞋类，旨在推动可持续发展与节约，但市场对此法案的有效性存有疑虑。",
-      "importance": 7
+      "title": "乌克兰遭俄方严重攻击",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5899518/russia-attack-kyiv",
+      "source": "NPR World",
+      "summary": "俄罗斯对乌克兰首都进行导弹和无人机攻击，造成严重损失，局势愈发紧张。（多家报道）",
+      "importance": 8
     }
   ],
-  "editor_note": "今日新闻涵盖了技术、财经和政治多个领域，尤其是国际局势引发的变化值得持续关注。",
+  "editor_note": "今日国际局势紧张，加之科技进步，市场反应敏感。需密切关注后续发展。",
   "keywords": [
     "中东局势",
     "AI技术",
-    "金融市场",
-    "世界杯",
-    "法律挑战",
-    "生物韧性",
-    "欧盟新规"
+    "投资市场",
+    "北海石油",
+    "OpenAI",
+    "DeepMind",
+    "乌克兰"
   ],
   "trading": {
-    "market_overview": "当前加密市场恐慌贪婪指数为 28，表明市场情绪处于恐慌状态。在美股市场中，多个股票的技术面呈现出中性预测，包括 S&P 500 ETF 和 Nasdaq 100 ETF，显示出缺乏明确的趋势。商品市场方面，WTI 原油期货的相对强弱指数 RSI 为 57.2，接近中性区间，表明价格可能会有震荡的可能性。",
+    "market_overview": "目前市场表现出一定的恐慌情绪，加密货币的恐慌贪婪指数为 28，反映出投资者的谨慎态度。美股方面，整体没有显著的上涨动力，多数个股显示出疲软迹象。商品市场中，WTI 原油期货展现出上行潜力，过去五天上涨约 14.52%。在比特币市场，当前市值为 2.29T 美元，BTC 主导率为 56.5%。所有这些因素共同影响了投资者的决策。  ",
     "watchlist": [
       {
         "symbol": "AAPL",
         "display_name": "Apple",
         "stance": "偏上行",
-        "rationale": "Apple 的 RSI 当前为 71.6，处于超买区域，同时 MACD 出现金叉，显示出强劲的上行动能。"
+        "rationale": "当前价格为 333.74，RSI 为 71.6，处于超买状态，显示出强劲的买入动能。同时 MACD 为 8.8154，已突破其信号线，显示出强烈的多头趋势。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
-        "stance": "中性",
-        "rationale": "WTI 原油期货当前的 RSI 为 57.2，接近中性状态，显示出短期内可能的价格波动。"
+        "stance": "偏上行",
+        "rationale": "当前价格为 81.78，过去五天上涨 14.52%。RSI 为 57.2，表明动量偏强，且价格接近 52 周低点，暗示上行空间。"
       },
       {
-        "symbol": "MSFT",
-        "display_name": "Microsoft",
-        "stance": "偏下行",
-        "rationale": "Microsoft 的 MACD 处于死叉状态，并且呈现空头排列，显示出下行的压力。"
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
+        "stance": "中性",
+        "rationale": "当前价格为 743.29，RSI 为 48.4，处于正常范围。其中 MACD 信号显示出死叉，表明当前上涨动力不足，但价格接近 52 周高点，走势相对平稳。"
       }
     ],
-    "risk_caveat": "以上分析基于历史数据和当前指标，过去走势不代表未来表现，仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，结果可能因市场波动而有所不同。此报告仅供技术指标解读参考，并不构成投资建议。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -323,18 +323,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64451.52,
-        "pct1Day": -0.5325612056477259,
-        "pct5Day": -0.7768218505703871,
-        "pct52WeekHigh": -48.92828392700459,
-        "pct52WeekLow": 11.60868110465086,
-        "sma20": 63125.16484375,
-        "sma50": 63351.17765625,
-        "sma200": 73043.43919921874,
-        "rsi14": 53.62926244022206,
-        "macd": 230.28496495971922,
-        "macdSignal": -80.85516751466535,
-        "macdHistogram": 311.1401324743846,
+        "currentPrice": 64517.77,
+        "pct1Day": -0.43031818918937337,
+        "pct5Day": -0.6748299106999276,
+        "pct52WeekHigh": -48.875787086125804,
+        "pct52WeekLow": 11.723404157314055,
+        "sma20": 63128.47734375,
+        "sma50": 63352.50265625,
+        "sma200": 73043.77044921875,
+        "rsi14": 53.93096259445596,
+        "macd": 235.56986524461536,
+        "macdSignal": -79.79818745768613,
+        "macdHistogram": 315.3680527023015,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -345,18 +345,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1871.01,
-        "pct1Day": 0.5167052234039172,
-        "pct5Day": -0.9775102029451082,
-        "pct52WeekHigh": -62.230301875373584,
-        "pct52WeekLow": 24.19534821541001,
-        "sma20": 1782.7303955078125,
-        "sma50": 1734.611142578125,
-        "sma200": 2183.6401416015624,
-        "rsi14": 59.57616548776905,
-        "macd": 38.38082003502791,
-        "macdSignal": 25.33382521254158,
-        "macdHistogram": 13.04699482248633,
+        "currentPrice": 1872.96,
+        "pct1Day": 0.6214655267618052,
+        "pct5Day": -0.8743071975607107,
+        "pct52WeekHigh": -62.190937622193196,
+        "pct52WeekLow": 24.324786822910802,
+        "sma20": 1782.8278930664062,
+        "sma50": 1734.6501416015626,
+        "sma200": 2183.649891357422,
+        "rsi14": 59.74681934910841,
+        "macd": 38.53637169546255,
+        "macdSignal": 25.36493554462851,
+        "macdHistogram": 13.17143615083404,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -367,18 +367,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 76.17,
-        "pct1Day": 0.9396826064432348,
-        "pct5Day": -2.0478311507926557,
-        "pct52WeekHigh": -69.9182377940199,
-        "pct52WeekLow": 26.078586833999008,
-        "sma20": 77.94335479736328,
-        "sma50": 73.34236938476562,
-        "sma200": 90.07918407440185,
-        "rsi14": 50.025808271332224,
-        "macd": 0.2837142606531131,
-        "macdSignal": 0.7406808372414794,
-        "macdHistogram": -0.45696657658836626,
+        "currentPrice": 76.24,
+        "pct1Day": 1.0324458699649668,
+        "pct5Day": -1.9578134033928416,
+        "pct52WeekHigh": -69.89059274538634,
+        "pct52WeekLow": 26.19445267459739,
+        "sma20": 77.9468547821045,
+        "sma50": 73.3437693786621,
+        "sma200": 90.07953407287597,
+        "rsi14": 50.21384315084007,
+        "macd": 0.2892982818926413,
+        "macdSignal": 0.741797641489385,
+        "macdHistogram": -0.4524993595967437,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -664,13 +664,13 @@
       "timestamp": "2026-07-19T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2289868885125.8496,
-      "total24hVolumeUsd": 39826253470.7272,
-      "marketCapChangePct24h": 0.573134658166009,
-      "btcDominance": 56.44068269894104,
-      "ethDominance": 9.858059405663413,
+      "totalMarketCapUsd": 2293438950852.0874,
+      "total24hVolumeUsd": 40263455802.05398,
+      "marketCapChangePct24h": 0.7522313596361988,
+      "btcDominance": 56.45059134868304,
+      "ethDominance": 9.860176757932573,
       "activeCryptocurrencies": 17657
     },
-    "generated_at": "2026-07-19T14:09:03.154Z"
+    "generated_at": "2026-07-19T15:09:09.252Z"
   }
 }
