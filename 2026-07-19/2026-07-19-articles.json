@@ -6,110 +6,110 @@
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
       "excerpt": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "meta": "Python · ★ 20,721 · 🍴 2,151 · 📈 551 stars today",
+      "meta": "Python · ★ 20,754 · 🍴 2,153 · 📈 551 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一种本地优先的代码智能图，用于构建代码库的持久映射，以便AI编码工具仅读取重要信息。通过优化评审和大规模代码库的上下文，显著提高了代码评审的效率，适合希望提高代码质量的开发者使用。"
+      "summary": "该项目构建了一个本地优先的代码智能图，旨在为MCP和CLI提供持久的代码库映射，让AI编程工具只读取重要内容，从而在评审和大型代码库中实现上下文的显著减少。适合开发者在本地环境中高效进行代码审查和分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "excerpt": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "meta": "Python · ★ 18,219 · 🍴 1,436 · 📈 328 stars today",
+      "meta": "Python · ★ 18,228 · 🍴 1,438 · 📈 328 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是一个灵活的框架，旨在体验异构大型语言模型（LLM）的推理和微调优化。开发人员可以使用它来快速实现和测试不同的LLM配置，适合需要高性能AI推理的应用场景。"
+      "summary": "ktransformers是一个灵活的框架，用于体验异构大语言模型（LLM）的推理和微调优化，适合需要使用不同LLM进行开发和实验的研究者和开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "excerpt": "Learn it. Build it. Ship it for others.",
-      "meta": "Python · ★ 39,451 · 🍴 6,596 · 📈 507 stars today",
+      "meta": "Python · ★ 39,462 · 🍴 6,597 · 📈 507 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目旨在帮助用户学习和构建AI系统，适合想要从零开始掌握人工智能工程的学生或开发者。通过具体项目实践，用户能够掌握AI开发的各个环节。"
+      "summary": "该项目提供了从零开始学习人工智能工程的指南，帮助用户理解、构建并发布自己的AI产品，适合对AI开发感兴趣的初学者和从业者。"
     },
     {
       "sourceId": "github-trending",
       "title": "jamiepine/voicebox",
       "url": "https://github.com/jamiepine/voicebox",
       "excerpt": "The open-source AI voice studio. Clone, dictate, create.",
-      "meta": "TypeScript · ★ 43,099 · 🍴 5,271 · 📈 629 stars today",
+      "meta": "TypeScript · ★ 43,110 · 🍴 5,272 · 📈 629 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一个开源AI语音工作室，用户可以在该平台上进行语音克隆、听写和创作。适合内容创作者和需要语音处理的开发者，提供了灵活的语音生成和处理工具。"
+      "summary": "Voicebox是一个开源的AI语音工作室，支持克隆、语音输入及创作，旨在帮助用户生成和编辑语音内容，适合音频制作和语音交互的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "excerpt": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "meta": "TypeScript · ★ 1,620 · 🍴 101 · 📈 605 stars today",
+      "meta": "TypeScript · ★ 1,636 · 🍴 101 · 📈 605 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目提供了一种本地优先的AI编码代理服务，能够在不使用API密钥和云服务的情况下进行搜索、抓取和研究，适合需要编程支持的开发者，且查询成本为零。"
+      "summary": "Wigolo是一个面向AI编程代理的本地优先搜索工具，支持检索、爬取和研究，无需API密钥与云服务，适合开发者在无成本的情况下进行概念验证和资源查找。"
     },
     {
       "sourceId": "github-trending",
       "title": "andrewrabert/jellium-desktop",
       "url": "https://github.com/andrewrabert/jellium-desktop",
       "excerpt": "An unofficial desktop client for Jellyfin",
-      "meta": "Rust · ★ 1,232 · 🍴 104 · 📈 54 stars today",
+      "meta": "Rust · ★ 1,238 · 🍴 104 · 📈 54 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一个非官方的Jellyfin桌面客户端，适合希望在桌面环境中访问和管理其Jellyfin媒体服务器的用户。该项目扩展了Jellyfin的使用场景，提高了用户体验。"
+      "summary": "该项目是Jellyfin的非官方桌面客户端，旨在为用户提供更便捷的媒体管理和播放体验，适用于喜欢使用Jellyfin的家庭影院爱好者。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 9,904 · 🍴 1,346 · 📈 111 stars today",
+      "meta": "Java · ★ 9,907 · 🍴 1,346 · 📈 111 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是一个多平台的SDK，用于将GitHub Copilot Agent集成到各种应用和服务中，为开发者提供了便捷的AI编码助手。它可以帮助开发者减少编码时间，提高工作效率。"
+      "summary": "Copilot SDK是一个多平台开发工具包，旨在将GitHub Copilot Agent集成到应用程序和服务中，适合希望利用Copilot提升开发效率的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "excerpt": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all",
-      "meta": "Python · ★ 36,821 · 🍴 3,046 · 📈 424 stars today",
+      "meta": "Python · ★ 36,830 · 🍴 3,047 · 📈 424 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "PostHog是一个领先的平台，支持构建自驱动产品。它提供AI可观测性、分析、会话重放等多种开发者工具，帮助团队了解用户行为，提高产品体验。"
+      "summary": "PostHog是构建自驱动产品的领先平台，提供AI可观察性、分析、会话重播、实验等开发工具，适合产品经理和开发者进行产品性能和用户行为分析。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/terminal",
       "url": "https://github.com/microsoft/terminal",
       "excerpt": "The new Windows Terminal and the original Windows console host, all in the same place!",
-      "meta": "C++ · ★ 104,057 · 🍴 9,432 · 📈 13 stars today",
+      "meta": "C++ · ★ 104,067 · 🍴 9,432 · 📈 13 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是新的Windows Terminal和原始Windows控制台主机的结合，旨在为开发者提供更好的终端体验。它支持多标签、丰富的自定义选项，非常适合开发者使用。"
+      "summary": "这是新版本的Windows Terminal与原Windows控制台主机的集合，旨在为开发者提供一个增强的命令行体验，适合需要多标签和更强大功能的用户。"
     },
     {
       "sourceId": "github-trending",
       "title": "AstrBotDevs/AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "excerpt": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "meta": "Python · ★ 36,626 · 🍴 2,541 · 📈 62 stars today",
+      "meta": "Python · ★ 36,628 · 🍴 2,541 · 📈 62 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一个AI助手及开发框架，集成了多种即时通讯平台、大型语言模型（LLMs）、插件和AI功能，为开发者提供了一个强大的工具，适合构建聊天机器人或自动化工具。"
+      "summary": "AstrBot是一个整合多种即时通讯平台、LLM和插件的AI助手与开发框架，适合想要构建多功能聊天机器人的开发者与团队。"
     },
     {
       "sourceId": "github-trending",
       "title": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "excerpt": "Coding Agent Harness",
-      "meta": "Rust · ★ 8,716 · 🍴 1,005 · 📈 199 stars today",
+      "meta": "Rust · ★ 8,730 · 🍴 1,007 · 📈 199 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是一个编码代理工具，旨在提供智能化的编码帮助，适合开发者在编写代码时提高效率，减少常见的编码错误。"
+      "summary": "Jcode是一个用于编程代理的框架，旨在为开发者提供便捷的工具支持，适用于需要自动化编程任务的场景。"
     },
     {
       "sourceId": "github-trending",
@@ -119,66 +119,67 @@
       "meta": "HTML · ★ 20,178 · 🍴 1,338 · 📈 136 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目旨在通过开源驱动程序、跨操作系统的设备管理和基准测试，提升计算机使用效率，适合需要高效计算资源的研究者和开发者。"
+      "summary": "Cua项目旨在通过开放源代码驱动的多操作系统规模计算，提供用于训练、评估和数据生成的基准工具，适合对跨平台计算优化感兴趣的研究者。"
     },
     {
       "sourceId": "github-trending",
       "title": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "excerpt": "Kimi Code CLI is your next CLI agent.",
-      "meta": "Python · ★ 9,744 · 🍴 1,179 · 📈 418 stars today",
+      "meta": "Python · ★ 9,759 · 🍴 1,179 · 📈 418 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Kimi Code CLI是一个命令行工具，旨在作为下一代CLI助手，帮助用户更高效地进行命令行操作，适合那些频繁使用CLI的开发者。"
+      "summary": "Kimi Code CLI是一个命令行代理工具，旨在帮助开发者提高CLI操作的效率，适合需频繁使用命令行的程序员。"
     },
     {
       "sourceId": "github-trending",
       "title": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "excerpt": "",
-      "meta": "Batchfile · ★ 30,983 · 🍴 2,374 · 📈 117 stars today",
+      "meta": "Batchfile · ★ 30,985 · 🍴 2,374 · 📈 117 stars today",
       "category": "tech",
-      "source": "GitHub Trending"
+      "source": "GitHub Trending",
+      "summary": "该项目未提供具体描述，信息不足，无法提供详细介绍。"
     },
     {
       "sourceId": "github-trending",
       "title": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "excerpt": "Master programming by recreating your favorite technologies from scratch.",
-      "meta": "Markdown · ★ 528,713 · 🍴 50,020 · 📈 761 stars today",
+      "meta": "Markdown · ★ 528,724 · 🍴 50,022 · 📈 761 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目通过重建各种技术来帮助用户掌握编程，适合那些希望深入理解计算机科学原理和技术架构的学习者。"
+      "summary": "通过从头复现您最喜欢的技术，该项目帮助开发者掌握编程技能，适合希望深入理解技术原理的学习者和开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "excerpt": "AirLLM 70B inference with single 4GB GPU",
-      "meta": "Jupyter Notebook · ★ 23,545 · 🍴 2,675 · 📈 374 stars today",
+      "meta": "Jupyter Notebook · ★ 23,550 · 🍴 2,676 · 📈 374 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "AirLLM项目用于在单个4GB GPU上进行70B参数的推理，适合需要高效模型推理能力的研究者和开发者，提供了更低硬件要求的推理解决方案。"
+      "summary": "AirLLM提供70B规模的推理能力，适合使用单个4GB GPU的开发者，帮助高效运行大型语言模型。"
     },
     {
       "sourceId": "github-trending",
       "title": "Canner/WrenAI",
       "url": "https://github.com/Canner/WrenAI",
       "excerpt": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
-      "meta": "Python · ★ 16,088 · 🍴 1,834 · 📈 96 stars today",
+      "meta": "Python · ★ 16,095 · 🍴 1,834 · 📈 96 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目是Generative BI（生成性商业智能）平台，利用开放的上下文层将自然语言问题转化为受信任的仪表盘和SQL查询，适合希望通过自然语言提升数据分析能力的用户。"
+      "summary": "WrenAI是一个用于AI代理的生成性商业智能工具，支持自然语言转SQL并生成可信的仪表板和图表，适合数据分析师和开发者使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "PKUFlyingPig/cs-self-learning",
       "url": "https://github.com/PKUFlyingPig/cs-self-learning",
       "excerpt": "计算机自学指南",
-      "meta": "HTML · ★ 74,093 · 🍴 7,937 · 📈 128 stars today",
+      "meta": "HTML · ★ 74,098 · 🍴 7,937 · 📈 128 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这是一个关于计算机自学的指南，适合希望自主学习计算机科学基础知识和技术的学生和爱好者，提供系统的学习资源和建议。"
+      "summary": "计算机自学指南旨在为学习计算机科学的用户提供系统性的资源与推荐，适合自学计算机科学的学生和爱好者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -211,7 +212,7 @@
       "sourceId": "v2ex-hot",
       "title": "Vibe Coding 副业四个月：成本超出收益，要放弃吗？",
       "url": "https://www.v2ex.com/t/1228385",
-      "excerpt": "21 回复 · 程序员 节点",
+      "excerpt": "24 回复 · 程序员 节点",
       "publishedAt": "2026-07-19T11:17:09.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -220,7 +221,7 @@
       "sourceId": "v2ex-hot",
       "title": "Kimi K3 这波真的爆了，你们用着感觉怎么样？",
       "url": "https://www.v2ex.com/t/1228376",
-      "excerpt": "18 回复 · 程序员 节点",
+      "excerpt": "19 回复 · 程序员 节点",
       "publishedAt": "2026-07-19T10:11:37.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -335,19 +336,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "Linux 上的游戏网络加速",
-      "url": "https://www.v2ex.com/t/1223240",
-      "excerpt": "9 回复 · Linux 节点",
-      "publishedAt": "2026-06-26T17:11:17.000Z",
+      "title": "iOS 如何设置能实现像安卓手机的来电提醒一样显示是谁打电话过来的，比如 10086 标识为中国移动这样？",
+      "url": "https://www.v2ex.com/t/1228323",
+      "excerpt": "10 回复 · Apple 节点",
+      "publishedAt": "2026-07-19T03:28:43.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "iOS 如何设置能实现像安卓手机的来电提醒一样显示是谁打电话过来的，比如 10086 标识为中国移动这样？",
-      "url": "https://www.v2ex.com/t/1228323",
-      "excerpt": "9 回复 · Apple 节点",
-      "publishedAt": "2026-07-19T03:28:43.000Z",
+      "title": "Linux 上的游戏网络加速",
+      "url": "https://www.v2ex.com/t/1223240",
+      "excerpt": "9 回复 · Linux 节点",
+      "publishedAt": "2026-06-26T17:11:17.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -413,7 +414,7 @@
       "publishedAt": "2026-07-17T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI CFO Sarah Friar 推出了一种实用的AI评分卡，旨在通过有效工作、每个成功任务的成本、可靠性和计算回报等指标来衡量投资回报率。"
+      "summary": "OpenAI的首席财务官Sarah Friar提出了一种实用的AI评分卡，通过有效工作、成功任务成本、可依赖性以及计算回报来衡量投资回报率。"
     },
     {
       "sourceId": "openai-news",
@@ -423,7 +424,7 @@
       "publishedAt": "2026-07-16T16:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI正通过适龄保护、学习工具和专家合作，提升ChatGPT对青少年的安全性和可用性。"
+      "summary": "OpenAI致力于为青少年提供安全的AI访问，包括适龄保护措施、学习工具和专家合作。"
     },
     {
       "sourceId": "openai-news",
@@ -433,7 +434,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Cars24利用OpenAI驱动的语音和聊天代理，每月处理超过100万分钟的对话，成功挽回12%的遗失线索。"
+      "summary": "Cars24使用OpenAI的语音和聊天代理每月处理超过100万分钟的对话，成功恢复12%的失去线索。"
     },
     {
       "sourceId": "openai-news",
@@ -686,7 +687,7 @@
       "publishedAt": "2026-07-16T09:30:42.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Google DeepMind 与 Isomorphic Labs 共同分享其在生物韧性和AI模型方面的研究方法。"
+      "summary": "Google DeepMind与Isomorphic Labs分享了对生物弹性和AI模型的共同方法。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -957,7 +958,7 @@
       "publishedAt": "2026-07-17T15:57:54.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "NVIDIA NeMo Automodel 和 🤗 Diffusers 可用于大规模微调视频和图像模型。"
+      "summary": "NVIDIA推出NeMo Automodel以大规模微调视频和图像模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -967,7 +968,7 @@
       "publishedAt": "2026-07-16T11:49:48.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "最新模型仍旧保持相同的优势。"
+      "summary": "Hugging Face提出新模型具备相同优势的观点。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -977,7 +978,7 @@
       "publishedAt": "2026-07-16T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "关于2026年7月的安全事件信息披露。"
+      "summary": "Hugging Face发布了2026年7月的安全事件披露信息。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1230,7 +1231,7 @@
       "publishedAt": "2026-07-17T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "Kimi K3发布，Gemini 3.5推迟，ARC-AGI 3表现强劲。"
+      "summary": "Kimi K3模型推出，Gemini 3.5发布延期，ARC-AGI 3表现突出。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1411,7 +1412,7 @@
       "publishedAt": "2026-07-17T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot的Kimi K3发布引发对中国开放权重模型在未来趋势上的重新评估，特别是在编码、智能任务和长时间知识工作中的表现。"
+      "summary": "Moonshot推出Kimi K3模型，评估中国开源模型在编程及长期知识工作方面的表现，并将战略重点转向效率堆栈。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1421,7 +1422,7 @@
       "publishedAt": "2026-07-16T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "Moonshot AI推出Kimi K3，拥有2.8T参数、1M-token上下文窗口和原生多模态输入，特有Kimi Delta Attention (KDA)技术。"
+      "summary": "Moonshot AI推出具有2.8T参数及6.3倍解码速度的Kimi K3开源模型，具备原生多模态输入。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1683,7 +1684,7 @@
       "publishedAt": "2026-07-18T04:30:21.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "今天的动态较少，力度不大。"
+      "summary": "今日新闻较为平静，未发生重大事件。"
     },
     {
       "sourceId": "latent-space",
@@ -1693,7 +1694,7 @@
       "publishedAt": "2026-07-17T01:46:36.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "本周继续见证开放模型领域的重大进展，Kimi K3 2.8T-A50B成为发布的最大开放模型。"
+      "summary": "Kimi K3 2.8T-A50B被称为有史以来最大的开源模型，持续推动开源模型的发展。"
     },
     {
       "sourceId": "latent-space",
@@ -1703,7 +1704,7 @@
       "publishedAt": "2026-07-16T13:30:44.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Lila Sciences正致力于利用科学作为最后未开发的训练数据源，探索机器人技术在实验室中的应用。"
+      "summary": "Lila Sciences认为科学是最后一个未开发的数据源，展示了与机器人互动的实验室理念。"
     },
     {
       "sourceId": "latent-space",
@@ -1713,7 +1714,7 @@
       "publishedAt": "2026-07-16T06:18:05.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "Thinky首次发布的全功能LLM Inkling是表现出色的新模型，并且采用开放权重。"
+      "summary": "Thinky推出975B-A41B多模态模型，成为最佳的美国Apache 2.0开源模型，此版本为开放权重。"
     },
     {
       "sourceId": "latent-space",
@@ -1867,7 +1868,7 @@
       "publishedAt": "2026-07-17T08:57:32.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "天气预测对航空公司调度人员、电网操作员和农民的决策有重要影响，但对天气数据的破坏风险也在上升。"
+      "summary": "气象数据被篡改的风险正在上升，这对全球航空和农业决策产生重大影响。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1959,7 +1960,7 @@
       "category": "tech",
       "meta": "@amasad · 472.6K 粉丝 · 223.7K 阅 · 560 赞 · 65 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Replit 的工程师在过去六个月中，代码输出几乎三倍增长，审查时间保持稳定。该公司正在探索自我运营的模式，显示了自动化在提升工作效率方面的潜力。"
+      "summary": "Replit 最近六个月工程师的代码产出几乎增加了三倍，审查时间保持稳定。博主重点讨论了公司如何逐渐实现自我运营，以及随之而来的效率提升。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1970,7 +1971,7 @@
       "category": "tech",
       "meta": "@CliffordSosin · 16.4K 粉丝 · 197.0K 阅 · 514 赞 · 49 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "尽管超级智能已经到来，但其发展是渐进的。作者建议与 Fable 5 进行对话，以体验其智能，表明现有智能的提升未必显著。"
+      "summary": "博主分析了超智能的到来可能并不像预期那样显著，暗示智能进步是渐进的。他建议通过与 Fable 5 对话来测试这一点，让人思考智能的真正含义。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1981,7 +1982,7 @@
       "category": "tech",
       "meta": "@EXM7777 · 126.7K 粉丝 · 173.6K 阅 · 521 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享如何建立首个 AI 代理团队，并将其整合到自我改进的循环中。当前团队由五个代理组成，分别负责不同的职能，帮助优化工作流程。"
+      "summary": "提供了一种构建 AI 代理团队的方法，构建过程中涉及将五个代理集成入一个自我改进的工作空间。博主分享了相关的工作流和操作步骤，适合初学者。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1992,7 +1993,7 @@
       "category": "tech",
       "meta": "@GoogleAIStudio · 186.6K 粉丝 · 111.0K 阅 · 512 赞 · 51 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Gemini API 新增的管理代理功能，包括免费层、预算控制和预定触发器。此次更新基于之前版本的基础，进一步扩展了使用场景和灵活性。"
+      "summary": "Google 宣布 Gemini API 管理代理的新功能，包括免费的使用层、预算控制和定时触发器，增强了之前发布的功能，旨在提升用户体验。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2003,7 +2004,7 @@
       "category": "tech",
       "meta": "@cerebras · 60.4K 粉丝 · 70.7K 阅 · 509 赞 · 38 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "团队分享了如何构建内部知识库的经验，其系统日均接收超过 15,000 次查询，展示了强大的信息管理和员工支持能力。"
+      "summary": "Cerebras 分享了其内部知识库的构建过程，强调员工每天提问超过 15,000 次，展示了知识库在信息获取中的重要性和实用性。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2014,7 +2015,7 @@
       "category": "tech",
       "meta": "@elliotarledge · 40.7K 粉丝 · 69.3K 阅 · 506 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Kimi K3 模型的早期测试结果令人印象深刻，尽管基准得分尚未公布，测试中已显示出其在内核性能方面的潜力。"
+      "summary": "博主对 Kimi K3 模型进行了早期测试，在对核心的表现感到满意之前，尚未获得基准分数的背景下，展示了其潜力和性能。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2025,7 +2026,7 @@
       "category": "tech",
       "meta": "@IntuitMachine · 62.3K 粉丝 · 50.7K 阅 · 552 赞 · 47 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "讨论 AI 代理架构从循环工程转向图形工程的变迁，指出这种转变背后的深层次原因，引发了许多关注和讨论。"
+      "summary": "博主讨论了 AI 代理架构的转变，提出了传统循环工程与新兴图形工程之间的讨论，引发了社区对未来趋势的思考。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2035,7 +2036,7 @@
       "publishedAt": "2026-07-19T14:00:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "对个别股票波动性的押注在标准普尔500相对平静时成为对冲基金的热门策略，近期股价极端波动使反向交易越来越受到投资者青睐。"
+      "summary": "在标准普尔500相对平稳的情况下，个股波动加剧令对冲基金采用反向分散交易策略。投资者对这一策略的兴趣正在上升。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2045,7 +2046,7 @@
       "publishedAt": "2026-07-19T13:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "在一场精彩的世界杯期间，预测市场交易激增，占体育博彩的27%，远超传统博彩网站的增长。"
+      "summary": "在世界杯期间，预测市场的交易量增长至27%，远超传统体育博彩平台，显示出对运动赌博行业的竞争威胁。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2064,7 +2065,7 @@
       "publishedAt": "2026-07-19T12:30:00.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "新兴市场货币波动降至年初以来最低，拉美货币的套利交易因此复苏，被视为提供丰厚回报的最佳选择。"
+      "summary": "新兴市场货币波动降至年初以来最低，拉丁美洲货币的套利交易被视为提供丰厚回报的最佳选择。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2308,7 +2309,7 @@
       "publishedAt": "2026-07-19T12:22:16.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "巴恩汉姆决定维持对北海勘探许可证的禁令，此举受到石油和天然气行业及工会的批评。"
+      "summary": "对北海勘探许可证的禁令将保持不变，此决定受到石油和天然气行业以及工会的批评。"
     },
     {
       "sourceId": "ft-companies",
@@ -2318,7 +2319,7 @@
       "publishedAt": "2026-07-19T11:00:02.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "内部人士表示，英国向印度让步的钢铁配额可能对塔塔钢铁在纽波特的兰文工厂造成伤害，尤其是镀锌钢的配额问题。"
+      "summary": "工会领导表示，针对镀锌钢的配额特别对塔塔钢铁位于纽波特的Llanwern工厂造成严重影响。"
     },
     {
       "sourceId": "ft-companies",
@@ -2328,7 +2329,7 @@
       "publishedAt": "2026-07-19T10:50:00.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "中国京冶指责英国政府无视其投资，要求赔偿，认为提供的赔偿“几乎为零”。"
+      "summary": "京冶指责英国政府无视其投资并仅提供“几乎没有赔偿”。"
     },
     {
       "sourceId": "ft-companies",
@@ -2338,7 +2339,7 @@
       "publishedAt": "2026-07-19T09:00:01.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "尽管华尔街持怀疑态度，游戏零售商GameStop在持续追求eBay的过程中加倍投入，着力推动这项看似不切实际的交易。"
+      "summary": "视频游戏零售商GameStop在华尔街持怀疑态度的情况下，继续加大对eBay的投资。"
     },
     {
       "sourceId": "ft-companies",
@@ -2348,7 +2349,7 @@
       "publishedAt": "2026-07-19T08:05:30.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "尽管动态票价和补水休息遭到观众不满，但FIFA的商业化世界杯带来的收入增长可能是不可抗拒的。"
+      "summary": "尽管动态票价和补水休息时间并不受球迷欢迎，但世界杯的高收入可能使这种商业化模式持续存在。"
     },
     {
       "sourceId": "ft-companies",
@@ -2538,7 +2539,7 @@
       "publishedAt": "2026-07-19T10:59:07.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "中国公司京冶在英国政府国有化英国钢铁后，表示将通过法律手段寻求赔偿，力争“直到最后”。"
+      "summary": "中国企业京冶表示，将通过法律手段追究英国政府对英国钢铁国有化的赔偿责任。"
     },
     {
       "sourceId": "bbc-business",
@@ -2566,7 +2567,7 @@
       "publishedAt": "2026-07-19T14:27:15.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "新任首相预计将于上任首日宣布对北海油气行业的新支持措施。"
+      "summary": "新任首相预计将在其任期的第一天宣布对北海石油和天然气的新增支持。"
     },
     {
       "sourceId": "bbc-business",
@@ -2603,7 +2604,7 @@
       "publishedAt": "2026-07-19T13:06:45.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "肯特的居民对东南水务公司表示愤怒，称其在供水问题上的表现为“无能且无用”，该问题持续困扰他们已第二天。"
+      "summary": "肯特居民对东南水务表示愤怒，因供水问题持续第二天仍未解决。"
     },
     {
       "sourceId": "bbc-business",
@@ -2658,7 +2659,7 @@
       "publishedAt": "2026-07-19T14:26:31.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国唯一的原钢生产厂经过多年的不确定性后已被纳入国有，标志着其未来的变化。"
+      "summary": "英国唯一的原钢生产工厂因未来不确定性被国有化。"
     },
     {
       "sourceId": "bbc-business",
@@ -3081,8 +3082,7 @@
       "excerpt": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
       "publishedAt": "2026-07-19T13:10:57.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "在约旦因伊朗袭击造成两名美军士兵遇难后，美方对伊朗发动反击，科威特电力和水厂因袭击起火。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3091,8 +3091,7 @@
       "excerpt": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "publishedAt": "2026-07-19T12:53:20.000Z",
       "category": "politics",
-      "source": "BBC World",
-      "summary": "塔特兄弟在美国被捕，英国的指控总数已达到59项，皇家检察署已请求将其引渡。"
+      "source": "BBC World"
     },
     {
       "sourceId": "bbc-world",
@@ -3120,7 +3119,7 @@
       "publishedAt": "2026-07-19T14:50:11.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "乐队The 1975的主唱马蒂·希利在洛杉矶与模特加布里埃特·贝赫特尔结婚，二人于2023年首次被媒体报道在一起。"
+      "summary": "马蒂·希利与模特加布里埃特·贝赫特尔在洛杉矶结婚，此前两人在2023年首次被拍到一起。"
     },
     {
       "sourceId": "bbc-world",
@@ -3139,7 +3138,7 @@
       "publishedAt": "2026-07-19T14:00:03.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "一艘载有116名乘客的渡轮在圭亚那近海沉没，目前已有53人获救。"
+      "summary": "一艘载有116名乘客的渡轮在圭亚那沿海沉没，至今已有53人获救。"
     },
     {
       "sourceId": "bbc-world",
@@ -3158,7 +3157,7 @@
       "publishedAt": "2026-07-19T14:06:08.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "在北极地理北极点举办的“世界上最酷的马拉松”吸引了来自七个国家的23名跑者参加。"
+      "summary": "23名来自七个国家的跑者在北极地理北极点参加比赛，组织者称之为“世界上最酷的马拉松”。"
     },
     {
       "sourceId": "bbc-world",
@@ -3486,6 +3485,26 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
+      "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
+      "excerpt": "ABS data show one in 10 people are not satisfied with life – but community cohesion and trust lift happiness scores Get our breaking news email, free app or daily news podcast Nearly 2.2 million Australians 15 years and older are living below the wellbeing poverty line, with the share of people repo",
+      "publishedAt": "2026-07-19T15:00:31.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "澳大利亚统计局数据显示，10%的人对生活不满意，约220万人（15岁及以上）生活在所谓的幸福贫困线以下，社区凝聚力及信任感有所提升。"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Australian and NZ safety assurances about asbestos in play sand were based on supplier’s own assessment",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/play-sand-asbestos-safety-assurances-australia-nz-based-on-supplier-assessment",
+      "excerpt": "ACCC updates some recall notices to say products ‘may cause risk to health’, contrary to previous claims Get our breaking news email, free app or daily news podcast Schools, retailers and government agencies assured parents that asbestos-contaminated play sand posed a low risk to their children’s he",
+      "publishedAt": "2026-07-19T15:00:30.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "澳大利亚和新西兰有关沙子中石棉安全性的保证基于供应商自我评估，尽管有更新的召回通知指出这些产品“可能对健康构成风险”。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
       "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
       "excerpt": "New national plan accompanied by Labor push for digital duty of care legislation Get our breaking news email, free app or daily news podcast The use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend ",
@@ -3508,24 +3527,6 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/19/anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-bridget-mckenzie-cpac-london-politics-reactions-ski-field-temperature-high-diesel-prices-surge-ntwnfb",
       "excerpt": "This blog is now closed Get our breaking news email, free app or daily news podcast Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event Pianist Jayson Gillham peforms joint concert for Palestinian families Pianist Jayson Gillham has performed a c",
       "publishedAt": "2026-07-19T05:32:35.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Man dies after cross-border police pursuit ends in NSW northern rivers",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/man-dies-after-queensland-nsw-police-car-chase-ntwnfb",
-      "excerpt": "Car chase began in Queensland after report of armed man on Gold Coast late on Saturday, police say Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast New South Wales police have declared a “critical incident” after a man died following ",
-      "publishedAt": "2026-07-19T02:46:04.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/bridget-mckenzie-cpac-london-national-party-pauline-hanson-one-nation-ntwnfb",
-      "excerpt": "Nationals senator echoes comments by Pauline Hanson as Labor criticises One Nation leader’s divisive stance Follow our Australia news live blog for latest updates Get our breaking news email, free app or daily news podcast The National party’s Senate leader, Bridget McKenzie, has used an appearance ",
-      "publishedAt": "2026-07-18T23:37:48.000Z",
       "category": "politics",
       "source": "The Guardian"
     },
@@ -3579,10 +3580,10 @@
       "title": "Middle East crisis live: US launches new round of airstrikes to ‘swiftly punish’ Iran after American troops killed",
       "url": "https://www.theguardian.com/world/live/2026/jul/19/middle-east-crisis-live-us-launches-new-round-of-airstrikes-to-swiftly-punish-iran-after-american-troops-killed",
       "excerpt": "IRGC says two ships have also been involved in ‘accident’ after defying strait of Hormuz warnings as Kuwait reports attack from Tehran Two US troops killed and one missing in Jordan after Iranian attacks Jordanian authorities ⁠have not issued any decision ⁠to ​evacuate the airport or ⁠seaport in the",
-      "publishedAt": "2026-07-19T14:50:05.000Z",
+      "publishedAt": "2026-07-19T15:21:28.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "两名美国士兵在约旦遭伊朗袭击后遇难，美国对伊朗展开新一轮空袭。科威特报告发生多轮导弹和无人机袭击，约旦也发出警报。"
+      "summary": "美国军方对伊朗军队展开新一轮空袭，以报复在约旦遭伊朗攻击而导致的两名美军遇害和一人失踪事件。伊朗方面还对美国的海湾盟友实施了攻击，导致科威特的一家发电厂发生火灾。"
     },
     {
       "sourceId": "guardian-world",
@@ -3625,10 +3626,10 @@
       "title": "Iran War Live Updates: U.S. and Iran Edge Closer to Wider War After U.S. Service Members Killed",
       "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
       "excerpt": "The U.S. military said it had targeted Iranian forces that were responsible for an attack on a base in Jordan that left two American service members dead and one missing.",
-      "publishedAt": "2026-07-19T14:58:30.000Z",
+      "publishedAt": "2026-07-19T15:17:55.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "美国军方表示，他们针对了负责在约旦攻击基地的伊朗部队，此次袭击导致两名美军士兵丧生，一名失踪。"
+      "summary": "美国军方表示，已针对负责在约旦基地攻击并造成两名美军死亡、一人失踪的伊朗武装力量进行打击。"
     },
     {
       "sourceId": "nyt-world",
@@ -3740,6 +3741,16 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "Increased Cooperation With U.S. Has Put Jordan in Iran’s Cross Hairs",
+      "url": "https://www.nytimes.com/2026/07/19/world/middleeast/iran-war-jordan-us.html",
+      "excerpt": "Jordan’s role in U.S. operations against Iran has grown as other allies in the region have restricted Washington’s ability to use their bases and airspace.",
+      "publishedAt": "2026-07-19T15:17:53.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "约旦因在美军对伊朗行动中的角色日益重要，成为伊朗的新目标，其他地区盟友则限制了美国使用其基地和空域的能力。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "Russia Batters Kyiv in One of the Largest Missile Assaults of the War",
       "url": "https://www.nytimes.com/2026/07/19/world/europe/russia-ukraine-strikes.html",
       "excerpt": "On Saturday, Ukraine hit two warehouses in Russia in strikes that killed at least eight people and injured 62.",
@@ -3754,8 +3765,7 @@
       "excerpt": "",
       "publishedAt": "2026-07-19T13:44:19.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "暂无摘要。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -3884,15 +3894,6 @@
       "source": "NYT World"
     },
     {
-      "sourceId": "nyt-world",
-      "title": "The Rise and Fall of Ukraine’s Drone Warfare Mastermind",
-      "url": "https://www.nytimes.com/2026/07/17/world/europe/ukraine-fedorov-defense-minister.html",
-      "excerpt": "The popularity of drones, and the defense minister who heavily promoted them, helped lead to a clash in which President Volodymyr Zelensky sided with the military brass.",
-      "publishedAt": "2026-07-18T14:29:39.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
       "sourceId": "npr-world",
       "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
       "url": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
@@ -3990,7 +3991,7 @@
       "publishedAt": "2026-07-19T14:01:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "欧盟新规禁止大公司销毁滞销服装和鞋类，旨在鼓励节约和减少纺织品垃圾，但是否能如预期奏效仍然受到质疑。"
+      "summary": "欧盟新法从即日起禁止大公司销毁滞销服装和鞋类，旨在鼓励节约和减少纺织品垃圾，但外界对此法律的实际效果持怀疑态度。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4270,7 +4271,7 @@
       "publishedAt": "2026-07-19T14:34:15.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "阿根廷足球队将在世界杯决赛中迎战西班牙。"
+      "summary": "阿根廷足球队正准备在世界杯决赛中迎战西班牙。"
     },
     {
       "sourceId": "aljazeera",
@@ -4280,7 +4281,7 @@
       "publishedAt": "2026-07-19T14:27:53.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "科威特和巴林报告多轮伊朗导弹和无人机袭击，导致科威特一座电厂起火，约旦发出警报。"
+      "summary": "伊朗对美国在海湾的盟友发起多轮导弹和无人机攻击，科威特和巴林报告了相关事件，约旦也传出警报声。"
     },
     {
       "sourceId": "aljazeera",
@@ -4290,7 +4291,7 @@
       "publishedAt": "2026-07-19T14:27:02.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "对巴勒斯坦人而言，足球从来不仅仅是一项运动，他们在与以色列占领的斗争中，将其视作一种象征。"
+      "summary": "对于正在对抗以色列占领的巴勒斯坦人来说，足球并不仅仅是一场比赛。"
     },
     {
       "sourceId": "aljazeera",
@@ -4309,7 +4310,7 @@
       "publishedAt": "2026-07-19T14:12:10.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "英国将对英国钢铁公司进行国有化，引发中英间的法律争议，正值伦敦政治领导层变动之际。"
+      "summary": "英国对英国钢铁的国有化举措引发对华新争议，正值伦敦政治领导层变动之际。"
     },
     {
       "sourceId": "aljazeera",
@@ -4319,7 +4320,7 @@
       "publishedAt": "2026-07-19T13:56:18.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "黎巴嫩食品网红乔治·迪布因走私毒品藏在饼干中，缺席审判被判处无期徒刑。"
+      "summary": "黎巴嫩知名食品网红乔治·迪布因在饼干中走私毒品被缺席判处无期徒刑。"
     },
     {
       "sourceId": "aljazeera",
@@ -4328,8 +4329,7 @@
       "excerpt": "Influencer brothers arrested in Miami, as UK seeks extradition to face new charges of rape, sex trafficking and assault.",
       "publishedAt": "2026-07-19T13:12:50.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "影响力兄弟安德鲁和特里斯坦·塔特在迈阿密被捕，英国寻求引渡以应对新的强奸、性交易和攻击指控。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
