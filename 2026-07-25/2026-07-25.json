@@ -1,102 +1,101 @@
 {
-  "hero_headline": "火灾迫使25万人疏散，印度部长辞职",
-  "daily_overview": "今日新闻聚焦：欧洲多国火灾持续，超过25万人因恶劣天气被迫疏散；美国金融市场受到特朗普贸易政策影响，相关股票表现欠佳；印度青年反抗运动成功迫使教育部长辞职，为政府带来压力。各领域动态交错，经济和社会问题依然引发广泛关注。",
+  "hero_headline": "火灾蔓延推动法国和西班牙大规模撤离",
+  "daily_overview": "今日国际新闻聚焦于法国和西班牙因猛烈野火而发生的大规模居民撤离，超过25万人受到影响。同时，美国经济形势严峻，特朗普表示将调查对科技公司的罚款情况。此外，在科技领域，OpenAI和Google等公司发布了新的AI项目，加速医疗与科学领域的创新进程，为市场注入新活力。",
   "tech_briefs": [
     {
-      "title": "OpenAI推出健康服务整合功能",
+      "title": "OpenAI宣布Health in ChatGPT项目",
       "url": "https://openai.com/index/health-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "OpenAI在ChatGPT中推出新的健康服务，允许符合条件的美国用户安全连接医疗记录及Apple Health，以便获得更个性化的健康洞察和理解。此项功能将提升用户健康管理的便利性和精准性。",
+      "summary": "Health in ChatGPT现已上线，允许合格的美国用户安全连接医疗记录与Apple Health，从而获得个性化健康见解，帮助用户更好地理解自身健康状况。",
       "importance": 8
     },
     {
-      "title": "谷歌向Genesis Mission投资4000万美元",
+      "title": "Google向Genesis任务投资4000万美元",
       "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
       "source": "DeepMind Blog",
-      "summary": "谷歌承诺为Genesis Mission提供4000万美元的人工智能代币和信用，以加速科学发现的前沿。该项目涉及多个科研领域，将有助于推动相关技术的发展。",
+      "summary": "Google承诺提供4000万美元的AI代币和积分，用于Genesis使命，旨在加速科学发现和技术创新。",
       "importance": 7
     },
     {
-      "title": "Anthropic发布Claude Opus 5模型",
+      "title": "Anthropic推出Claude Opus 5模型",
       "url": "https://news.smol.ai/issues/26-07-24-opus-5/",
       "source": "Smol AI News",
-      "summary": "Anthropic公布了Claude Opus 5模型，该模型引起了混合反响，受到编码代理能力的赞扬，同时也面临基准测试的质疑。这一模型的推出标志着AI在自然语言处理领域的进一步发展。",
-      "importance": 6
+      "summary": "Claude Opus 5模型发布，引发了对其性能及编码能力的普遍关注与讨论，该模型在多项基准测试中表现突出。",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "特朗普贸易政策在股市引发动荡",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "source": "Bloomberg Markets",
-      "summary": "特朗普当选后，交易者大肆追逐与其经济政策相关的股票，然而现阶段该资产组合却表现不佳，这暴露了其政策效应的局限性。",
+      "title": "特朗普将调查科技公司罚款",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "特朗普表示将对美国和欧盟间对于科技公司的罚款采取调查，认为这些罚款非但不合理，且应当被完全撤销。",
       "importance": 8
     },
     {
-      "title": "投资者关注加拿大与乌克兰的能源协议",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/ukraine-seeks-30-year-energy-pact-with-canada-minister-says",
+      "title": "特朗普贸易策略在股市失利",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
       "source": "Bloomberg Markets",
-      "summary": "乌克兰能源部长表示，乌克兰希望与加拿大签署为期30年的能源战略协议，旨在增强能源安全并推动加拿大液化天然气的供应，这可能会影响全球能源市场。",
-      "importance": 7
+      "summary": "特朗普上任以来，相关股票未能如预期上涨，分析师对未来的市场走势表示失望，称特朗普的经济政策未能取得预期成效。",
+      "importance": 8
     },
     {
-      "title": "黑石、KKR与布鲁克菲尔德收购科威特管道股权",
-      "url": "https://www.ft.com/content/780bc4bb-1916-4fe2-ad2b-22663c66f16e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "黑石、KKR及布鲁克菲尔德在科威特的管道交易达160亿美元，成为该国最大外资投资，标志着在地缘政治紧张局势下，外资对石油与能源行业的坚定信心。",
-      "importance": 6
+      "title": "乌克兰寻求与加方签署能源协议",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-25/ukraine-seeks-30-year-energy-pact-with-canada-minister-says",
+      "source": "Bloomberg Markets",
+      "summary": "乌克兰希望签署一项为期30年的战略能源协议，主要涉及加拿大液化天然气的供应，以增强其能源安全。",
+      "importance": 7
     }
   ],
   "politics_briefs": [
     {
-      "title": "法国西南部持续火灾，25万人撤离",
+      "title": "法国西班牙野火蔓延造成250,000人撤离",
       "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
       "source": "The Guardian",
-      "summary": "由于强风助长，法国和西班牙多地爆发 wildfires，超过25万人被迫疏散，消防人员全力扑救，健康机构发布健康警告以应对烟雾影响。（多家报道）",
+      "summary": "在法国和西班牙，野火的快速蔓延已导致超250,000人撤离，消防部门正在全力以赴抑制火势，并应对由风速增强而造成的困难局面。",
       "importance": 9
     },
     {
-      "title": "印度教育部长因抗议辞职",
+      "title": "印度教育部长辞职，抗议声浪加剧",
       "url": "https://www.dw.com/zh/蟑螂运动-重大胜利：印度教育部长辞职/a-78113808?maca=chi-rss-chi-all-1127-rdf",
       "source": "DW 中文",
-      "summary": "印度教育部长普拉丹在数周的学生抗议活动后辞职，此举被视为“蟑螂运动”的重大胜利，显示出年轻一代对政府改革的强烈诉求。",
+      "summary": "在学生运动的强大压力下，印度教育部长普拉丹宣布辞职，这标志着抗议行动取得重大胜利，成为印度总理莫迪政府面临的重大挑战之一。",
       "importance": 8
     }
   ],
-  "editor_note": "今日新闻涵盖科技、财经及政治领域的重要动态，呈现出多元而复杂的全球形势。后续事件发展将值得关注。",
+  "editor_note": "今日国际形势复杂多变，关注科技发展与经济政策的调整或将影响全球市场。各方应理性看待，并持续关注事态发展。",
   "keywords": [
-    "火灾",
+    "野火",
+    "OpenAI",
+    "科技创新",
     "特朗普",
     "乌克兰",
-    "印度",
-    "AI",
-    "金融市场",
-    "抗议",
-    "科技"
+    "印度教育",
+    "经济政策"
   ],
   "trading": {
-    "market_overview": "当前市场观察，美股方面，S&P 500 ETF (SPY) 显示出 1 日跌幅为 -1.13%，而 Nasdaq 100 ETF (QQQ) 的跌幅为 -2.99%。加密市场方面，恐慌贪婪指数为 27，提示市场正处于恐慌状态。 Bitcoin 当前价格为 64199.12 美元，24小时内涨幅为 0.16%。整体来看，市场情绪略显疲软，但部分个股如 Apple 和 WTI 原油期货仍显现上行潜力。",
+    "market_overview": "当前加密市场表现疲软，恐慌贪婪指数为 27，显示出明显的恐慌情绪。美股市场方面，以 S&P 500 ETF 为例，当前价格为 738.93，技术指标显示其面临 MACD 死叉，且接近 52 周高点，短期动能减弱。另一个重磅因素是美国经济复苏所影响的美元指数 DXY，当前为 101.47，接近 52 周高，显示出对美股和商品市场的潜在负面影响。",
     "watchlist": [
       {
         "symbol": "AAPL",
         "display_name": "Apple",
         "stance": "偏上行",
-        "rationale": "当前价格为 333.02 美元，接近 52 周高点，最近 RSI 值为 58.1，存在多头排列的信号，显示出向上的动能。"
+        "rationale": "Apple 当前价格为 333.02，RSI 为 58.1，接近超买区间，并且 MACD 的数值 8.1069 高于信号线 7.3115，显示出多头力量。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "当前价格为 89.31 美元，近期上涨 8.27%，且 RSI 值为 64.3，存在多头排列，显示出上行潜力。"
+        "rationale": "WTI 原油期货当前价格 89.31，MACD 数值为 1.9934，且处于多头排列状态，这表明短期内上行动能较强。"
       },
       {
         "symbol": "TSLA",
         "display_name": "Tesla",
         "stance": "偏下行",
-        "rationale": "当前价格为 313.03 美元，RSI 值为 29.1，处于超卖状态，并且存在空头排列的信号，显示出下行压力。"
+        "rationale": "Tesla 当前价格为 313.03，RSI 显示出 29.1，已进入超卖区间，并且MACD -11.8669 远低于信号线 -5.6459，表明空头趋势明显。"
       }
     ],
-    "risk_caveat": "请注意，过去走势不代表未来表现，以上信息仅供技术指标解读参考，不构成投资建议。",
+    "risk_caveat": "本报告基于当前技术指标数据提供解读，过去走势不代表未来表现，使用本报告的读者应自行判断风险，仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -329,18 +328,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64199.12,
-        "pct1Day": 0.1569832560546051,
-        "pct5Day": -1.5804183835725059,
-        "pct52WeekHigh": -49.128286985688455,
-        "pct52WeekLow": 11.17160791986308,
-        "sma20": 64234.6328125,
-        "sma50": 63172.69640625,
-        "sma200": 72259.00279296875,
-        "rsi14": 50.05627581546074,
-        "macd": 409.6246807091811,
-        "macdSignal": 337.71504858111564,
-        "macdHistogram": 71.90963212806548,
+        "currentPrice": 64152.44,
+        "pct1Day": 0.08415783448507802,
+        "pct5Day": -1.651980518222558,
+        "pct52WeekHigh": -49.16527645787293,
+        "pct52WeekLow": 11.09077362403941,
+        "sma20": 64232.298828125,
+        "sma50": 63171.7628125,
+        "sma200": 72258.76939453125,
+        "rsi14": 49.842888896205615,
+        "macd": 405.9009449541918,
+        "macdSignal": 336.97030143011773,
+        "macdHistogram": 68.93064352407407,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -351,18 +350,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1868.04,
-        "pct1Day": 0.422714785273785,
-        "pct5Day": -1.8762308044330236,
-        "pct52WeekHigh": -62.29025666098678,
-        "pct52WeekLow": 23.998203259370346,
-        "sma20": 1841.5392333984375,
-        "sma50": 1741.4910546875,
-        "sma200": 2145.92977355957,
-        "rsi14": 55.458034945130436,
-        "macd": 38.89845314013883,
-        "macdSignal": 38.423798279131994,
-        "macdHistogram": 0.4746548610068331,
+        "currentPrice": 1868.25,
+        "pct1Day": 0.43400403502481333,
+        "pct5Day": -1.8651999959219248,
+        "pct52WeekHigh": -62.2860174337212,
+        "pct52WeekLow": 24.01214280171659,
+        "sma20": 1841.5497314453125,
+        "sma50": 1741.49525390625,
+        "sma200": 2145.930823364258,
+        "rsi14": 55.48072099094188,
+        "macd": 38.91520216079425,
+        "macdSignal": 38.42714808326308,
+        "macdHistogram": 0.48805407753117436,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -373,18 +372,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 74.21,
-        "pct1Day": 0.4467881120097135,
-        "pct5Day": -4.604483451025876,
-        "pct52WeekHigh": -70.69229915575971,
-        "pct52WeekLow": 22.834302633530356,
-        "sma20": 76.9952564239502,
-        "sma50": 73.67427604675294,
-        "sma200": 88.34298652648926,
-        "rsi14": 43.98813059334754,
-        "macd": -0.07531699642848366,
-        "macdSignal": 0.36057442453604366,
-        "macdHistogram": -0.4358914209645273,
+        "currentPrice": 74.16,
+        "pct1Day": 0.37911071805202323,
+        "pct5Day": -4.668757481849868,
+        "pct52WeekHigh": -70.7120456190694,
+        "pct52WeekLow": 22.75154134621495,
+        "sma20": 76.99275665283203,
+        "sma50": 73.67327613830567,
+        "sma200": 88.34273654937743,
+        "rsi14": 43.826001611939134,
+        "macd": -0.07930523524949251,
+        "macdSignal": 0.3597767767718419,
+        "macdHistogram": -0.4390820120213344,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -680,13 +679,13 @@
       "timestamp": "2026-07-25T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2276700096191.5347,
-      "total24hVolumeUsd": 46203697721.13674,
-      "marketCapChangePct24h": 0.09609373031654062,
-      "btcDominance": 56.5307613570593,
-      "ethDominance": 9.892640925211198,
+      "totalMarketCapUsd": 2277728305589.6787,
+      "total24hVolumeUsd": 44317775984.62218,
+      "marketCapChangePct24h": 0.14130037617585828,
+      "btcDominance": 56.5142696687849,
+      "ethDominance": 9.893889334313457,
       "activeCryptocurrencies": 17796
     },
-    "generated_at": "2026-07-25T15:16:03.348Z"
+    "generated_at": "2026-07-25T15:45:40.127Z"
   }
 }
