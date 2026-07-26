@@ -1,101 +1,102 @@
 {
-  "hero_headline": "重大突发：盖特威克机场供水短缺",
-  "daily_overview": "今天，科技领域内多个新项目发布，包括Google对Genesis Mission的投资和OpenAI在医疗领域的新功能；金融市场方面，受到油价波动和美股反弹的影响，投资者策略有所调整；在政治方面，德国一宗涉及自杀式袭击的事件引发广泛关注，同时印度内政面临新挑战，民族情绪高涨，政府面临压力。",
+  "hero_headline": "今日各界动态：科技创新与市场波动",
+  "daily_overview": "科技领域热闹非凡，OpenAI宣布在ChatGPT中引入健康管理新功能，与多项AI驱动的项目进展同步引发关注。财经方面，市场对美国科技巨头的新盈利模式反应激烈，同时全球主要机场因供水短缺而影响旅客服务。时政方面，德国警方正在追捕柏林骇人听闻的袭击事件嫌疑人，另外，国际新闻关注欧洲新一轮极端天气带来的影响。",
   "tech_briefs": [
     {
-      "title": "Google向Genesis Mission投资4000万美元",
-      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-      "source": "DeepMind Blog",
-      "summary": "Google宣布向Genesis Mission投资4000万美元，旨在加速科学研究和探索新领域，这一举措将推动AI在科学发现中的应用。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "推出ChatGPT健康功能，提供个性化医疗数据",
+      "title": "OpenAI在ChatGPT中推出健康管理功能",
       "url": "https://openai.com/index/health-in-chatgpt",
       "source": "OpenAI News",
-      "summary": "OpenAI推出新的ChatGPT健康功能，允许美国用户安全连接医疗记录和Apple Health，从而获得个性化健康见解。这一功能有望改善用户对健康的理解与管理。（多家报道）",
+      "summary": "OpenAI在ChatGPT中推出“健康管理”功能，允许用户安全连接医疗记录与Apple Health，帮助他们获得更个性化的健康洞察。这一功能旨在提升用户的健康理解与管理能力。",
       "importance": 8
     },
     {
-      "title": "AI助力药物设计的下一代技术",
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "source": "MIT Tech Review AI",
-      "summary": "新技术正通过AI系统帮助科学家设计下一代药物，以减少药物研发过程的时间和成本，提升研究效率。（多家报道）",
+      "title": "Anthropic发布Claude Opus 5模型",
+      "url": "https://news.smol.ai/issues/26-07-24-opus-5/",
+      "source": "Smol AI News",
+      "summary": "Anthropic推出Claude Opus 5模型，该模型在性能上引发行业广泛讨论，尤其是在编程领域的应用被赞扬。此模型在基准测试中的表现引起了关注。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "工程技术新进展：增强AI效率",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog",
+      "summary": "新技术Nunchaku 4-bit Diffusion Inference提升了在Diffusers框架下的AI推理效率，为模型的快速部署与执行提供了可能，有助于推进AI应用的普及和发展。",
+      "importance": 6
     }
   ],
   "finance_briefs": [
     {
-      "title": "交易者将获得新工具以押注大型美股",
+      "title": "新交易工具助力大型美国股票投资",
       "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
       "source": "Bloomberg Markets",
-      "summary": "投资者即将获得一种新工具，能够在不交易股票的情况下，押注于热门股票如Nvidia和SpaceX，这可能会改变投资策略。（多家报道）",
-      "importance": 8
-    },
-    {
-      "title": "油价波动对市场的影响分析",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/26/how-high-will-oil-prices-go-this-time",
-      "source": "The Economist Finance",
-      "summary": "随着海湾和红海局势紧张，市场再度对油价上涨表示担忧，这一局面可能会影响全球经济走势。（多家报道）",
+      "summary": "投资者将获得新工具，能够在不实际交易股票的情况下，押注热门股票，如Nvidia和SpaceX。此类创新将为交易者开辟新的市场策略。",
       "importance": 7
     },
     {
-      "title": "大科技公司财报面临AI支出斗争",
+      "title": "大科技公司盈利遭遇市场反弹",
       "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
       "source": "Bloomberg Markets",
-      "summary": "美国科技巨头们的财报在投资者对AI支出持反对态度的市场中发布，显示出公司在此类支出上的压力和挑战。（多家报道）",
+      "summary": "美国科技巨头的财报发布与AI支出问题对股市的影响引发投资者广泛关注，市场反应不一，体现出对未来科技支出计划的警惕。",
+      "importance": 8
+    },
+    {
+      "title": "巴西ETF市场的迅猛增长",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/brazil-etf-market-triples-in-boom-for-new-latin-america-funds",
+      "source": "Bloomberg Markets",
+      "summary": "巴西交易所交易基金（ETF）正以惊人的速度扩展，市场需求进一步推动本地产品的开发，吸引了大量投资者的目光。",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "德国家喻户晓的自杀式袭击事件引发关注",
-      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-      "source": "NYT World",
-      "summary": "德国警方正在全力以赴追查在柏林的一次自杀式袭击事件，该事件引发了对安全与恐怖主义的广泛讨论。政府在处理恐怖威胁上面临压力。（多家报道）",
+      "title": "柏林骇人听闻的袭击事件后警方展开追捕",
+      "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route",
+      "source": "The Guardian",
+      "summary": "警方正追捕一名嫌疑人，该嫌疑人在柏林一场骄傲活动中驾车冲撞人群，导致一死十六伤。该事件被定性为恐怖袭击。",
       "importance": 8
     },
     {
-      "title": "印度学生运动对政府施加压力",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/modi-punctured-as-awakened-india-students-force-swift-retreat",
-      "source": "Bloomberg Markets",
-      "summary": "在纳伦德拉·莫迪统治印度的过程中，学生运动的崛起使得政府不得不重新考虑其政策和民众诉求，呈现出动荡的局势。（多家报道）",
-      "importance": 7
+      "title": "加利福尼亚州法律变更引发大规模抵制",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/7/26/senator-whitehouse-netanyahu-a-walking-provocation-for-americans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "美加州新的法律对当地华人群体产生影响，引发抗议与讨论。民众对法律执行的担忧日益加重。",
+      "importance": 6
     }
   ],
-  "editor_note": "今天的新闻涵盖多个关键领域，特别是在科技与金融领域的动态，值得持续关注后续发展。",
+  "editor_note": "今日简报涵盖了科技、财经与时政领域的重要动态，希望能够为读者提供全面的信息视角。",
   "keywords": [
     "科技",
-    "金融",
+    "财经",
     "时政",
-    "AI",
-    "投资",
-    "医疗",
-    "安全"
+    "OpenAI",
+    "市场动态",
+    "柏林袭击",
+    "ETF",
+    "Claude Opus"
   ],
   "trading": {
-    "market_overview": "目前美元/人民币汇率为6.77，RSI值为43.6，显示出仍处于低于历史均值的震荡状态，而加密市场的恐慌贪婪指数为26，显示出市场处于恐慌状态且24小时加密总市值略有上涨0.82%，这反映出风险偏好的谨慎情绪。美国股市中，主要指数如S&P 500 ETF（SPY）在短期内略有回调，而一些科技股如Apple（AAPL）的表现相对较强，有助于提振整体市场情绪。",
+    "market_overview": "在美股市场，标普500 ETF 目前报价 738.93，RSI 为 45.2，整体呈现中性趋势，近一周下跌 0.59%。加密资产方面，整体市场处于恐慌状态，恐慌贪婪指数为 26，BTC 主导率为 56.5%，当前市值为 2.30T USD，24小时变化为 1.05%。商品市场上，WTI 原油期货价格为 89.31，显示多头排列的迹象。当前的技术形态整体呈现出上行与下行的分布趋势。 ",
     "watchlist": [
       {
         "symbol": "AAPL",
-        "display_name": "Apple",
+        "display_name": "Apple (AAPL)",
         "stance": "偏上行",
-        "rationale": "当前价格为333.02，RSI 值为65.2，接近超买区间，且MACD以8.4465高于信号线7.5385，显示出强势的多头排列。"
+        "rationale": "Apple 当前价格为 333.02，RSI 为 65.2，为正常状态，且接近 52 周高，显示出较强的买入动能。MACD 线为 8.4465，表明多头信号强烈，趋势呈现看涨形态。"
       },
       {
         "symbol": "CL=F",
         "display_name": "WTI 原油期货",
         "stance": "偏上行",
-        "rationale": "当前价格为89.31，RSI 为64.3，接近超买状态，且20日均线低于50日均线并有上行趋势，反映出正在形成多头排列。"
+        "rationale": "WTI 原油期货当前价格为 89.31，MACD 为 1.9934，显示出正向的买入动能，同时 RSI 处于 64.3，处于正常状态并接近超买区域，表明短期看涨趋势。"
       },
       {
-        "symbol": "JD",
-        "display_name": "京东 (JD)",
-        "stance": "中性",
-        "rationale": "当前价格为30.19，RSI 为65，接近超买，但MACD信号线为0.3287，小于MACD本身0.6499，显示出动量减弱的迹象，且在50日均线附近波动，显示出中性趋势。"
+        "symbol": "TSLA",
+        "display_name": "Tesla (TSLA)",
+        "stance": "偏下行",
+        "rationale": "Tesla 当前价格为 313.03，RSI 为 28，处于超卖状态，且出现空头排列，MACD 为 -16.1025，显示出卖压加大，技术情况偏向下行。"
       }
     ],
-    "risk_caveat": "本报告提供的信息仅供技术指标解读参考，过去走势并不代表未来表现。使用本报告的读者需自行判断并承受投资风险。",
+    "risk_caveat": "过去走势不代表未来表现，以上分析仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -317,18 +318,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 64655.98,
-        "pct1Day": 0.535154408842082,
-        "pct5Day": -2.7804548897547323,
-        "pct52WeekHigh": -48.76626877098833,
-        "pct52WeekLow": 11.962738091028491,
-        "sma20": 64273.315625,
-        "sma50": 63250.7215625,
-        "sma200": 72126.30587890625,
-        "rsi14": 52.16351482967512,
-        "macd": 391.1231868321629,
-        "macdSignal": 349.8350166867823,
-        "macdHistogram": 41.288170145380604,
+        "currentPrice": 64740.64,
+        "pct1Day": 0.6667943000362483,
+        "pct5Day": -2.653156429673654,
+        "pct52WeekHigh": -48.69918375138384,
+        "pct52WeekLow": 12.109341164816655,
+        "sma20": 64277.5486328125,
+        "sma50": 63252.414765625,
+        "sma200": 72126.7291796875,
+        "rsi14": 52.54123127426339,
+        "macd": 397.8767035700512,
+        "macdSignal": 351.1857200343599,
+        "macdHistogram": 46.69098353569126,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -339,18 +340,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1900.1,
-        "pct1Day": 1.4348316418208413,
-        "pct5Day": -1.4667095431377015,
-        "pct52WeekHigh": -61.64306796510834,
-        "pct52WeekLow": 26.126306724229455,
-        "sma20": 1846.9246643066406,
-        "sma50": 1748.22134765625,
-        "sma200": 2139.6219653320313,
-        "rsi14": 58.865142952808085,
-        "macd": 39.00106917488415,
-        "macdSignal": 38.605397846465216,
-        "macdHistogram": 0.3956713284189348,
+        "currentPrice": 1913.39,
+        "pct1Day": 2.1443042551147826,
+        "pct5Day": -0.7775313787401862,
+        "pct52WeekHigh": -61.37478543958667,
+        "pct52WeekLow": 27.008480618427143,
+        "sma20": 1847.5891662597655,
+        "sma50": 1748.4871484375,
+        "sma200": 2139.6884155273438,
+        "rsi14": 60.14370173520362,
+        "macd": 40.06124323115182,
+        "macdSignal": 38.817432657718754,
+        "macdHistogram": 1.2438105734330662,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -361,18 +362,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 74.96,
-        "pct1Day": 0.7140188904700967,
-        "pct5Day": -4.0310596432786605,
-        "pct52WeekHigh": -70.39610220611439,
-        "pct52WeekLow": 24.075721943261495,
-        "sma20": 76.6584259033203,
-        "sma50": 73.93405128479004,
-        "sma200": 88.03731426239014,
-        "rsi14": 46.43379173094994,
-        "macd": -0.1454452690179977,
-        "macdSignal": 0.26216017154779825,
-        "macdHistogram": -0.40760544056579595,
+        "currentPrice": 75.29,
+        "pct1Day": 1.15739704193563,
+        "pct5Day": -3.6085709784211466,
+        "pct52WeekHigh": -70.26577554827041,
+        "pct52WeekLow": 24.621946439543215,
+        "sma20": 76.67492599487305,
+        "sma50": 73.94065132141114,
+        "sma200": 88.03896427154541,
+        "rsi14": 47.46455599427353,
+        "macd": -0.1191203366261675,
+        "macdSignal": 0.2674251580261643,
+        "macdHistogram": -0.3865454946523318,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -662,13 +663,13 @@
       "timestamp": "2026-07-26T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2295425893941.7954,
-      "total24hVolumeUsd": 37323040261.647255,
-      "marketCapChangePct24h": 0.8216145043217533,
-      "btcDominance": 56.492790338181734,
-      "ethDominance": 9.978581297055918,
+      "totalMarketCapUsd": 2300663836474.751,
+      "total24hVolumeUsd": 37692041584.75709,
+      "marketCapChangePct24h": 1.051679793838293,
+      "btcDominance": 56.45881490628325,
+      "ethDominance": 10.035168466385546,
       "activeCryptocurrencies": 17831
     },
-    "generated_at": "2026-07-26T15:15:52.290Z"
+    "generated_at": "2026-07-26T15:44:06.735Z"
   }
 }
