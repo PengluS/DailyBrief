@@ -6,120 +6,120 @@
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
       "excerpt": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Cla",
-      "meta": "PowerShell · ★ 10,288 · 🍴 1,578 · 📈 612 stars today",
+      "meta": "PowerShell · ★ 10,306 · 🍴 1,579 · 📈 612 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目集成了反向工程、授权渗透测试和安全研究技能，利用 AI 技术实现智能路由和按需工具链引导，具备自我进化的知识库。适合安全研究人员和渗透测试团队在进行安全评估时使用，提高效率与准确性。"
+      "summary": "该项目是一个专注于逆向工程、授权渗透测试和安全研究的技能路由器，利用 AI 技术实现高效的工具链引导和自我演变的知识库，支持 Claude Code 等编程环境。安全研究人员和渗透测试人员可以使用此工具快速获取和整合所需的技术资源，以提升他们的工作效率。"
     },
     {
       "sourceId": "github-trending",
       "title": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "excerpt": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "meta": "TypeScript · ★ 19,239 · 🍴 1,942 · 📈 796 stars today",
+      "meta": "TypeScript · ★ 19,244 · 🍴 1,943 · 📈 796 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Openwork 是一种开源替代方案，旨在提供 Claude Cowork 类似的功能。适合需要团队协作和项目管理的用户，尤其是寻找开源解决方案的开发者和开发团队。"
+      "summary": "这是一个开源项目，旨在提供 Claude Cowork 的替代方案，支持开放式协作环境，帮助团队更高效地进行项目管理和合作。适合希望探索更开放工作方式的开发者和团队使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "excerpt": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "meta": "Python · ★ 55,967 · 🍴 4,813 · 📈 660 stars today",
+      "meta": "Python · ★ 55,973 · 🍴 4,814 · 📈 660 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这个 AI 代理技能可以在 Reddit、X、YouTube、HN、Polymarket 等平台上研究任何话题，并综合出一个基于事实的总结。适合需要快速获取相关信息与洞见的用户，如研究人员和内容创作者。"
+      "summary": "这个 AI 代理技能可以在 Reddit、X、YouTube、HN 和 Polymarket 等多平台上研究任何主题，并合成基于实际数据的总结，适合需要快速获取信息和洞察的内容创作者和分析师。"
     },
     {
       "sourceId": "github-trending",
       "title": "paperswithbacktest/awesome-systematic-trading",
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "excerpt": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "meta": "Python · ★ 11,551 · 🍴 1,445 · 📈 765 stars today",
+      "meta": "Python · ★ 11,557 · 🍴 1,446 · 📈 765 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "本项目提供了一个经过筛选的系统化交易相关库、包、策略、书籍等资源列表，旨在帮助交易者找到有效的工具和信息。适合想要优化交易策略的投资者和金融分析师使用。"
+      "summary": "这是一个系统交易的资源汇总，包括优秀的库、策略、书籍和教程，适用于希望深入研究系统化交易的交易员和投资者。"
     },
     {
       "sourceId": "github-trending",
       "title": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "excerpt": "12 Weeks, 24 Lessons, AI for All!",
-      "meta": "Jupyter Notebook · ★ 55,044 · 🍴 11,113 · 📈 1,592 stars today",
+      "meta": "Jupyter Notebook · ★ 55,051 · 🍴 11,115 · 📈 1,592 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "这个项目为初学者提供了 12 周、24 课时的 AI 学习课程，旨在让更多的人能接触并理解人工智能的基本概念和应用。适合 AI 初学者和教育工作者，帮助他们建立 AI 的基础知识。"
+      "summary": "本项目提供一个为期12周的 AI 学习课程，包含24节课程，使各个层次的学习者都能快速掌握人工智能的基础知识。非常适合希望入门 AI 的学生和自学者。"
     },
     {
       "sourceId": "github-trending",
       "title": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "excerpt": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "meta": "Java · ★ 10,087 · 🍴 1,367 · 📈 7 stars today",
+      "meta": "Java · ★ 10,088 · 🍴 1,367 · 📈 7 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "该项目为开发者提供了一套多平台 SDK，帮助他们将 GitHub Copilot Agent 集成到应用和服务中。适合希望在自己应用中集成 AI 编程助手功能的开发团队。"
+      "summary": "这是一个多平台 SDK，旨在将 GitHub Copilot 集成到各类应用和服务中，帮助开发者利用 AI 提高编程效率，适合希望提升开发体验的程序员使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "chatwoot/chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "excerpt": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "meta": "Ruby · ★ 35,016 · 🍴 8,427 · 📈 53 stars today",
+      "meta": "Ruby · ★ 35,021 · 🍴 8,429 · 📈 53 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Chatwoot 是一个开源的实时聊天和电子邮件支持系统，能够与多个渠道整合，为用户提供类似于 Intercom 和 Zendesk 的替代方案。适合希望创建客户支持系统的企业和开发者。"
+      "summary": "这个开源项目提供了即时聊天和电子邮件支持功能，是 Intercom、Zendesk 等服务的替代品，非常适合企业希望整合多个沟通渠道来提升客户服务体验。"
     },
     {
       "sourceId": "github-trending",
       "title": "agavra/tuicr",
       "url": "https://github.com/agavra/tuicr",
       "excerpt": "a code review TUI with vim keybindings",
-      "meta": "Rust · ★ 2,056 · 🍴 168 · 📈 336 stars today",
+      "meta": "Rust · ★ 2,058 · 🍴 168 · 📈 336 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Tuicr 是一个具有 Vim 键绑定的代码审查 TUI 工具，旨在提高代码审查过程的效率。适合开发人员在日常开发和代码审查中使用。"
+      "summary": "该项目是一个使用 vim 快捷键的代码审查 TUI，旨在提高开发者在代码审查过程中的效率，适合希望通过命令行进行高效协作的程序员。"
     },
     {
       "sourceId": "github-trending",
       "title": "usekaneo/kaneo",
       "url": "https://github.com/usekaneo/kaneo",
       "excerpt": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
-      "meta": "TypeScript · ★ 4,781 · 🍴 431 · 📈 188 stars today",
+      "meta": "TypeScript · ★ 4,796 · 🍴 433 · 📈 188 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Kaneo 是一个开源项目管理工具，强调简洁性和有效性，旨在消除冗余功能。适合团队和个人项目管理，帮助他们更高效地规划和跟踪任务。"
+      "summary": "这是一个用户友好的开源项目管理工具，旨在为用户提供必要的功能而不增加负担，适合希望优化项目管理流程的团队使用。"
     },
     {
       "sourceId": "github-trending",
       "title": "geo-tp/ESP32-Bit-Pirate",
       "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
       "excerpt": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "meta": "C++ · ★ 4,788 · 🍴 388 · 📈 161 stars today",
+      "meta": "C++ · ★ 4,794 · 🍴 388 · 📈 161 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "ESP32-Bit-Pirate 是一个硬件黑客工具，提供了基于 Web 的 CLI，支持多种协议。适合硬件开发者和黑客，能够帮助他们进行设备探索和测试。"
+      "summary": "该项目是一个硬件黑客工具，具有基于网页的 CLI，支持多种协议的操作，适合电子工程师和硬件爱好者进行原型开发和各种硬件项目。"
     },
     {
       "sourceId": "github-trending",
       "title": "deepfakes/faceswap",
       "url": "https://github.com/deepfakes/faceswap",
       "excerpt": "Deepfakes Software For All",
-      "meta": "Python · ★ 56,837 · 🍴 13,464 · 📈 157 stars today",
+      "meta": "Python · ★ 56,846 · 🍴 13,465 · 📈 157 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Faceswap 是一个用于制作深度伪造技术的开源软件，适合研究者和技术爱好者在面部替换和合成方面进行探索。"
+      "summary": "这个软件允许用户创建深度伪造视频，适合对视频编辑和特效制作感兴趣的开发者和创作者使用，提供了一种新的创作方式。"
     },
     {
       "sourceId": "github-trending",
       "title": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "excerpt": "The most RAM efficient harness",
-      "meta": "Rust · ★ 14,467 · 🍴 1,594 · 📈 812 stars today",
+      "meta": "Rust · ★ 14,469 · 🍴 1,595 · 📈 812 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Jcode 是一个注重内存效率的工具，旨在提高代码执行的性能。适合需要优化内存使用的开发者和程序员，帮助他们更好地管理资源。"
+      "summary": "该项目提供了一种极为高效的内存使用方案，适合对资源占用有严格要求的开发者，能够支持快速高效的编码需求。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -132,19 +132,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "小孩子照片比较多，目前存在 icloud 2t，有什么什么比较优雅的实体备份方式？",
-      "url": "https://www.v2ex.com/t/1230534",
-      "excerpt": "42 回复 · Apple 节点",
-      "publishedAt": "2026-07-28T13:47:47.000Z",
+      "title": "大家每个月在 AI 工具上花多少钱？我算了下已经 500 -1000 多了",
+      "url": "https://www.v2ex.com/t/1231290",
+      "excerpt": "42 回复 · 程序员 节点",
+      "publishedAt": "2026-07-31T08:43:41.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "大家每个月在 AI 工具上花多少钱？我算了下已经 500 -1000 多了",
-      "url": "https://www.v2ex.com/t/1231290",
-      "excerpt": "41 回复 · 程序员 节点",
-      "publishedAt": "2026-07-31T08:43:41.000Z",
+      "title": "小孩子照片比较多，目前存在 icloud 2t，有什么什么比较优雅的实体备份方式？",
+      "url": "https://www.v2ex.com/t/1230534",
+      "excerpt": "42 回复 · Apple 节点",
+      "publishedAt": "2026-07-28T13:47:47.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -330,19 +330,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "为什么这段 cuda 的并行前缀算法不会数据竞争",
-      "url": "https://www.v2ex.com/t/1225136",
-      "excerpt": "6 回复 · Python 节点",
-      "publishedAt": "2026-07-05T15:28:48.000Z",
+      "title": "大模型公司之间的竞争太惨烈了。。。。。。",
+      "url": "https://www.v2ex.com/t/1231347",
+      "excerpt": "6 回复 · 程序员 节点",
+      "publishedAt": "2026-07-31T14:35:22.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "北通手柄 Linux USB 断连排查与修复",
-      "url": "https://www.v2ex.com/t/1229296",
-      "excerpt": "6 回复 · Linux 节点",
-      "publishedAt": "2026-07-23T07:05:25.000Z",
+      "title": "为什么这段 cuda 的并行前缀算法不会数据竞争",
+      "url": "https://www.v2ex.com/t/1225136",
+      "excerpt": "6 回复 · Python 节点",
+      "publishedAt": "2026-07-05T15:28:48.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -354,7 +354,7 @@
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI在欧洲推动负责任的人工智能治理，强调安全性、透明度和来源的实践，随着欧盟人工智能法案的推进，相关工作将持续进行。"
+      "summary": "OpenAI分享了其在欧洲推进负责任的人工智能治理的安全性、透明性和源头实践，并表示将继续致力于这一目标，随着欧盟人工智能法案的推进而不断发展。"
     },
     {
       "sourceId": "openai-news",
@@ -364,7 +364,7 @@
       "publishedAt": "2026-07-31T15:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI采取全栈方法，使先进的人工智能更具能力、成本更低并更广泛地应用。"
+      "summary": "OpenAI采用全栈方法，将先进人工智能变得更具能力、更具成本效益和更广泛可用。"
     },
     {
       "sourceId": "openai-news",
@@ -374,7 +374,7 @@
       "publishedAt": "2026-07-31T07:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Univé通过结合领导力、负责任的治理和员工主导的创新，利用ChatGPT企业版建立了一个适应人工智能的 workforce，成功地实现了大规模工作转型。"
+      "summary": "Univé通过ChatGPT Enterprise结合领导力、负责任的治理和员工驱动的创新，成功构建了具备人工智能能力的工作队伍，实现了大规模的工作转型。"
     },
     {
       "sourceId": "openai-news",
@@ -384,7 +384,7 @@
       "publishedAt": "2026-07-30T10:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI发布了更高效的GPT-5.6型号，为Luna和Terra提供了更低的定价，帮助企业在大规模部署AI工作流程。"
+      "summary": "OpenAI将GPT-5.6的定价降低，并强调其更高效的模型帮助企业大规模部署人工智能工作流程。"
     },
     {
       "sourceId": "openai-news",
@@ -394,7 +394,7 @@
       "publishedAt": "2026-07-30T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "avatarin利用OpenAI的GPT-Realtime为Yamada Denki的顾客提供24/7多语言支持，短短两周内使用者达到30,000人，92%的受访者给予积极反馈。"
+      "summary": "avatarin利用OpenAI的GPT-Realtime为Yamada Denki的顾客提供24/7多语言支持，两周内有30,000人使用了该代理，满意度达到92%."
     },
     {
       "sourceId": "openai-news",
@@ -629,7 +629,7 @@
       "publishedAt": "2026-07-30T15:00:59.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "Gemini Robotics ER 2在视频理解、任务协调和多机器人协作方面取得了重大进展，提升了机器人在实际任务中的能力。"
+      "summary": "Gemini Robotics ER 2帮助机器人具备推理、协作及解决现实任务的能力，标志着视频理解、工具协调和多机器人合作的重大进展。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -639,7 +639,7 @@
       "publishedAt": "2026-07-29T16:02:10.000Z",
       "category": "tech",
       "source": "DeepMind Blog",
-      "summary": "DeepMind宣布在Google Flow Music中推出Lyria 3.5，带来音乐性、歌词、声乐及创意控制方面的创新。"
+      "summary": "DeepMind将在Google Flow Music中推出Lyria 3.5，涉及音乐性、歌词、声乐和创作控制等多方面的进展。"
     },
     {
       "sourceId": "deepmind-blog",
@@ -901,7 +901,7 @@
       "publishedAt": "2026-07-30T15:09:09.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "讨论GPU管理的博客，强调闲置GPU的价值。"
+      "summary": "该链接讨论了GPU管理问题，提到闲置的GPU被比作或视为新一代的老旧飞机。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1172,7 +1172,7 @@
       "publishedAt": "2026-07-31T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "关于Inkling-Small、GPT-5.6降价和Gemini Robotics 2的消息。"
+      "summary": "此条目关于一些AI产品和服务的更新，具体包括Inkling-Small、GPT-5.6的价格调整及Gemini Robotics 2。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1182,7 +1182,7 @@
       "publishedAt": "2026-07-30T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "OpenAI在ARC-AGI-3中表现出色，同时GPT-5.6提升效率，AlphaFold团队解散的消息。"
+      "summary": "OpenAI在ARC-AGI-3会议上表现出色，并讨论了GPT-5.6的效率提升及AlphaFold团队的解散。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1354,7 +1354,7 @@
       "publishedAt": "2026-07-30T05:44:39.000Z",
       "category": "tech",
       "source": "Smol AI News",
-      "summary": "OpenAI严重降低了GPT-5.6 Luna的价格80%，Terra降低20%，同时推出了延迟更低的新型Sol Fast，整体改善了代理工作流成本。"
+      "summary": "OpenAI将GPT-5.6 Luna的价格削减80%，Terra的价格削减20%，推出了更快的Sol Fast层，改善了代理工作流程成本。"
     },
     {
       "sourceId": "smol-ai-news",
@@ -1625,7 +1625,7 @@
       "publishedAt": "2026-07-31T04:40:54.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "GPT 5.6的价格在20%至80%之间大幅下降，而GPT 5.4的智能成本在四个月内下降了13倍，得益于GPT 5.6的递归自我优化。"
+      "summary": "GPT 5.6的价格下调幅度为20%-80%，而GPT 5.4 Intelligence在4个月内因GPT 5.6的自我优化降低了13倍费用。"
     },
     {
       "sourceId": "latent-space",
@@ -1635,7 +1635,7 @@
       "publishedAt": "2026-07-30T11:17:55.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI工程师重新发现本体论，作为保持概率代理在确定性边界内的一种方法。"
+      "summary": "AI工程师正在重新发现本体论，以将概率性代理保持在确定性边界内，推动语义网的发展。"
     },
     {
       "sourceId": "latent-space",
@@ -1645,7 +1645,7 @@
       "publishedAt": "2026-07-29T23:32:12.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "AI正逐渐渗透金融服务，成为继编程后的下一个重要领域，尽管今天较为安静，仍值得关注。"
+      "summary": "文章探讨了人工智能在金融服务领域的渗透，并称其为编程之后的下一个重要垂直领域。"
     },
     {
       "sourceId": "latent-space",
@@ -1808,7 +1808,7 @@
       "publishedAt": "2026-07-30T10:15:19.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "研究人员在国际机器学习大会上提出，语言模型因一个基本缺陷而无法完全防止黑客攻击，此声明对AI领域具有重大影响。"
+      "summary": "研究人员在国际机器学习会议上提出，由于大型语言模型的工作原理存在根本缺陷，因此无法完全防止黑客攻击。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -1900,7 +1900,7 @@
       "category": "tech",
       "meta": "@fridayresearch_ · 1.9K 粉丝 · 1.6M 阅 · 597 赞 · 451 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "FRIDAY 正在开发一种个人购物智能，旨在让用户拥有自己散布在四十家公司中的购物喜好。该系统会在用户的设备上运行，解决传统购物体验中的问题。"
+      "summary": "分享了个人购物智能的构建，旨在整合多个公司散落的商品偏好，将用户的购物体验掌控在自己手中。当前有四十家不同公司掌握这些信息，FRIDAY 正在开发一个用户拥有的版本。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1911,7 +1911,7 @@
       "category": "tech",
       "meta": "@random_walker · 128.4K 粉丝 · 134.0K 阅 · 552 赞 · 54 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "博主提出一个思想实验，探讨 AI 和劳动之间的矛盾，设想一个不存在在线源码发布的平行宇宙，以此反思当前 AI 发展中的问题。"
+      "summary": "进行了一次关于人工智能与劳动问题的思考实验，探讨了如果在平行宇宙中没有人公开源代码，可能导致的AI和劳动关系的混乱。这一思考提供了对现状的有趣分析。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1922,7 +1922,7 @@
       "category": "tech",
       "meta": "@github · 2.7M 粉丝 · 123.1K 阅 · 583 赞 · 69 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "分享了一套实用的 GitHub Copilot 工作流，包括软件的原型设计、规划、实施和审核，强调不必追随每个新出现的 AI 工具，旨在简化开发流程。"
+      "summary": "介绍了一种实用的 GitHub Copilot 工作流，涵盖软件的原型设计、规划、实施和评审，旨在帮助用户不必追逐每一个新工具来应对当前AI带来的困扰。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1933,7 +1933,7 @@
       "category": "tech",
       "meta": "@Vercantez · 1.9K 粉丝 · 122.3K 阅 · 567 赞 · 44 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Vercantez 介绍将 camelAI 代理迁移至 Cloudflare Durable Object 的过程，新的系统使用 SQLite 和 R2 存储，并通过 JavaScript 编写，以提升性能和可维护性。"
+      "summary": "分享了 camelAI 代理的重构过程，迁移到 Cloudflare Durable Object 运行，使用 SQLite 和 R2 存储文件系统，并改用 JavaScript 而非之前的语言。这是提升系统效率的重要一步。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1944,7 +1944,7 @@
       "category": "tech",
       "meta": "@MiniMax_AI · 107.4K 粉丝 · 42.3K 阅 · 696 赞 · 103 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "MiniMax H3 是一款通用的多模态生成模型，能够跨文本、图像、视频和音频理解统一上下文，并生成具有原生立体声的视频，拓展了生成模型的应用边界。"
+      "summary": "发布了 MiniMax H3，一个通用的多模态生成模型。该模型能够跨文本、图像、视频和音频理解统一的上下文，并具备生成带有立体声的视频能力，推动多任务处理的边界。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -1955,7 +1955,7 @@
       "category": "tech",
       "meta": "@ActionModelAI · 57.6K 粉丝 · 6.8K 阅 · 521 赞 · 390 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "近期法院文件中披露，Anthropic 购买稀有图书并将其输入 AI，随后销毁这些书籍，这一过程引发对技术伦理的关注，宛如反乌托邦的情节。"
+      "summary": "根据近期发布的法庭文件和内部通信，披露了 Anthropic 正在购买稀有书籍，将其数据输入 AI，然后销毁这些书籍的引发的争议。这一行为看似科幻，实际上反映了当前的道德困境。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -1974,6 +1974,16 @@
       "publishedAt": "2026-07-31T11:19:30.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Jane Street-Backed Exchange Sells Control to Canada’s TMX Group",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/jane-street-backed-exchange-sells-control-to-canada-s-tmx-group",
+      "excerpt": "MEMX LLC, an exchange operator backed by Jane Street and Morgan Stanley, will combine with equity options market BOX in a deal that gives control of the merged entity to Canada’s leading stock exchange group.",
+      "publishedAt": "2026-07-31T15:14:58.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "由Jane Street和摩根士丹利支持的交易所MEMX LLC将与股票期权市场BOX合并，合并后控制权将归加拿大TMX集团所有。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2009,8 +2019,7 @@
       "excerpt": "ExxonMobil Holdings Corp. and Chevron Corp. plowed blowout profits into debt reduction rather than huge buyback increases in a sign of Big Oil’s caution about how long war-driven price rallies will last.",
       "publishedAt": "2026-07-31T13:39:51.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "埃克森美孚和雪佛龙将意外收益用于偿还债务，而不是大幅增加股票回购，显示出大石油公司对价格上涨的谨慎态度。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2047,7 +2056,7 @@
       "publishedAt": "2026-07-31T14:19:58.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "根据密歇根大学的数据，美国7月份消费者信心指数最终值为55.2，较初步估计的54.4有所改善，创五个月以来新高。"
+      "summary": "根据密歇根大学发布的调查，7月份消费者情绪指数上升至55.2，高于初步估计的54.4，创五个月新高。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2066,7 +2075,7 @@
       "publishedAt": "2026-07-31T14:01:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "在股市波动导致保证金追缴与资产紧急出售后，凯尔·格里芬的Citadel介入，拯救了一家重度杠杆的人工智能对冲基金。"
+      "summary": "一家 heavily leveraged的AI对冲基金因股市波动引发追加保证金呼叫而崩溃，最终在肯·格里芬的Citadel介入后进行资产出售。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2076,7 +2085,7 @@
       "publishedAt": "2026-07-31T13:49:24.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "Situational Awareness对冲基金在Citadel介入后，其资产降至约100亿美元，专家对此表示担忧。"
+      "summary": "经过Citadel的介入，Leopold Aschenbrenner的对冲基金Situational Awareness的资产暴跌至约100亿美元，导致市场对人工智能的担忧加剧。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2086,7 +2095,7 @@
       "publishedAt": "2026-07-31T13:46:19.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "环球音乐集团股价创上市以来最低纪录，因为公司报告的订阅收入增长令人失望，虽然以固定货币计算增长为16.6%。"
+      "summary": "环球音乐集团的股价跌至上市以来的最低点，该公司的订阅收入增长令人失望，按固定货币计算增长16.6%。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2130,15 +2139,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-31/maruti-suzuki-misses-profit-estimate-as-higher-input-costs-bite",
       "excerpt": "Maruti Suzuki India Ltd.’s profit again missed analysts’ estimates as rising commodity costs offset a robust revenue growth and healthy jump in exports.",
       "publishedAt": "2026-07-31T11:19:34.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Spain's Ceuta Migrant Crisis Sparks Debate; Tech Stocks Rise as Kospi Sees 18% Jump | The Pulse 7/31",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-pulse-7-31-2026-video",
-      "excerpt": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops. Today's guests: Jari Stehn, Goldman",
-      "publishedAt": "2026-07-31T12:17:45.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2330,7 +2330,7 @@
       "publishedAt": "2026-07-31T14:26:45.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "由于极端热浪影响，莱茵河水位降至2018年创纪录的低位，导致船只滞留和德国生产停产。"
+      "summary": "由于极端热浪，重要贸易河流莱茵河水位降至2018年的历史最低点，导致德国生产停工。"
     },
     {
       "sourceId": "ft-companies",
@@ -2340,7 +2340,7 @@
       "publishedAt": "2026-07-31T14:16:35.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "关于国际足联股份出售的讨论认为，商业化不一定与腐败直接相关，但需在合理价格下进行。"
+      "summary": "关于国际足联股份出售的讨论中提到，商业化并不意味着腐败，但目前的价格可能不合适。"
     },
     {
       "sourceId": "ft-companies",
@@ -2350,7 +2350,7 @@
       "publishedAt": "2026-07-31T14:12:36.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "韩国股市因投资者重新关注人工智能而大幅上涨18%，半导体制造商在经历了艰难一个月后结束反弹。"
+      "summary": "韩国股市因投资者重返人工智能领域而上涨18%，芯片制造商在经历艰苦月份后反弹，受惠于华尔街的回暖。"
     },
     {
       "sourceId": "ft-companies",
@@ -2360,7 +2360,7 @@
       "publishedAt": "2026-07-31T14:07:46.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "苹果公司首席执行官蒂姆·库克表示，内存价格的影响在他即将卸任后将进一步加剧，导致公司股价下跌。"
+      "summary": "苹果公司首席执行官蒂姆·库克表示，内存价格的影响将进一步恶化，而苹果股价因人工智能扩展对供应链的影响而下跌。"
     },
     {
       "sourceId": "ft-companies",
@@ -2370,7 +2370,7 @@
       "publishedAt": "2026-07-31T13:47:26.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "亚马逊预计今年在人工智能基础设施上的支出将增加至2200亿美元，较四月份预期的2000亿美元有所上升。"
+      "summary": "亚马逊今年将AI基础设施支出提高至2200亿美元，早前其预计为2000亿美元。"
     },
     {
       "sourceId": "ft-companies",
@@ -2379,8 +2379,7 @@
       "excerpt": "Brookfield-owned company plots listing nine years after cost overruns forced it into bankruptcy protection",
       "publishedAt": "2026-07-31T13:34:31.000Z",
       "category": "finance",
-      "source": "Financial Times",
-      "summary": "美国核反应堆公司Westinghouse在宣布因成本超支而于九年前申请破产保护后，现已提交IPO申请，计划上市。"
+      "source": "Financial Times"
     },
     {
       "sourceId": "ft-companies",
@@ -2579,7 +2578,7 @@
       "publishedAt": "2026-07-31T15:14:20.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "英国新任财政大臣希利（Healey）宣布将在十月召开预算会议，承诺将资金和权力从威斯敏斯特转移到全国各地的每个邮政编码。"
+      "summary": "新任财政大臣希利宣布将于10月举行预算会议，并承诺将资金与权力下放到英国各个地区。"
     },
     {
       "sourceId": "bbc-business",
@@ -2595,9 +2594,10 @@
       "title": "BP puts North Sea business up for sale",
       "url": "https://www.bbc.co.uk/news/articles/c62q7w003lro?at_medium=RSS&at_campaign=rss",
       "excerpt": "The decision follows a review of BP's operations and is set to end 60 years of production in the region by the oil giant.",
-      "publishedAt": "2026-07-31T13:27:29.000Z",
+      "publishedAt": "2026-07-31T15:36:21.000Z",
       "category": "finance",
-      "source": "BBC Business"
+      "source": "BBC Business",
+      "summary": "BP决定出售其北海业务，结束该地区60年的生产，这一决策是基于对公司运营的评估。"
     },
     {
       "sourceId": "bbc-business",
@@ -3102,7 +3102,7 @@
       "publishedAt": "2026-07-31T14:20:18.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "西属休达领导人称，24小时内约有60,000名移民抵达，并将该事件称为对其北非领土的“攻击”，同时表示所有非法移民将被遣返回摩洛哥。"
+      "summary": "西属城市塞维塔的领导表示，约60,000名移民在24小时内到达该地区，西班牙总理形容此情况为对北非领土的“攻击”，并称所有非法移民将被遣返回摩洛哥。"
     },
     {
       "sourceId": "bbc-world",
@@ -3112,7 +3112,7 @@
       "publishedAt": "2026-07-31T15:18:31.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "政治、战争、缺乏信任及加沙的死亡和破坏将使哈马斯解除武装的任何协议变得非常复杂，尽管存在罕见的希望。"
+      "summary": "政治、战争、缺乏信任和加沙的数千人死亡将使任何协议变得相当复杂，尽管霍尔麦兹海峡的局势仍然充满希望。"
     },
     {
       "sourceId": "bbc-world",
@@ -3140,7 +3140,7 @@
       "publishedAt": "2026-07-31T14:26:07.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "约500人，主要是游客，因希腊的山火被困，现已安全通过船只撤离至阿基亚斯·瓦西利奥斯。"
+      "summary": "约500人，主要是游客，在阿吉欧斯·瓦西利奥斯因火灾被困后，通过船只成功撤离。"
     },
     {
       "sourceId": "bbc-world",
@@ -3510,7 +3510,7 @@
       "publishedAt": "2026-07-31T15:00:18.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "新南威尔士州监察专员发现，因为污水溢出而受到损害的老年公屋租户将获得全面赔偿，因当局的行为被认为不合理。"
+      "summary": "新南威尔士州监察专员发现德鲁头公共住房因污水泛滥损坏的老年租户应得到全额赔偿。"
     },
     {
       "sourceId": "guardian-world",
@@ -3553,10 +3553,10 @@
       "title": "Spain’s Sánchez blames trafficking gangs as estimated 60,000 migrants reach Ceuta – Europe live",
       "url": "https://www.theguardian.com/world/live/2026/jul/31/cueta-spain-morocco-italy-migration-schengen-europe-latest-news-updates",
       "excerpt": "PM says criminals have misled people over a recent court ruling about those arriving in Spain via the sea Spanish prime minister Pedro Sánchez is now in Ceuta, accompanied by interior minister Fernando Grande-Marlaska. He first visited the Tarajal border crossing, and is now talking to officials fro",
-      "publishedAt": "2026-07-31T15:14:18.000Z",
+      "publishedAt": "2026-07-31T15:33:42.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "西班牙首相佩德罗·桑切斯表示，交通犯罪分子误导了人们，导致约60,000名移民抵达休达，他在现场与内政部长费尔南多·大马拉斯卡一同视察。"
+      "summary": "西班牙总理佩德罗·桑切斯表示，罪犯误导了民众关于近期海路入境西班牙的法院裁决。他在塞维塔与内政部长费尔南多·格朗德-马拉斯卡会面，并视察了塔拉哈尔边境过境点。"
     },
     {
       "sourceId": "guardian-world",
@@ -3596,23 +3596,23 @@
     },
     {
       "sourceId": "guardian-world",
+      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
+      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
+      "excerpt": "Hamas’s Ghazi Hamad tells Reuters that it will hand over arms to body established by Trump’s Board of Peace Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain Saudi Arabia prepares sea and possible land offensive against Houthis Al Jazeera reporter Hani Mahmoud ",
+      "publishedAt": "2026-07-31T15:33:33.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "哈马斯代表加齐·哈马德表示，将向特朗普和平委员会建立的新加沙行政机构交出武器，但协议需以色列撤军为先。"
+    },
+    {
+      "sourceId": "guardian-world",
       "title": "Iran strikes tankers under US escort in Hormuz strait as Trump gathers cabinet to discuss war",
       "url": "https://www.theguardian.com/world/2026/jul/31/iran-strikes-tankers-us-escort-hormuz-strait-trump-gathers-cabinet",
       "excerpt": "Energy prices have soared again since fighting between US and Iran resumed two weeks ago as conflict spreads across Middle East Middle East crisis live – latest updates Iran has said it struck two tankers trying to pass through the strait of Hormuz under the escort of the US military as Donald Trump",
       "publishedAt": "2026-07-31T14:48:53.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "自两周前美国与伊朗之间的冲突重新升级以来，能源价格再次飙升，伊朗已表示对在霍尔木兹海峡航行的两艘油轮进行了攻击。"
-    },
-    {
-      "sourceId": "guardian-world",
-      "title": "Middle East crisis live: Hamas will hand over weapons to new Gaza administration, says official, but deal depends on Israeli withdrawal",
-      "url": "https://www.theguardian.com/world/live/2026/jul/31/us-iran-war-live-updates-trump-claims-gaza-hamas-deal-middle-east-crisis-latest-news",
-      "excerpt": "Hamas’s Ghazi Hamad tells Reuters that it will hand over arms to body established by Trump’s Board of Peace Trump claims agreement for ‘complete disarmament’ of Hamas in Gaza but support uncertain Saudi Arabia prepares sea and possible land offensive against Houthis Al Jazeera reporter Hani Mahmoud ",
-      "publishedAt": "2026-07-31T14:45:29.000Z",
-      "category": "politics",
-      "source": "The Guardian",
-      "summary": "哈马斯官员表示，哈马斯将在以色列撤离的前提下向特朗普和平委员会成立的新加沙管理机构交出武器，特朗普声称达成“完全解除武装”的协议。"
+      "summary": "随着美伊冲突升级，伊朗在霍尔麦兹海峡袭击两艘在美国护航下的油轮，导致能源价格再次飙升。"
     },
     {
       "sourceId": "guardian-world",
@@ -3646,10 +3646,10 @@
       "title": "Live Updates: Tens of Thousands Crossed Into Spanish Territory, Officials Say",
       "url": "https://www.nytimes.com/live/2026/07/31/world/spain-ceuta-migrants-morocco",
       "excerpt": "As many as 60,000 people were estimated to have surged from Morocco into Ceuta, creating a crisis for Spain’s pro-immigration government. At least 34 people died, officials said.",
-      "publishedAt": "2026-07-31T15:24:38.000Z",
+      "publishedAt": "2026-07-31T15:34:44.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "约有60,000人从摩洛哥涌入西属北非的休达，导致西班牙移民政策面临危机。据官方称，此次事件已造成至少34人遇难。"
+      "summary": "估计有多达60,000人从摩洛哥涌入西属城市塞维塔，造成了西班牙移民政府的危机。官方表示至少有34人遇难。"
     },
     {
       "sourceId": "nyt-world",
@@ -3773,20 +3773,20 @@
       "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
       "url": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
       "excerpt": "The National Autonomous University of Mexico, or UNAM, is investigating after experts found that as many as half of all entrance exams could have involved cheating, including with A.I.",
-      "publishedAt": "2026-07-31T15:18:34.000Z",
+      "publishedAt": "2026-07-31T15:18:35.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "墨西哥国立自治大学正在调查近75,000名考生的大学入学考试，专家发现其中多达一半的考试可能涉及作弊，部分与人工智能相关。"
+      "summary": "墨西哥国立自治大学正在调查，专家发现多达50%的入学考试可能涉及作弊，包括人工智能的使用。"
     },
     {
       "sourceId": "nyt-world",
       "title": "Far-right politicians seize on Ceuta",
       "url": "https://www.nytimes.com/2026/07/31/world/europe/ceuta-europe-far-right-backlash.html",
       "excerpt": "Several migrants who crossed into Ceuta attributed their arrival to lax Moroccan border protocols. But Europe’s anti-immigrant blamed Spain’s migrant-friendly policies.",
-      "publishedAt": "2026-07-31T14:53:56.000Z",
+      "publishedAt": "2026-07-31T15:29:51.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "一些进入西属休达的移民将其抵达归因于摩洛哥边界管控松懈，而欧洲的反移民派则指责西班牙的移民友好政策。"
+      "summary": "一些越境塞维塔的移民表示，他们的到来归因于摩洛哥边境管控松懈，但欧洲的反移民者则指责西班牙的移民友好政策。"
     },
     {
       "sourceId": "nyt-world",
@@ -3796,7 +3796,7 @@
       "publishedAt": "2026-07-31T14:45:37.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "西班牙首相佩德罗·桑切斯在移民危机加剧之际抵达休达，这一局势对其支持移民的政策造成了压力。"
+      "summary": "西班牙总理佩德罗·桑切斯抵达塞维塔，面对急剧升级的移民危机，这是对其支持移民政策的考验。"
     },
     {
       "sourceId": "nyt-world",
@@ -3806,7 +3806,7 @@
       "publishedAt": "2026-07-31T15:15:11.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "著名登山者尼尔马尔·普尔贾在巴基斯坦的一场雪崩中失踪，现场已发现4具尸体，包括首位登顶珠穆朗玛峰的阿曼女性纳迪拉·阿尔哈赛的遗体。"
+      "summary": "在巴基斯坦发生雪崩后，著名登山家尼尔玛尔·普尔贾失踪，找到的尸体中包括首位登顶珠穆朗玛峰的阿曼女性纳迪拉·阿尔哈特里。"
     },
     {
       "sourceId": "nyt-world",
@@ -4014,7 +4014,7 @@
       "publishedAt": "2026-07-31T14:16:00.000Z",
       "category": "politics",
       "source": "DW 中文",
-      "summary": "欧盟委员会于7月31日对中国电商Temu提起诉讼，指控其未配合去年12月针对欧洲总部的反补贴调查，可能面临高达年营业额1%的罚款。"
+      "summary": "欧盟委员会于7月31日对中国电商Temu发起诉讼，指控其未配合去年12月针对其欧洲总部的反补贴搜查，可能面临高达年营业额1%的罚款。"
     },
     {
       "sourceId": "dw-chinese",
@@ -4294,7 +4294,7 @@
       "publishedAt": "2026-07-31T14:46:09.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国西雅图的警察局长肖恩·巴恩斯因对热门美食节枪击事件的处理受到质疑而辞职。"
+      "summary": "在西雅图一场热门美食节的致命枪击事件后，警方局长肖恩·巴恩斯辞职，面临对当局处理事件方式的质疑。"
     },
     {
       "sourceId": "aljazeera",
@@ -4313,7 +4313,7 @@
       "publishedAt": "2026-07-31T14:22:51.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "俄乌双方报告了伤亡情况，乌克兰多次袭击俄罗斯的炼油厂，而俄罗斯则袭击了第聂伯罗彼得罗夫斯克和靠近敖德萨的一艘货船。"
+      "summary": "乌克兰对俄罗斯的油炼厂进行了多次攻击，而俄罗斯则对第聂伯罗彼得罗夫斯克和一艘靠近敖德萨的货轮实施了打击。"
     },
     {
       "sourceId": "aljazeera",
