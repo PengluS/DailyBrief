@@ -1,102 +1,111 @@
 {
-  "hero_headline": "全球关注多起国家间冲突与科技突破",
-  "daily_overview": "今天，全球依旧聚焦在持续的国家间冲突及其影响，尤其是关于乌克兰局势的最新进展。同时，科技领域推陈出新，从AI安全性到机器人的合作能力都在持续受关注。财经方面，欧洲正在重写其合并法规以应对技术竞争的挑战，预计未来会有更多企业合并。各领域的快速变化为投资者和政策制定者带来新的挑战与机遇。",
+  "hero_headline": "AI技术再突破，多项新发展备受瞩目",
+  "daily_overview": "今天科技领域传来多项重要消息，微软推出的《AI for Beginners》项目助力初学者入门AI，而DeepMind的Gemini Robotics ER 2则在机器人领域实现重大进展，提升视频理解和多机器人协作能力。在金融方面，美国发现重量级钨矿藏却遭遇NASA干扰，同时油价因中东局势高涨引发关注。时政方面，西班牙首相呼吁EU紧急会议应对边境危机，而以色列对加沙医院仓库进行空袭，造成严重损失。",
   "tech_briefs": [
     {
-      "title": "微软推出的初学者AI课程",
+      "title": "微软推出AI初学者项目",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "source": "GitHub Trending",
-      "summary": "微软的AI For Beginners项目方案提供了为期12周、24节课的课程内容，旨在让任何人都能掌握基础的人工智能知识。适合初学者的公开课设置，使更多人能够进入这一前沿领域。",
+      "summary": "微软的《AI for Beginners》项目旨在用12周的时间，通过24个课程为新手提供AI基础知识，帮助他们更快融入这一领域。（多家报道）",
       "importance": 8
     },
     {
-      "title": "Gemini Robotics ER 2：赋能机器人的新技术",
+      "title": "DeepMind推出Gemini Robotics ER 2",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "source": "DeepMind Blog",
-      "summary": "Gemini Robotics ER 2技术通过视频理解和任务协调来增强机器人的合作能力，使其能更有效地解决实际问题。这代表了机器人智能领域的一次重要进展，有助于实现更多实际应用。",
-      "importance": 7
+      "summary": "Gemini Robotics ER 2通过提升视频理解能力、任务协调和多个机器人之间的合作，助力机器人处理更复杂的实际任务，显著增强了机器人技术的应用潜力。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "开放AI在AI责任规制方面的努力",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News",
-      "summary": "开放AI公布了在欧洲推进负责任AI的实践，强调安全性、透明度和流程的重要性，以支持即将推进的欧盟AI法规。这一举措帮助强化公众对AI技术治理的信心。",
-      "importance": 6
+      "title": "LLMs存在基本安全缺陷",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "source": "MIT Tech Review AI",
+      "summary": "研究人员指出，大型语言模型存在基本缺陷，使其面临安全攻击的风险，无法实现完全安全。这项研究提出了当前AI模型的脆弱性和改进的必要性。（多家报道）",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "欧盟重写合并规则以应对美国竞争",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/can-mergers-close-europe-s-tech-gap-video",
-      "source": "Bloomberg Markets",
-      "summary": "为促进欧洲商业“冠军”形成，欧盟正在首次重写其合并规定，以便更好地与美国科技巨头竞争。这一改变可能会促进欧洲创业环境的整体改善。",
-      "importance": 9
+      "title": "美国发现巨量钨矿藏遭NASA阻碍",
+      "url": "https://www.ft.com/content/6abf82dc-6b66-4fc7-8bf7-aa196dbd8e97?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "美国一矿业公司发现可能是全国最大的钨矿藏，然而因NASA的限制措施，开发进展面临阻碍。钨是防务领域的重要金属，事态引发关注。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "日本财政刺激措施时机受到质疑",
-      "url": "https://www.economist.com/finance-and-economics/2026/07/30/japan-pursues-an-ill-timed-fiscal-stimulus",
+      "title": "油价因地缘紧张局势再度攀升",
+      "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
       "source": "The Economist Finance",
-      "summary": "日本经济事务大臣的财政刺激计划在当前条件下引发批评，尤其是在经济复苏乏力的背景下，政策的有效性受到质疑，可能会影响长期增长前景。",
+      "summary": "中东地区局势紧张使得油价面临上涨压力，分析师预计油价可能很快重返三位数水平，对全球经济构成挑战。（多家报道）",
       "importance": 7
     },
     {
-      "title": "高油价将继续困扰全球市场",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/exxon-chevron-warn-fuel-prices-to-endure-as-war-knocks-refining",
-      "source": "Bloomberg Markets",
-      "summary": "尽管预计未来油价可能会下降，但由于战争影响全球的炼油能力，高燃料价格在可预见的未来仍将存在，给消费者和企业带来压力。",
-      "importance": 8
+      "title": "福克斯报告: 英国央行需调整货币政策",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "最新经济报告指出，英国央行应考虑调整货币政策以应对国内经济不确定性，从而为民众提供稳定的未来规划环境。（多家报道）",
+      "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "乌克兰基辅遭袭致9人遇难",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "summary": "俄罗斯对乌克兰基辅的导弹袭击造成了9人遇难，紧张局势再度升级，反映出战争的实际影响与对平民的威胁，国际社会对此表示高度关注。",
-      "importance": 9
+      "title": "西班牙首相呼吁EU应对边境危机",
+      "url": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+      "source": "The Guardian",
+      "summary": "西班牙首相佩德罗·桑切斯要求紧急召开欧盟会议，批评部分国家对大型移民潮的反应自私和不合法，表示需共同应对危机。（多家报道）",
+      "importance": 8
     },
     {
-      "title": "西班牙和摩洛哥边界危机加深",
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916271/ceuta-spain-border-morocco",
-      "source": "NPR World",
-      "summary": "西班牙与摩洛哥的边界危机导致67人遇难，随着局势的恶化，西班牙外长重申“申根区的完整性绝对有保障”，努力缓解紧张关系。",
-      "importance": 8
+      "title": "以色列空袭加沙医院，伤害严重",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "summary": "以色列对加沙的Al-Aqsa Martyrs Hospital进行空袭，破坏了医院的医疗物资仓库，造成严重后果，引发国际社会的谴责。（多家报道）",
+      "importance": 7
     }
   ],
-  "editor_note": "今天的报道突出了全球面临的多重危机与科技进步，提醒我们关注政治、经济与社会各方面的变化与挑战。",
+  "editor_note": "今天的新闻涉及多个领域，科技的快速发展和金融市场的波动密切相关，值得投资者与读者密切关注。",
   "keywords": [
-    "人工智能",
-    "乌克兰",
-    "科技创新",
-    "财政政策",
-    "欧盟",
-    "经济竞争",
-    "边界危机",
-    "国际关系"
+    "AI",
+    "金融",
+    "西班牙",
+    "边境危机",
+    "油价"
   ],
   "trading": {
-    "market_overview": "当前美股市场中，整体表现为温和波动。美股（如SPY）短期内显示出向下调整的压力，然而，MSFT表现强劲，近期增长显著。加密市场中的恐慌贪婪指数为27，表明市场处于恐慌状态，且整体加密市值为2.25T USD，主导率方面，BTC占比56.3%、ETH占比10%，潜在显示出市场的分化局面。商品方面，WTI原油在近期显示出良好的回调趋势，价格为84.67并在上升趋势中。整体来看，市场各类资产中存在不同的动态表现，各标的的技术指标状态参差不齐。",
+    "market_overview": "当前，加密市场显示出恐慌状态，恐慌贪婪指数为 27，显示出市场对未来走势的担忧。加密总市值为 2.25T 美元，24 小时变化为 +0.45%，其中 BTC 的主导率达到 56.3%。在美股方面，部分股票如 Alphabet 和 Microsoft 显示出不同的技术信号，整体市场则显得混沌而不明朗，短期内面临调整风险。从商品和外汇市场来看，WTI 原油期货在短期内仍维持多头趋势，而美元指数 DXY 则处于中性状态，显示出市场情绪复杂。",
     "watchlist": [
       {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF (SPY)",
+        "symbol": "AAPL",
+        "display_name": "Apple",
         "stance": "偏下行",
-        "rationale": "当前价格为747.03，RSI为53，表现出正常状态，但股价接近52周高点，且MACD为-0.822，显示出潜在的弱势，可能在回调中。"
+        "rationale": "Apple 的当前价格为 308.91，RSI 值为 43.2，显示出相对疲弱的动能，而 MACD 死叉的信号进一步表明下行压力。此时 SMA20（324.37）高于 SMA50（309.5），显示出潜在的反转信号。"
       },
       {
         "symbol": "MSFT",
         "display_name": "Microsoft",
-        "stance": "偏上行",
-        "rationale": "当前价格为464.72，近期表现良好，五日涨幅达21.75%。RSI为74.5，显示超买区域，但由于MACD为9.3003，显示出强劲的上行动能，近期走势偏向上行。"
+        "stance": "偏下行",
+        "rationale": "Microsoft 当前价格为 464.72，RSI 超买状态为 74.5，同时出现了较大的涨幅（5 日 +21.75%），但价位仍然低于 52 周高点，表明短期内可能出现调整。"
       },
       {
         "symbol": "GOOGL",
-        "display_name": "Alphabet (GOOGL)",
+        "display_name": "Alphabet",
+        "stance": "偏上行",
+        "rationale": "Alphabet 的当前价格为 356.13，近期 MACD 金叉信号出现，并且 RSI 为 54.3，显示出适度的动能回升迹象，尽管接近 52 周高位 (-12.84%)，仍然有上行的可能性。"
+      },
+      {
+        "symbol": "^TNX",
+        "display_name": "10Y 美债收益率 (%)",
+        "stance": "偏上行",
+        "rationale": "^TNX 当前价格为 4.75，接近 52 周高点，并且 SMA20（4.6）和 SMA50（4.53）显示出多头排列，RSI 值为 66.6，出现了强劲的上行动能。"
+      },
+      {
+        "symbol": "BTC-USD",
+        "display_name": "Bitcoin",
         "stance": "中性",
-        "rationale": "当前价格为356.13，RSI为54.3，属于正常状态，并且MACD金叉现象表明处于一个潜在的反弹阶段，结合近期的涨幅，走势呈现出中性信号。"
+        "rationale": "Bitcoin 当前价格为 63049，RSI 值为 45.2，处于正常范围。48.3 的 RSI 及较低的 MACD 值表明没有明显的趋势倾向，当前行情面临不确定性。"
       }
     ],
-    "risk_caveat": "本报告仅供技术指标解读参考，过去走势不代表未来表现。请根据个人投资决策考虑多种因素。",
+    "risk_caveat": "过去走势不代表未来表现，本报告仅供技术指标解读参考。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -322,18 +331,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63028.32,
-        "pct1Day": 0.34160342217091544,
-        "pct5Day": -1.0931024679202734,
-        "pct52WeekHigh": -50.056034929852736,
-        "pct52WeekLow": 9.144170183137469,
-        "sma20": 64389.3466796875,
-        "sma50": 63375.295390625,
-        "sma200": 71293.74095703124,
-        "rsi14": 45.09621850592228,
-        "macd": -37.162246702871926,
-        "macdSignal": 184.58101290281058,
-        "macdHistogram": -221.7432596056825,
+        "currentPrice": 63049,
+        "pct1Day": 0.3745261521242209,
+        "pct5Day": -1.0606504742614953,
+        "pct52WeekHigh": -50.0396479914471,
+        "pct52WeekLow": 9.17998109225558,
+        "sma20": 64390.3806640625,
+        "sma50": 63375.708984375,
+        "sma200": 71293.84435546875,
+        "rsi14": 45.197357018841245,
+        "macd": -35.51258502196288,
+        "macdSignal": 184.91094523899238,
+        "macdHistogram": -220.42353026095526,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -349,18 +358,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1869.06,
-        "pct1Day": 0.4684103377214889,
-        "pct5Day": -1.1400280967614373,
-        "pct52WeekHigh": -62.26966612855397,
-        "pct52WeekLow": 24.06590960790922,
-        "sma20": 1885.6204956054687,
-        "sma50": 1777.1688208007813,
-        "sma200": 2102.702163696289,
-        "rsi14": 51.57467181044533,
-        "macd": 28.860070960134863,
-        "macdSignal": 36.388397338068884,
-        "macdHistogram": -7.528326377934022,
+        "currentPrice": 1872.75,
+        "pct1Day": 0.6667605427155489,
+        "pct5Day": -0.9448533584850011,
+        "pct52WeekHigh": -62.19517684945879,
+        "pct52WeekLow": 24.31084728056456,
+        "sma20": 1885.8049926757812,
+        "sma50": 1777.2426196289061,
+        "sma200": 2102.7206134033204,
+        "rsi14": 51.974364301300874,
+        "macd": 29.154425260348262,
+        "macdSignal": 36.44726819811156,
+        "macdHistogram": -7.292842937763297,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -377,18 +386,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 72.89,
-        "pct1Day": 0.13782107350947165,
-        "pct5Day": -1.688446910449972,
-        "pct52WeekHigh": -71.2136057871355,
-        "pct52WeekLow": 20.649404648403564,
-        "sma20": 75.4075366973877,
-        "sma50": 74.90261428833008,
-        "sma200": 86.08463268280029,
-        "rsi14": 42.25598597700731,
-        "macd": -0.7447299234114979,
-        "macdSignal": -0.3263683262113649,
-        "macdHistogram": -0.418361597200133,
+        "currentPrice": 72.92,
+        "pct1Day": 0.1790357069599504,
+        "pct5Day": -1.6479839307176822,
+        "pct52WeekHigh": -71.20175790914968,
+        "pct52WeekLow": 20.699061420792813,
+        "sma20": 75.40903663635254,
+        "sma50": 74.90321426391601,
+        "sma200": 86.08478267669678,
+        "rsi14": 42.361716583772825,
+        "macd": -0.7423368583963565,
+        "macdSignal": -0.32588971320833665,
+        "macdHistogram": -0.4164471451880199,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -680,13 +689,13 @@
       "timestamp": "2026-08-01T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2247650022729.9775,
-      "total24hVolumeUsd": 46184759165.41809,
-      "marketCapChangePct24h": 0.40512282296428176,
-      "btcDominance": 56.261540508579046,
-      "ethDominance": 10.034105497735393,
+      "totalMarketCapUsd": 2248612822941.163,
+      "total24hVolumeUsd": 40053719012.58228,
+      "marketCapChangePct24h": 0.45098332737770486,
+      "btcDominance": 56.26977369891455,
+      "ethDominance": 10.048346261560944,
       "activeCryptocurrencies": 18095
     },
-    "generated_at": "2026-08-01T14:10:09.740Z"
+    "generated_at": "2026-08-01T15:13:11.741Z"
   }
 }
