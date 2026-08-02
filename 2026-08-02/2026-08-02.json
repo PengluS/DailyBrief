@@ -1,102 +1,112 @@
 {
-  "hero_headline": "特朗普取消对伊朗的军事行动",
-  "daily_overview": "今天的资讯涉及多个领域。科技方面，OpenAI 宣布了多项 AI 进展，包括新的数学研究和安全实践，Gemini Robotics 推出新产品以提高机器人协作能力。财经领域，油价因地缘政治紧张局势而波动，分析预计将带来更高的价格，同时美国与伊朗的紧张关系也导致市场关注周边影响。时政方面，特朗普称取消对伊朗的军事打击要求快速达成协议，而埃及和南亚部分地区出现宗教间暴力事件，社会局势紧张。",
+  "hero_headline": "特朗普称取消对伊朗的打击计划",
+  "daily_overview": "今日科技领域，OpenAI 和 DeepMind 推出新型 AI 和机器人技术，助力更复杂任务执行。在财经方面，油价波动引发市场关注，特拉华州的经济政策和全球供应链也面临挑战。而在时政方面，特朗普突宣布取消对伊朗的袭击计划，并主张通过谈判解决冲突，这引发了各方反响，预计将影响中东局势的发展。",
   "tech_briefs": [
     {
-      "title": "OpenAI 加强负责任 AI 的全球治理",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News",
-      "summary": "OpenAI 分享了其在安全、透明和可追溯性方面的实践，以支持欧洲的负责任 AI 治理。这些工作与即将推行的欧盟 AI 法案密切相关。（多家报道）",
+      "title": "微软推出《AI初学者》项目",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "source": "GitHub Trending",
+      "summary": "微软推出《AI初学者》项目，包含12周24课时的课程，旨在使大众更易接触和学习人工智能知识。该项目涵盖了核心概念和技术，适合各类学习者。 （多家报道）",
       "importance": 8
     },
     {
-      "title": "Gemini Robotics 推出新产品提升机器人协作能力",
+      "title": "Gemini Robotics ER 2 提升机器人智能",
       "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
       "source": "DeepMind Blog",
-      "summary": "Gemini Robotics ER 2 通过视频理解和多机器人协作的任务编排来提升机器人能力，这是机器人技术的一项重要进步。（多家报道）",
-      "importance": 7
+      "summary": "Gemini Robotics ER 2 使机器人具备视频理解和任务协作能力，推动机器人在现实世界的应用。这一技术将提升机器人在多种环境下的协作能力和任务处理能力。 （多家报道）",
+      "importance": 9
     },
     {
-      "title": "大型语言模型面临安全隐患",
+      "title": "大语言模型面临安全隐患",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "source": "MIT Tech Review AI",
-      "summary": "研究表明，大型语言模型由于其工作原理的根本缺陷，无法完全防范黑客攻击。这一发现引发了对其未来应用安全性的讨论。（多家报道）",
-      "importance": 8
+      "summary": "研究指出，由于大语言模型的基本工作原理存在缺陷，它们无法做到完全安全，容易受到攻击。该研究由国际会议上提交的论文讨论，强调了当前AI安全问题的严重性。 （多家报道）",
+      "importance": 7
     }
   ],
   "finance_briefs": [
     {
-      "title": "油价因地缘政治紧张局势出现波动",
+      "title": "匈牙利因干旱停用核电",
+      "url": "https://www.ft.com/content/a4539dc2-dcb0-4b57-9a78-c32cb1f9eda1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "匈牙利由于多瑙河水位下降，首次关闭核电站以防止过热，给该国电力供应带来压力。这一紧急措施引发了对能源政策的进一步讨论。 （多家报道）",
+      "importance": 8
+    },
+    {
+      "title": "油价波动对市场的影响",
       "url": "https://www.economist.com/finance-and-economics/2026/07/30/oil-prices-remain-highly-flammable",
       "source": "The Economist Finance",
-      "summary": "随着海湾地区紧张局势加剧，油价可能迅速回升到三位数水平，投资者需密切关注地缘政治的变化。（多家报道）",
+      "summary": "由于海湾地区的紧张局势，油价可能迅速回升至三位数，引发市场关注。分析师指出，这种波动对供应链和经济复苏将产生深远影响。 （多家报道）",
       "importance": 9
     },
     {
-      "title": "SpaceX IPO 面临首次现实检验",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-02/spacex-ipo-faces-first-reality-check-video",
-      "source": "Bloomberg Markets",
-      "summary": "SpaceX 首次公然财报发布将为投资者提供评估其长期增长战略和项目进展的机会，受到了市场高度关注。（多家报道）",
-      "importance": 7
-    },
-    {
-      "title": "特朗普称希望对伊朗采取迅速达成的协议",
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-      "source": "NPR World",
-      "summary": "特朗普表示，伊朗和其他中东国家要求美国推迟攻击，以便迅速达成协议，这一动态对市场产生潜在影响。（多家报道）",
-      "importance": 8
+      "title": "特朗普取消对伊朗的军事行动",
+      "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+      "source": "NYT World",
+      "summary": "特朗普称由于各方达成初步协议，决定取消对伊朗的军事打击计划。此举可能改变当前的中东局势，并引发外界对其外交政策的讨论。 （多家报道）",
+      "importance": 10
     }
   ],
   "politics_briefs": [
     {
-      "title": "特朗普宣布取消对伊朗军事行动",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "title": "以色列空袭加沙造成伤亡",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "特朗普表示，美国将取消对伊朗的攻击计划，前提是各方能够迅速达成协议。(多家报道)",
-      "importance": 9
+      "summary": "以色列在加沙进行空袭，目标是军事人员，导致至少8人遇难，引发国际社会对该地区局势的担忧。 （多家报道）",
+      "importance": 8
     },
     {
-      "title": "南亚地区宗教间暴力事件升级",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/communal-violence-between-hindus-and-muslims-grips-southern-nepal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "summary": "南亚多个城镇因印度教和穆斯林社区之间的宗教冲突而紧张，情况令人担忧。（多家报道）",
-      "importance": 7
+      "title": "特朗普称有望与伊朗达成协议",
+      "url": "https://npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "source": "NPR World",
+      "summary": "特朗普表示，正在与伊朗及其他中东国家就协议进行磋商，并且会在达成协议后取消对该国的攻击计划。这一表态引发诸多反响。 （多家报道）",
+      "importance": 9
     }
   ],
-  "editor_note": "今日新闻涵盖了技术突破、财务危机及时政变化，让我们更加关注世界动态和潜在风险。",
+  "editor_note": "今日动态表明，科技在推动经济和社会变革的过程中，正面临新的挑战与机遇，特别是在安全和治理方面。",
   "keywords": [
-    "特朗普",
-    "伊朗",
     "AI",
     "机器人",
+    "经济",
     "油价",
-    "宗教暴力",
-    "投资",
-    "安全"
+    "特朗普",
+    "中东"
   ],
   "trading": {
-    "market_overview": "当前市场整体呈现混合状态。美股如S&P 500 ETF（SPY）显示出一定强势，近期小幅上涨0.72%。然而，加密市场则显露出恐慌情绪，恐慌贪婪指数为27，暗示市场担忧情绪较重，BTC主导率为56.3%。商品市场方面，WTI原油期货展现出偏上行的趋势，符合多头排列的信号，因此整体市场信号表现不一，需谨慎对待各类资产的风险和机会。",
+    "market_overview": "当前市场整体表现中性。美股方面，$SPY 和 $GOOGL 显示出略微的上行潜力，分别有正常的 RSI 和金叉信号；加密市场则显示出恐慌情绪，加密恐慌贪婪指数为 27，整体市值微幅增长，前景尚不明朗；中概股如 $JD 显示超买，有可能面临调整；商品方面，黄金和WTI原油期货均处于略微看跌状态。整体来看，市场情绪复杂，需关注下一步的趋势变化。",
     "watchlist": [
       {
         "symbol": "GOOGL",
         "display_name": "Alphabet",
         "stance": "偏上行",
-        "rationale": "技术指标显示，GOOGL 当前价格356.13接近50日均线358.74，RSI14为54.3，处于正常状态。并且最近触发了MACD金叉，表明潜在的上行机会。"
+        "rationale": "当前价格为 356.13，RSI 为 54.3，显示正常，且发生了 MACD 金叉（MACD -6.1429 与信号线 -6.6253 交叉）。这表明短期内可能出现上行趋势。"
       },
       {
-        "symbol": "CL=F",
-        "display_name": "WTI 原油期货",
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
         "stance": "偏上行",
-        "rationale": "WTI原油期货当前价格为84.67，RSI14为54.6，MACD值为1.4533且接近多头排列。市场对油价的看法向好，显示出一定的上涨动能。"
+        "rationale": "当前价格 747.03，上涨幅度为 0.72%，且 RSI 为 53，处于正常状态，MACD 相对信号线也处于较低负值区域，有上行趋势的潜力。"
       },
       {
         "symbol": "MSFT",
         "display_name": "Microsoft",
+        "stance": "偏下行",
+        "rationale": "当前价格为 464.72，RSI 为 74.5，已进入超买区域，且 MACD 为 9.3003，显示出短期市场可能会迎来回调，存在下行风险。"
+      },
+      {
+        "symbol": "AAPL",
+        "display_name": "Apple",
+        "stance": "偏下行",
+        "rationale": "当前价格 308.91，且 MACD 近期出现死叉（6.891 与 8.2562），RSI 处于 43.2，市场信号表明可能下行。"
+      },
+      {
+        "symbol": "JD",
+        "display_name": "京东 (JD)",
         "stance": "中性",
-        "rationale": "Microsoft目前价格464.72，RSI14达74.5，处于超买区，短期可能面临调整风险。同时，52周高点较远，技术上尚无明显趋势。"
+        "rationale": "当前价格为 33.01，RSI 达到 79.1，处于超买状态，市场可能出现调整，然而近期涨幅为 2.17%，反映出一定的上行动力，故可视为中性。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，且仅供技术指标解读参考。投资需谨慎，市场变化迅速。",
+    "risk_caveat": "过去走势不代表未来表现，以上分析仅供技术指标解读参考，投资者应谨慎决策。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -322,18 +332,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 63003.62,
-        "pct1Day": 0.38286643584747426,
-        "pct5Day": -1.3585795521993047,
-        "pct52WeekHigh": -50.07560733694263,
-        "pct52WeekLow": 9.101397965767195,
-        "sma20": 64414.3216796875,
-        "sma50": 63341.641328125,
-        "sma200": 71122.787421875,
-        "rsi14": 45.109789395847706,
-        "macd": -130.58323422916146,
-        "macdSignal": 118.16582729266233,
-        "macdHistogram": -248.7490615218238,
+        "currentPrice": 63063.4,
+        "pct1Day": 0.47811314953685985,
+        "pct5Day": -1.2649851823143772,
+        "pct52WeekHigh": -50.0282373573542,
+        "pct52WeekLow": 9.204917121815583,
+        "sma20": 64417.310546875,
+        "sma50": 63342.836875,
+        "sma200": 71123.08630859375,
+        "rsi14": 45.42072300916897,
+        "macd": -125.81467119496665,
+        "macdSignal": 119.11953989950129,
+        "macdHistogram": -244.93421109446794,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -349,18 +359,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1852.93,
-        "pct1Day": 0.5160130155871611,
-        "pct5Day": -3.490639816920133,
-        "pct52WeekHigh": -62.595279156143455,
-        "pct52WeekLow": 22.99521999817194,
-        "sma20": 1888.3098449707031,
-        "sma50": 1780.110283203125,
-        "sma200": 2095.064989013672,
-        "rsi14": 49.84463573131938,
-        "macd": 22.452841535383868,
-        "macdSignal": 33.273999407491424,
-        "macdHistogram": -10.821157872107555,
+        "currentPrice": 1857,
+        "pct1Day": 0.7367985676444073,
+        "pct5Day": -3.278654962691895,
+        "pct52WeekHigh": -62.51311889437723,
+        "pct52WeekLow": 23.265381604596655,
+        "sma20": 1888.5133422851563,
+        "sma50": 1780.1916821289062,
+        "sma200": 2095.085338745117,
+        "rsi14": 50.316164054470725,
+        "macd": 22.777509615423014,
+        "macdSignal": 33.33893302349925,
+        "macdHistogram": -10.561423408076237,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -377,18 +387,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 72.99,
-        "pct1Day": 1.563626785985937,
-        "pct5Day": -0.9621921238871064,
-        "pct52WeekHigh": -71.17411286051612,
-        "pct52WeekLow": 20.814967218243225,
-        "sma20": 75.26278114318848,
-        "sma50": 74.96448410034179,
-        "sma200": 85.71070003509521,
-        "rsi14": 43.61931593147502,
-        "macd": -0.871003996676734,
-        "macdSignal": -0.44836174135431844,
-        "macdHistogram": -0.42264225532241556,
+        "currentPrice": 73.13,
+        "pct1Day": 1.7584330299924873,
+        "pct5Day": -0.7722305798035899,
+        "pct52WeekHigh": -71.11882276324899,
+        "pct52WeekLow": 21.046698899440024,
+        "sma20": 75.2697811126709,
+        "sma50": 74.96728408813476,
+        "sma200": 85.71140003204346,
+        "rsi14": 44.07786624310223,
+        "macd": -0.8598359541976635,
+        "macdSignal": -0.44612813285850433,
+        "macdHistogram": -0.4137078213391591,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -680,13 +690,13 @@
       "timestamp": "2026-08-02T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2247016243929.6104,
-      "total24hVolumeUsd": 39258044585.474106,
-      "marketCapChangePct24h": -0.044560341142496046,
-      "btcDominance": 56.27008854760865,
-      "ethDominance": 9.943309890003905,
+      "totalMarketCapUsd": 2248368090725.2036,
+      "total24hVolumeUsd": 39253934187.591576,
+      "marketCapChangePct24h": 0.116949758230188,
+      "btcDominance": 56.24276251619166,
+      "ethDominance": 9.955526839595684,
       "activeCryptocurrencies": 18108
     },
-    "generated_at": "2026-08-02T14:12:02.869Z"
+    "generated_at": "2026-08-02T15:13:35.075Z"
   }
 }
