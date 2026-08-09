@@ -1,113 +1,102 @@
 {
-  "hero_headline": "AI在各领域持续突破 业务前景乐观",
-  "daily_overview": "科技领域，AI技术不断进步，DeepMind推出WeatherNext模型，在气旋预测方面实现突破，OpenAI发布新一代GPT-5.6，赋能编程和客户端服务。在财经方面，美国的食品安全问题加剧，导致餐饮行业需求下降，同时，亚洲汽车制造商因油价上涨而受益，销售大幅增长。政治方面，以色列拒绝特朗普在加沙的和平计划，表示在哈马斯未解除武装前不会撤军，而中国的电动车销售在欧洲创下新高，也引发了对关税的重新审视。",
+  "hero_headline": "AI 多项技术突破引关注",
+  "daily_overview": "今日科技领域，AI模型在气象预测及教育辅导方面取得显著进展，使得相关技术应用潜力倍增。财经方面，特斯拉和丰田等汽车制造商在高油价背景下实现销量上涨，推动市场信心回暖。同时，时政层面，巴以冲突形势依旧严峻，以色列拒绝美国提案，局势紧张。整体来看，科技进步与时局变化成为今日关注的焦点。",
   "tech_briefs": [
     {
-      "title": "DeepMind推出WeatherNext气旋预测模型",
+      "title": "WeatherNext：AI气象预测模型取得新突破",
       "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
       "source": "DeepMind Blog",
-      "summary": "WeatherNext AI模型在气旋预测方面取得显著突破，将提升气候变化应对能力。（多家报道）",
-      "importance": 9
-    },
-    {
-      "title": "OpenAI发布改进版GPT-5.6",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "OpenAI News",
-      "summary": "GPT-5.6 Sol提供更高的准确性和一致性，同时免费用户将获得无限的使用机会。这将进一步推动AI在各个行业的应用。（多家报道）",
+      "summary": "WeatherNext模型通过机器学习新方法成功提高了气旋预报的准确性，有望在自然灾害预测方面发挥重要作用。（多家报道）",
       "importance": 8
     },
     {
-      "title": "PrimeIntellect-ai开发自我改善的RLM代理",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "source": "GitHub Trending",
-      "summary": "该项目致力于自动化编程工作流和长期自主任务，具备自我提升的能力，特别适合企业级应用。（多家报道）",
+      "title": "Gemini Robotics ER 2 推动机器人协作",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "DeepMind Blog",
+      "summary": "Gemini Robotics ER 2 通过视频理解和多机器人协作，显著提升机器人在复杂任务中的表现，代表了机器人技术的新进展。（多家报道）",
       "importance": 7
+    },
+    {
+      "title": "OpenAI 提升 GPT-5.6 能力",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "OpenAI News",
+      "summary": "OpenAI 发布改进版 GPT-5.6 Sol，提高了准确性和一致性，预计将推动多个行业的智能应用发展。（多家报道）",
+      "importance": 8
     }
   ],
   "finance_briefs": [
     {
-      "title": "食品安全问题加剧影响餐饮需求",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-09/food-safety-fears-rattle-restaurants-and-diners-video",
-      "source": "Bloomberg Markets",
-      "summary": "由于食品安全问题上升，餐饮行业遭遇需求下降，消费者对新鲜食材保持警惕。（多家报道）",
+      "title": "美国高油价推动混合动力车需求",
+      "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "随着高油价的影响，7月份美国混合动力车销量大幅增长，亚洲汽车制造商如本田和丰田受益明显，市场前景乐观。（多家报道）",
       "importance": 8
     },
     {
-      "title": "亚洲汽车制造商受益于油价上涨",
-      "url": "https://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "summary": "随着油价高涨，亚洲汽车制造商的混合动力车型需求激增，销售量在7月份增长了五分之一。(多家报道)",
+      "title": "美国失业率意外下降影响经济前景",
+      "url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "summary": "7月份美国新增就业岗位下降23000，分析师对经济增长的信心受到考验，使得市场对央行政策的预测面临挑战。（多家报道）",
       "importance": 7
     },
     {
-      "title": "美国国债收益率波动引发市场关注",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/behind-bessent-moves-wall-street-sees-sign-of-bond-market-angst",
-      "source": "Bloomberg Markets",
-      "summary": "华尔街交易员称，财政部长Scott Bessent发出信号，意在防止国债收益率上升，这在市场上引起了广泛关注。（多家报道）",
+      "title": "土耳其网络法案扩大总统权力",
+      "url": "https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "summary": "新法案将网络监管权力集中于总统，加剧社会媒体平台的担忧，可能影响投资者信心。（多家报道）",
       "importance": 6
     }
   ],
   "politics_briefs": [
     {
-      "title": "以色列拒绝特朗普加沙计划",
+      "title": "以色列拒特朗普加沙15点计划",
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "summary": "以色列总理表示，除非哈马斯解除武装，否则不会支持美国在加沙的15点计划。（多家报道）",
-      "importance": 8
+      "summary": "以色列总理内塔尼亚胡拒绝特朗普的加沙计划，强调在哈马斯不解除武装前不会采取任何撤军措施，局势依然紧张。（多家报道）",
+      "importance": 9
     },
     {
-      "title": "中国电动车在欧洲销量创新高",
-      "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
-      "source": "The Guardian",
-      "summary": "随着需求强劲，中国制电动车在欧洲市场的销量达到新高，引发了对关税合法性的审查。（多家报道）",
+      "title": "厄瓜多尔前部长因总统候选人遇刺被控",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "summary": "厄瓜多尔检察机关对前部长及他人提出指控，称其与总统候选人费尔南多·比利恩西西奥的谋杀案有间接关联，深入调查正在进行中。（多家报道）",
       "importance": 7
     }
   ],
-  "editor_note": "在科技、财经和政治领域，今天的新闻呈现出多样化的趋势，显示出各行业面临的挑战和机遇。",
+  "editor_note": "今日新闻涵盖了科技、财经与时政多方面的重磅消息，强调了AI技术进步对各行各业的深远影响，同时也展现出全球政治形势的复杂性。",
   "keywords": [
-    "AI",
-    "科技",
+    "AI技术",
     "财经",
     "以色列",
-    "电动车",
-    "食品安全",
-    "预算"
+    "美国",
+    "汽车销售",
+    "气象预测",
+    "厄瓜多尔",
+    "机器人"
   ],
   "trading": {
-    "market_overview": "当前美股市场表现强劲，S&P 500 ETF (SPY)和Nvidia (NVDA)均显示出上行趋势。同样，加密货币市场总市值为2.31万亿美元，以Bitcoin为代表的数字货币提供了一定的动能，但市场整体仍显得谨慎，恐慌贪婪指数已降至31，显示市场情绪偏向恐慌。",
+    "market_overview": "目前，美股整体表现略显强势，标普500 ETF（SPY）和纳斯达克100 ETF（QQQ）均出现金叉迹象，表明短期趋势积极。相比之下，欧元 / 美元（EUR/USD）和其他大宗商品则显示出波动性较大的一面。加密市场方面，总市值为 2.31 万亿美元，主导率方面比特币占比 56.7%。整个市场的恐慌贪婪指数在 31，处于恐慌区间，这可能影响加密领域的短期表现。",
     "watchlist": [
-      {
-        "symbol": "SPY",
-        "display_name": "S&P 500 ETF",
-        "stance": "偏上行",
-        "rationale": "当前价格为773.26，RSI为66，处于正常状态，MACD显示金叉，且价格接近52周高点，技术指标显示出上行的趋势。"
-      },
       {
         "symbol": "NVDA",
         "display_name": "Nvidia",
         "stance": "偏上行",
-        "rationale": "当前价格223.96，MACD显示金叉，短期均线表现出多头排列，RSI为64.4，表明市场有上行动能。"
+        "rationale": "Nvidia 当前价格为 223.96，RSI 指标在 64.4，处于正常范围。MACD 刚刚出现金叉，表明短期趋势向好，买盘动能增强。"
+      },
+      {
+        "symbol": "SPY",
+        "display_name": "S&P 500 ETF",
+        "stance": "偏上行",
+        "rationale": "SPY 当前价格为 773.26，RSI 指标为 66，接近超买状态，且出现 MACD 金叉，表明短期市场表现积极。"
       },
       {
         "symbol": "MSFT",
         "display_name": "Microsoft",
-        "stance": "中性",
-        "rationale": "当前价格为499.99，尽管RSI为78.1处于超买状态，但价格在多日内上涨明显，且技术信号显示多头排列，表明尚有一定动能。"
-      },
-      {
-        "symbol": "BTC-USD",
-        "display_name": "Bitcoin",
-        "stance": "中性",
-        "rationale": "当前价格65175.33，RSI为56.1，MACD显示金叉，而加密货币市场处于恐慌状态，这可能限制进一步上行。"
-      },
-      {
-        "symbol": "USDCNY=X",
-        "display_name": "美元 / 人民币",
         "stance": "偏下行",
-        "rationale": "当前价格为6.75，接近52周低点，MACD显示死叉，RSI为32.3，表明资产表现出下行趋势。"
+        "rationale": "Microsoft 当前价格为 499.99，RSI 超买区间为 78.1，MACD 表现良好，但由于高波动和当前超买状态，风险增加。"
       }
     ],
-    "risk_caveat": "过去走势不代表未来表现，仅供技术指标解读参考。",
+    "risk_caveat": "过去走势不代表未来表现，市场行情瞬息万变。此报告仅供技术指标解读参考，投资需谨慎。",
     "tickers": [
       {
         "symbol": "SPY",
@@ -350,18 +339,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 65175.33,
-        "pct1Day": 0.4169845205710323,
-        "pct5Day": 1.7474985858310914,
-        "pct52WeekHigh": -48.35473315875591,
-        "pct52WeekLow": 12.862080240471983,
-        "sma20": 64401.341015625,
-        "sma50": 63324.02296875,
-        "sma200": 70131.60208984376,
-        "rsi14": 56.102046997888564,
-        "macd": 185.9480878053073,
-        "macdSignal": 77.1006644964587,
-        "macdHistogram": 108.84742330884859,
+        "currentPrice": 65187.55,
+        "pct1Day": 0.43581212836130356,
+        "pct5Day": 1.7665756573659646,
+        "pct52WeekHigh": -48.34504996787986,
+        "pct52WeekLow": 12.883241232223597,
+        "sma20": 64401.9521484375,
+        "sma50": 63324.267421875,
+        "sma200": 70131.663203125,
+        "rsi14": 56.16543286768852,
+        "macd": 186.92311451470596,
+        "macdSignal": 77.29566983833844,
+        "macdHistogram": 109.62744467636752,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -378,18 +367,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 1923.05,
-        "pct1Day": 0.39242556388121486,
-        "pct5Day": 2.9257412394255047,
-        "pct52WeekHigh": -61.17978098537002,
-        "pct52WeekLow": 27.649699566354112,
-        "sma20": 1896.7806213378906,
-        "sma50": 1802.0903784179689,
-        "sma200": 2050.129722900391,
-        "rsi14": 57.54686671598643,
-        "macd": 21.926369738913536,
-        "macdSignal": 23.42068247641036,
-        "macdHistogram": -1.4943127374968235,
+        "currentPrice": 1924.73,
+        "pct1Day": 0.48012961471053645,
+        "pct5Day": 3.01565842581288,
+        "pct52WeekHigh": -61.14586716724539,
+        "pct52WeekLow": 27.761215905124033,
+        "sma20": 1896.8646179199218,
+        "sma50": 1802.1239770507811,
+        "sma200": 2050.1381225585938,
+        "rsi14": 57.75160770282077,
+        "macd": 22.06038137976111,
+        "macdSignal": 23.447484804579876,
+        "macdHistogram": -1.3871034248187648,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": []
@@ -400,18 +389,18 @@
         "group": "crypto",
         "currency": "USD",
         "exchangeName": "CCC",
-        "currentPrice": 76.92,
-        "pct1Day": 1.2475127871696605,
-        "pct5Day": 4.343921872292969,
-        "pct52WeekHigh": -69.62204084437457,
-        "pct52WeekLow": 27.319964406025548,
-        "sma20": 74.55302658081055,
-        "sma50": 75.31874481201172,
-        "sma200": 83.52762783050537,
-        "rsi14": 57.09853013792023,
-        "macd": -0.2587655122818404,
-        "macdSignal": -0.5626747633190335,
-        "macdHistogram": 0.30390925103719313,
+        "currentPrice": 77.17,
+        "pct1Day": 1.5765803664311324,
+        "pct5Day": 4.683053183630376,
+        "pct52WeekHigh": -69.52330852782612,
+        "pct52WeekLow": 27.733770842602596,
+        "sma20": 74.56552658081054,
+        "sma50": 75.32374481201173,
+        "sma200": 83.52887783050537,
+        "rsi14": 57.76096286721655,
+        "macd": -0.23882249233881225,
+        "macdSignal": -0.558686159330428,
+        "macdHistogram": 0.3198636669916157,
         "trend": "neutral",
         "rsiState": "normal",
         "signals": [
@@ -571,18 +560,18 @@
         "group": "commodity-fx",
         "currency": "CNY",
         "exchangeName": "CCY",
-        "currentPrice": 6.7482,
-        "pct1Day": -0.008887519121924608,
-        "pct5Day": -0.03999158335666357,
-        "pct52WeekHigh": -6.156392106690404,
-        "pct52WeekLow": 0.16327257614439414,
-        "sma20": 6.763924980163575,
-        "sma50": 6.772719955444336,
-        "sma200": 6.897322483062744,
-        "rsi14": 32.30643687253777,
-        "macd": -0.00858461733398741,
-        "macdSignal": -0.00689885791694787,
-        "macdHistogram": -0.0016857594170395403,
+        "currentPrice": 6.7467,
+        "pct1Day": -0.03111369331968443,
+        "pct5Day": -0.06221084369645354,
+        "pct52WeekHigh": -6.177251804363854,
+        "pct52WeekLow": 0.14100813394288522,
+        "sma20": 6.763849973678589,
+        "sma50": 6.7726899528503415,
+        "sma200": 6.897314982414246,
+        "rsi14": 31.44644553942804,
+        "macd": -0.008704285800060774,
+        "macdSignal": -0.006922791610162542,
+        "macdHistogram": -0.0017814941898982315,
         "trend": "bearish",
         "rsiState": "normal",
         "signals": [
@@ -699,13 +688,13 @@
       "timestamp": "2026-08-09T00:00:00.000Z"
     },
     "crypto_global": {
-      "totalMarketCapUsd": 2309197243104.7866,
-      "total24hVolumeUsd": 32283150089.19181,
-      "marketCapChangePct24h": 0.23814410237760747,
-      "btcDominance": 56.6781323461624,
-      "ethDominance": 10.054631003343214,
-      "activeCryptocurrencies": 18283
+      "totalMarketCapUsd": 2309014402186.9824,
+      "total24hVolumeUsd": 32257151114.42986,
+      "marketCapChangePct24h": 0.23020730342231066,
+      "btcDominance": 56.6519453093848,
+      "ethDominance": 10.059512568767254,
+      "activeCryptocurrencies": 18284
     },
-    "generated_at": "2026-08-09T15:04:45.460Z"
+    "generated_at": "2026-08-09T15:41:47.230Z"
   }
 }
